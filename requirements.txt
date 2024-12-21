@@ -1,0 +1,9 @@
+pandas
+pandas
+numpy
+beautifulsoup4
+requests
+google-api-python-client
+logging
+dotenv
+youtube-transcript-api

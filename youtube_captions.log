@@ -1,0 +1,1351 @@
+2024-12-21 22:56:18,193 - INFO - Starting the captions extraction process.
+2024-12-21 22:56:18,207 - INFO - Loaded 456 videos from Movies.csv.
+2024-12-21 22:56:18,207 - INFO - Processing video 1/456: https://www.youtube.com/watch?v=AL2xUN_eP50
+2024-12-21 22:56:18,207 - INFO - Fetching captions for video ID: AL2xUN_eP50
+2024-12-21 22:56:18,818 - WARNING - Captions disabled for video ID: AL2xUN_eP50
+2024-12-21 22:56:18,819 - INFO - Processing video 2/456: https://www.youtube.com/watch?v=IEAfVDaf1hM
+2024-12-21 22:56:18,819 - INFO - Fetching captions for video ID: IEAfVDaf1hM
+2024-12-21 22:56:19,788 - WARNING - Captions disabled for video ID: IEAfVDaf1hM
+2024-12-21 22:56:19,788 - INFO - Processing video 3/456: https://www.youtube.com/watch?v=LjiXs0LdFZs
+2024-12-21 22:56:19,788 - INFO - Fetching captions for video ID: LjiXs0LdFZs
+2024-12-21 22:56:20,401 - WARNING - Captions disabled for video ID: LjiXs0LdFZs
+2024-12-21 22:56:20,402 - INFO - Processing video 4/456: https://www.youtube.com/watch?v=GjbLPDsPhDA
+2024-12-21 22:56:20,402 - INFO - Fetching captions for video ID: GjbLPDsPhDA
+2024-12-21 22:56:21,264 - WARNING - Captions disabled for video ID: GjbLPDsPhDA
+2024-12-21 22:56:21,265 - INFO - Processing video 5/456: https://www.youtube.com/watch?v=eRSkM_W9xXw
+2024-12-21 22:56:21,265 - INFO - Fetching captions for video ID: eRSkM_W9xXw
+2024-12-21 22:56:21,859 - WARNING - Captions disabled for video ID: eRSkM_W9xXw
+2024-12-21 22:56:21,860 - INFO - Processing video 6/456: https://www.youtube.com/watch?v=JLwNc9sGEes
+2024-12-21 22:56:21,860 - INFO - Fetching captions for video ID: JLwNc9sGEes
+2024-12-21 22:56:22,442 - WARNING - Captions disabled for video ID: JLwNc9sGEes
+2024-12-21 22:56:22,442 - INFO - Processing video 7/456: https://www.youtube.com/watch?v=XGWx4Cu8ti0
+2024-12-21 22:56:22,442 - INFO - Fetching captions for video ID: XGWx4Cu8ti0
+2024-12-21 22:56:23,250 - WARNING - Captions disabled for video ID: XGWx4Cu8ti0
+2024-12-21 22:56:23,250 - INFO - Processing video 8/456: https://www.youtube.com/watch?v=UL6rjfjiaWs
+2024-12-21 22:56:23,250 - INFO - Fetching captions for video ID: UL6rjfjiaWs
+2024-12-21 22:56:23,969 - WARNING - Captions disabled for video ID: UL6rjfjiaWs
+2024-12-21 22:56:23,970 - INFO - Processing video 9/456: https://www.youtube.com/watch?v=1NBUpld5hZA
+2024-12-21 22:56:23,970 - INFO - Fetching captions for video ID: 1NBUpld5hZA
+2024-12-21 22:56:24,648 - WARNING - Captions disabled for video ID: 1NBUpld5hZA
+2024-12-21 22:56:24,648 - INFO - Processing video 10/456: https://www.youtube.com/watch?v=9Os8D7O6MZU
+2024-12-21 22:56:24,648 - INFO - Fetching captions for video ID: 9Os8D7O6MZU
+2024-12-21 22:56:25,271 - WARNING - Captions disabled for video ID: 9Os8D7O6MZU
+2024-12-21 22:56:25,271 - INFO - Processing video 11/456: https://www.youtube.com/watch?v=jbJdNpdT31Y
+2024-12-21 22:56:25,271 - INFO - Fetching captions for video ID: jbJdNpdT31Y
+2024-12-21 22:56:25,876 - WARNING - Captions disabled for video ID: jbJdNpdT31Y
+2024-12-21 22:56:25,877 - INFO - Processing video 12/456: https://www.youtube.com/watch?v=etcvW4k7OyE
+2024-12-21 22:56:25,877 - INFO - Fetching captions for video ID: etcvW4k7OyE
+2024-12-21 22:56:26,647 - WARNING - Captions disabled for video ID: etcvW4k7OyE
+2024-12-21 22:56:26,647 - INFO - Processing video 13/456: https://www.youtube.com/watch?v=sQdmt7vIEdQ
+2024-12-21 22:56:26,647 - INFO - Fetching captions for video ID: sQdmt7vIEdQ
+2024-12-21 22:56:27,358 - WARNING - Captions disabled for video ID: sQdmt7vIEdQ
+2024-12-21 22:56:27,360 - INFO - Processing video 14/456: https://www.youtube.com/watch?v=I1pkrZJ2sj8
+2024-12-21 22:56:27,360 - INFO - Fetching captions for video ID: I1pkrZJ2sj8
+2024-12-21 22:56:27,983 - WARNING - Captions disabled for video ID: I1pkrZJ2sj8
+2024-12-21 22:56:27,983 - INFO - Processing video 15/456: https://www.youtube.com/watch?v=uCNDHDA2Vi4
+2024-12-21 22:56:27,983 - INFO - Fetching captions for video ID: uCNDHDA2Vi4
+2024-12-21 22:56:28,600 - WARNING - Captions disabled for video ID: uCNDHDA2Vi4
+2024-12-21 22:56:28,600 - INFO - Processing video 16/456: https://www.youtube.com/watch?v=ThrC-JWxVA4
+2024-12-21 22:56:28,600 - INFO - Fetching captions for video ID: ThrC-JWxVA4
+2024-12-21 22:56:29,251 - WARNING - Captions disabled for video ID: ThrC-JWxVA4
+2024-12-21 22:56:29,251 - INFO - Processing video 17/456: https://www.youtube.com/watch?v=FzebZ_uu0gk
+2024-12-21 22:56:29,251 - INFO - Fetching captions for video ID: FzebZ_uu0gk
+2024-12-21 22:56:29,930 - WARNING - Captions disabled for video ID: FzebZ_uu0gk
+2024-12-21 22:56:29,930 - INFO - Processing video 18/456: https://www.youtube.com/watch?v=jdGaUUB2aak
+2024-12-21 22:56:29,930 - INFO - Fetching captions for video ID: jdGaUUB2aak
+2024-12-21 22:56:30,666 - WARNING - Captions disabled for video ID: jdGaUUB2aak
+2024-12-21 22:56:30,666 - INFO - Processing video 19/456: https://www.youtube.com/watch?v=iEMKrOjsksE
+2024-12-21 22:56:30,666 - INFO - Fetching captions for video ID: iEMKrOjsksE
+2024-12-21 22:56:31,382 - WARNING - Captions disabled for video ID: iEMKrOjsksE
+2024-12-21 22:56:31,384 - INFO - Processing video 20/456: https://www.youtube.com/watch?v=MoD8Wt97Xq8
+2024-12-21 22:56:31,384 - INFO - Fetching captions for video ID: MoD8Wt97Xq8
+2024-12-21 22:56:32,000 - WARNING - Captions disabled for video ID: MoD8Wt97Xq8
+2024-12-21 22:56:32,000 - INFO - Processing video 21/456: https://www.youtube.com/watch?v=UOxjpPtHVZM
+2024-12-21 22:56:32,000 - INFO - Fetching captions for video ID: UOxjpPtHVZM
+2024-12-21 22:56:32,571 - WARNING - Captions disabled for video ID: UOxjpPtHVZM
+2024-12-21 22:56:32,571 - INFO - Processing video 22/456: https://www.youtube.com/watch?v=5SR6dPkQ_rM
+2024-12-21 22:56:32,571 - INFO - Fetching captions for video ID: 5SR6dPkQ_rM
+2024-12-21 22:56:33,151 - WARNING - Captions disabled for video ID: 5SR6dPkQ_rM
+2024-12-21 22:56:33,151 - INFO - Processing video 23/456: https://www.youtube.com/watch?v=4dfnH232lB4
+2024-12-21 22:56:33,151 - INFO - Fetching captions for video ID: 4dfnH232lB4
+2024-12-21 22:56:34,701 - WARNING - Captions disabled for video ID: 4dfnH232lB4
+2024-12-21 22:56:34,701 - INFO - Processing video 24/456: https://www.youtube.com/watch?v=3LCiNRNkSug
+2024-12-21 22:56:34,701 - INFO - Fetching captions for video ID: 3LCiNRNkSug
+2024-12-21 22:56:35,443 - WARNING - Captions disabled for video ID: 3LCiNRNkSug
+2024-12-21 22:56:35,444 - INFO - Processing video 25/456: https://www.youtube.com/watch?v=XzrOks5QVo4
+2024-12-21 22:56:35,444 - INFO - Fetching captions for video ID: XzrOks5QVo4
+2024-12-21 22:56:36,091 - WARNING - Captions disabled for video ID: XzrOks5QVo4
+2024-12-21 22:56:36,091 - INFO - Processing video 26/456: https://www.youtube.com/watch?v=Y45SC-THvwI
+2024-12-21 22:56:36,091 - INFO - Fetching captions for video ID: Y45SC-THvwI
+2024-12-21 22:56:36,733 - WARNING - Captions disabled for video ID: Y45SC-THvwI
+2024-12-21 22:56:36,734 - INFO - Processing video 27/456: https://www.youtube.com/watch?v=C1hAEMXf85c
+2024-12-21 22:56:36,734 - INFO - Fetching captions for video ID: C1hAEMXf85c
+2024-12-21 22:56:37,439 - WARNING - Captions disabled for video ID: C1hAEMXf85c
+2024-12-21 22:56:37,439 - INFO - Processing video 28/456: https://www.youtube.com/watch?v=JG1pnk2VgEo
+2024-12-21 22:56:37,439 - INFO - Fetching captions for video ID: JG1pnk2VgEo
+2024-12-21 22:56:38,238 - WARNING - Captions disabled for video ID: JG1pnk2VgEo
+2024-12-21 22:56:38,238 - INFO - Processing video 29/456: https://www.youtube.com/watch?v=UaHMLfKeAtU
+2024-12-21 22:56:38,238 - INFO - Fetching captions for video ID: UaHMLfKeAtU
+2024-12-21 22:56:38,966 - WARNING - Captions disabled for video ID: UaHMLfKeAtU
+2024-12-21 22:56:38,966 - INFO - Processing video 30/456: https://www.youtube.com/watch?v=yY5bcIq_h4k
+2024-12-21 22:56:38,966 - INFO - Fetching captions for video ID: yY5bcIq_h4k
+2024-12-21 22:56:39,799 - WARNING - Captions disabled for video ID: yY5bcIq_h4k
+2024-12-21 22:56:39,799 - INFO - Processing video 31/456: https://www.youtube.com/watch?v=nNPZOZR_WDQ
+2024-12-21 22:56:39,799 - INFO - Fetching captions for video ID: nNPZOZR_WDQ
+2024-12-21 22:56:40,617 - WARNING - Captions disabled for video ID: nNPZOZR_WDQ
+2024-12-21 22:56:40,618 - INFO - Processing video 32/456: https://www.youtube.com/watch?v=pnwfdY0HVu4
+2024-12-21 22:56:40,618 - INFO - Fetching captions for video ID: pnwfdY0HVu4
+2024-12-21 22:56:41,267 - WARNING - Captions disabled for video ID: pnwfdY0HVu4
+2024-12-21 22:56:41,267 - INFO - Processing video 33/456: https://www.youtube.com/watch?v=r3MM8CvL1oA
+2024-12-21 22:56:41,267 - INFO - Fetching captions for video ID: r3MM8CvL1oA
+2024-12-21 22:56:41,919 - WARNING - Captions disabled for video ID: r3MM8CvL1oA
+2024-12-21 22:56:41,920 - INFO - Processing video 34/456: https://www.youtube.com/watch?v=8jdWA0pM9X8
+2024-12-21 22:56:41,920 - INFO - Fetching captions for video ID: 8jdWA0pM9X8
+2024-12-21 22:56:42,498 - WARNING - Captions disabled for video ID: 8jdWA0pM9X8
+2024-12-21 22:56:42,499 - INFO - Processing video 35/456: https://www.youtube.com/watch?v=qKcOtOejaic
+2024-12-21 22:56:42,499 - INFO - Fetching captions for video ID: qKcOtOejaic
+2024-12-21 22:56:43,162 - WARNING - Captions disabled for video ID: qKcOtOejaic
+2024-12-21 22:56:43,163 - INFO - Processing video 36/456: https://www.youtube.com/watch?v=rNTOuqR6x_Q
+2024-12-21 22:56:43,163 - INFO - Fetching captions for video ID: rNTOuqR6x_Q
+2024-12-21 22:56:43,919 - WARNING - Captions disabled for video ID: rNTOuqR6x_Q
+2024-12-21 22:56:43,919 - INFO - Processing video 37/456: https://www.youtube.com/watch?v=k7UaZ6Su5dI
+2024-12-21 22:56:43,919 - INFO - Fetching captions for video ID: k7UaZ6Su5dI
+2024-12-21 22:56:44,614 - WARNING - Captions disabled for video ID: k7UaZ6Su5dI
+2024-12-21 22:56:44,615 - INFO - Processing video 38/456: https://www.youtube.com/watch?v=gc9sgdUkWY0
+2024-12-21 22:56:44,615 - INFO - Fetching captions for video ID: gc9sgdUkWY0
+2024-12-21 22:56:45,381 - WARNING - Captions disabled for video ID: gc9sgdUkWY0
+2024-12-21 22:56:45,382 - INFO - Processing video 39/456: https://www.youtube.com/watch?v=4CAhEt_f960
+2024-12-21 22:56:45,382 - INFO - Fetching captions for video ID: 4CAhEt_f960
+2024-12-21 22:56:46,025 - WARNING - Captions disabled for video ID: 4CAhEt_f960
+2024-12-21 22:56:46,025 - INFO - Processing video 40/456: https://www.youtube.com/watch?v=2BR-LGAfqjQ
+2024-12-21 22:56:46,025 - INFO - Fetching captions for video ID: 2BR-LGAfqjQ
+2024-12-21 22:56:46,671 - WARNING - Captions disabled for video ID: 2BR-LGAfqjQ
+2024-12-21 22:56:46,671 - INFO - Processing video 41/456: https://www.youtube.com/watch?v=AWpl7YE_38Q
+2024-12-21 22:56:46,671 - INFO - Fetching captions for video ID: AWpl7YE_38Q
+2024-12-21 22:56:47,265 - WARNING - Captions disabled for video ID: AWpl7YE_38Q
+2024-12-21 22:56:47,265 - INFO - Processing video 42/456: https://www.youtube.com/watch?v=-0sxErCPYVc
+2024-12-21 22:56:47,265 - INFO - Fetching captions for video ID: -0sxErCPYVc
+2024-12-21 22:56:47,879 - WARNING - Captions disabled for video ID: -0sxErCPYVc
+2024-12-21 22:56:47,879 - INFO - Processing video 43/456: https://www.youtube.com/watch?v=wMFADwMcKgk
+2024-12-21 22:56:47,879 - INFO - Fetching captions for video ID: wMFADwMcKgk
+2024-12-21 22:56:48,625 - WARNING - Captions disabled for video ID: wMFADwMcKgk
+2024-12-21 22:56:48,625 - INFO - Processing video 44/456: https://www.youtube.com/watch?v=6fZVUHXJcUw
+2024-12-21 22:56:48,625 - INFO - Fetching captions for video ID: 6fZVUHXJcUw
+2024-12-21 22:56:49,311 - WARNING - Captions disabled for video ID: 6fZVUHXJcUw
+2024-12-21 22:56:49,311 - INFO - Processing video 45/456: https://www.youtube.com/watch?v=6xrh-w09Rvo
+2024-12-21 22:56:49,311 - INFO - Fetching captions for video ID: 6xrh-w09Rvo
+2024-12-21 22:56:49,993 - WARNING - Captions disabled for video ID: 6xrh-w09Rvo
+2024-12-21 22:56:49,994 - INFO - Processing video 46/456: https://www.youtube.com/watch?v=OVS_z4Ru1YY
+2024-12-21 22:56:49,994 - INFO - Fetching captions for video ID: OVS_z4Ru1YY
+2024-12-21 22:56:50,599 - WARNING - Captions disabled for video ID: OVS_z4Ru1YY
+2024-12-21 22:56:50,599 - INFO - Processing video 47/456: https://www.youtube.com/watch?v=bGY10oqiJoM
+2024-12-21 22:56:50,599 - INFO - Fetching captions for video ID: bGY10oqiJoM
+2024-12-21 22:56:51,220 - WARNING - Captions disabled for video ID: bGY10oqiJoM
+2024-12-21 22:56:51,220 - INFO - Processing video 48/456: https://www.youtube.com/watch?v=bfEIhjqXP5A
+2024-12-21 22:56:51,220 - INFO - Fetching captions for video ID: bfEIhjqXP5A
+2024-12-21 22:56:51,814 - WARNING - Captions disabled for video ID: bfEIhjqXP5A
+2024-12-21 22:56:51,814 - INFO - Processing video 49/456: https://www.youtube.com/watch?v=rAz5u3wiCVk
+2024-12-21 22:56:51,814 - INFO - Fetching captions for video ID: rAz5u3wiCVk
+2024-12-21 22:56:52,517 - WARNING - Captions disabled for video ID: rAz5u3wiCVk
+2024-12-21 22:56:52,517 - INFO - Processing video 50/456: https://www.youtube.com/watch?v=mhSAFrqjapQ
+2024-12-21 22:56:52,517 - INFO - Fetching captions for video ID: mhSAFrqjapQ
+2024-12-21 22:56:53,207 - WARNING - Captions disabled for video ID: mhSAFrqjapQ
+2024-12-21 22:56:53,207 - INFO - Processing video 51/456: https://www.youtube.com/watch?v=8KWjhxHb99w
+2024-12-21 22:56:53,207 - INFO - Fetching captions for video ID: 8KWjhxHb99w
+2024-12-21 22:56:53,861 - WARNING - Captions disabled for video ID: 8KWjhxHb99w
+2024-12-21 22:56:53,861 - INFO - Processing video 52/456: https://www.youtube.com/watch?v=nSDuzEmm3w8
+2024-12-21 22:56:53,861 - INFO - Fetching captions for video ID: nSDuzEmm3w8
+2024-12-21 22:56:54,515 - WARNING - Captions disabled for video ID: nSDuzEmm3w8
+2024-12-21 22:56:54,515 - INFO - Processing video 53/456: https://www.youtube.com/watch?v=_33KvQFrunc
+2024-12-21 22:56:54,515 - INFO - Fetching captions for video ID: _33KvQFrunc
+2024-12-21 22:56:55,154 - WARNING - Captions disabled for video ID: _33KvQFrunc
+2024-12-21 22:56:55,154 - INFO - Processing video 54/456: https://www.youtube.com/watch?v=KnP9nl6JfvI
+2024-12-21 22:56:55,154 - INFO - Fetching captions for video ID: KnP9nl6JfvI
+2024-12-21 22:56:55,878 - WARNING - Captions disabled for video ID: KnP9nl6JfvI
+2024-12-21 22:56:55,878 - INFO - Processing video 55/456: https://www.youtube.com/watch?v=g1zqqsOU3bU
+2024-12-21 22:56:55,878 - INFO - Fetching captions for video ID: g1zqqsOU3bU
+2024-12-21 22:56:56,635 - WARNING - Captions disabled for video ID: g1zqqsOU3bU
+2024-12-21 22:56:56,635 - INFO - Processing video 56/456: https://www.youtube.com/watch?v=LlNSB_-GmBI
+2024-12-21 22:56:56,637 - INFO - Fetching captions for video ID: LlNSB_-GmBI
+2024-12-21 22:56:57,289 - WARNING - Captions disabled for video ID: LlNSB_-GmBI
+2024-12-21 22:56:57,289 - INFO - Processing video 57/456: https://www.youtube.com/watch?v=FhV6Vqbezk0
+2024-12-21 22:56:57,289 - INFO - Fetching captions for video ID: FhV6Vqbezk0
+2024-12-21 22:56:58,112 - WARNING - Captions disabled for video ID: FhV6Vqbezk0
+2024-12-21 22:56:58,112 - INFO - Processing video 58/456: https://www.youtube.com/watch?v=WJlY0VySfbo
+2024-12-21 22:56:58,112 - INFO - Fetching captions for video ID: WJlY0VySfbo
+2024-12-21 22:56:58,784 - WARNING - Captions disabled for video ID: WJlY0VySfbo
+2024-12-21 22:56:58,784 - INFO - Processing video 59/456: https://www.youtube.com/watch?v=F9Vc60F5IeM
+2024-12-21 22:56:58,784 - INFO - Fetching captions for video ID: F9Vc60F5IeM
+2024-12-21 22:56:59,405 - WARNING - Captions disabled for video ID: F9Vc60F5IeM
+2024-12-21 22:56:59,405 - INFO - Processing video 60/456: https://www.youtube.com/watch?v=R9rf3urf-J0
+2024-12-21 22:56:59,405 - INFO - Fetching captions for video ID: R9rf3urf-J0
+2024-12-21 22:57:00,060 - WARNING - Captions disabled for video ID: R9rf3urf-J0
+2024-12-21 22:57:00,060 - INFO - Processing video 61/456: https://www.youtube.com/watch?v=ecrWgbtmb8I
+2024-12-21 22:57:00,060 - INFO - Fetching captions for video ID: ecrWgbtmb8I
+2024-12-21 22:57:00,738 - WARNING - Captions disabled for video ID: ecrWgbtmb8I
+2024-12-21 22:57:00,738 - INFO - Processing video 62/456: https://www.youtube.com/watch?v=2Mq6z-IlECA
+2024-12-21 22:57:00,738 - INFO - Fetching captions for video ID: 2Mq6z-IlECA
+2024-12-21 22:57:01,460 - WARNING - Captions disabled for video ID: 2Mq6z-IlECA
+2024-12-21 22:57:01,460 - INFO - Processing video 63/456: https://www.youtube.com/watch?v=UNLBgIMaPjQ
+2024-12-21 22:57:01,460 - INFO - Fetching captions for video ID: UNLBgIMaPjQ
+2024-12-21 22:57:02,310 - WARNING - Captions disabled for video ID: UNLBgIMaPjQ
+2024-12-21 22:57:02,310 - INFO - Processing video 64/456: https://www.youtube.com/watch?v=8wGmzBF4IHU
+2024-12-21 22:57:02,310 - INFO - Fetching captions for video ID: 8wGmzBF4IHU
+2024-12-21 22:57:02,970 - WARNING - Captions disabled for video ID: 8wGmzBF4IHU
+2024-12-21 22:57:02,970 - INFO - Processing video 65/456: https://www.youtube.com/watch?v=Aycsq9SsMxk
+2024-12-21 22:57:02,970 - INFO - Fetching captions for video ID: Aycsq9SsMxk
+2024-12-21 22:57:03,614 - WARNING - Captions disabled for video ID: Aycsq9SsMxk
+2024-12-21 22:57:03,614 - INFO - Processing video 66/456: https://www.youtube.com/watch?v=ROyLVfROnP0
+2024-12-21 22:57:03,614 - INFO - Fetching captions for video ID: ROyLVfROnP0
+2024-12-21 22:57:04,269 - WARNING - Captions disabled for video ID: ROyLVfROnP0
+2024-12-21 22:57:04,269 - INFO - Processing video 67/456: https://www.youtube.com/watch?v=YVkmfUAIlb4
+2024-12-21 22:57:04,269 - INFO - Fetching captions for video ID: YVkmfUAIlb4
+2024-12-21 22:57:04,972 - WARNING - Captions disabled for video ID: YVkmfUAIlb4
+2024-12-21 22:57:04,974 - INFO - Processing video 68/456: https://www.youtube.com/watch?v=Mlb3v9uDK30
+2024-12-21 22:57:04,974 - INFO - Fetching captions for video ID: Mlb3v9uDK30
+2024-12-21 22:57:05,616 - WARNING - Captions disabled for video ID: Mlb3v9uDK30
+2024-12-21 22:57:05,616 - INFO - Processing video 69/456: https://www.youtube.com/watch?v=yhsihRa9XUQ
+2024-12-21 22:57:05,616 - INFO - Fetching captions for video ID: yhsihRa9XUQ
+2024-12-21 22:57:06,270 - WARNING - Captions disabled for video ID: yhsihRa9XUQ
+2024-12-21 22:57:06,270 - INFO - Processing video 70/456: https://www.youtube.com/watch?v=G92Jr_id27k
+2024-12-21 22:57:06,270 - INFO - Fetching captions for video ID: G92Jr_id27k
+2024-12-21 22:57:07,018 - WARNING - Captions disabled for video ID: G92Jr_id27k
+2024-12-21 22:57:07,018 - INFO - Processing video 71/456: https://www.youtube.com/watch?v=vIYrlx1UEgs
+2024-12-21 22:57:07,018 - INFO - Fetching captions for video ID: vIYrlx1UEgs
+2024-12-21 22:57:07,870 - WARNING - Captions disabled for video ID: vIYrlx1UEgs
+2024-12-21 22:57:07,874 - INFO - Processing video 72/456: https://www.youtube.com/watch?v=HUK2SCqzuJc
+2024-12-21 22:57:07,874 - INFO - Fetching captions for video ID: HUK2SCqzuJc
+2024-12-21 22:57:08,561 - WARNING - Captions disabled for video ID: HUK2SCqzuJc
+2024-12-21 22:57:08,562 - INFO - Processing video 73/456: https://www.youtube.com/watch?v=kBwi0cSuYC4
+2024-12-21 22:57:08,562 - INFO - Fetching captions for video ID: kBwi0cSuYC4
+2024-12-21 22:57:09,161 - WARNING - Captions disabled for video ID: kBwi0cSuYC4
+2024-12-21 22:57:09,162 - INFO - Processing video 74/456: https://www.youtube.com/watch?v=_8ZGNDhXa8o
+2024-12-21 22:57:09,162 - INFO - Fetching captions for video ID: _8ZGNDhXa8o
+2024-12-21 22:57:09,838 - WARNING - Captions disabled for video ID: _8ZGNDhXa8o
+2024-12-21 22:57:09,840 - INFO - Processing video 75/456: https://www.youtube.com/watch?v=M2-_8Vi-_xo
+2024-12-21 22:57:09,840 - INFO - Fetching captions for video ID: M2-_8Vi-_xo
+2024-12-21 22:57:10,454 - WARNING - Captions disabled for video ID: M2-_8Vi-_xo
+2024-12-21 22:57:10,454 - INFO - Processing video 76/456: https://www.youtube.com/watch?v=UrEj6cEvdgU
+2024-12-21 22:57:10,455 - INFO - Fetching captions for video ID: UrEj6cEvdgU
+2024-12-21 22:57:11,021 - WARNING - Captions disabled for video ID: UrEj6cEvdgU
+2024-12-21 22:57:11,022 - INFO - Processing video 77/456: https://www.youtube.com/watch?v=uKnTScBY7Ps
+2024-12-21 22:57:11,022 - INFO - Fetching captions for video ID: uKnTScBY7Ps
+2024-12-21 22:57:11,668 - WARNING - Captions disabled for video ID: uKnTScBY7Ps
+2024-12-21 22:57:11,669 - INFO - Processing video 78/456: https://www.youtube.com/watch?v=LLZYdD6HWG4
+2024-12-21 22:57:11,669 - INFO - Fetching captions for video ID: LLZYdD6HWG4
+2024-12-21 22:57:12,300 - WARNING - Captions disabled for video ID: LLZYdD6HWG4
+2024-12-21 22:57:12,301 - INFO - Processing video 79/456: https://www.youtube.com/watch?v=rhfPDyuY5c0
+2024-12-21 22:57:12,301 - INFO - Fetching captions for video ID: rhfPDyuY5c0
+2024-12-21 22:57:12,902 - WARNING - Captions disabled for video ID: rhfPDyuY5c0
+2024-12-21 22:57:12,902 - INFO - Processing video 80/456: https://www.youtube.com/watch?v=IIfFAy3LLk4
+2024-12-21 22:57:12,902 - INFO - Fetching captions for video ID: IIfFAy3LLk4
+2024-12-21 22:57:13,512 - WARNING - Captions disabled for video ID: IIfFAy3LLk4
+2024-12-21 22:57:13,513 - INFO - Processing video 81/456: https://www.youtube.com/watch?v=n9oqY9rV050
+2024-12-21 22:57:13,513 - INFO - Fetching captions for video ID: n9oqY9rV050
+2024-12-21 22:57:14,221 - WARNING - Captions disabled for video ID: n9oqY9rV050
+2024-12-21 22:57:14,225 - INFO - Processing video 82/456: https://www.youtube.com/watch?v=SblnEKxmi7s
+2024-12-21 22:57:14,225 - INFO - Fetching captions for video ID: SblnEKxmi7s
+2024-12-21 22:57:14,915 - WARNING - Captions disabled for video ID: SblnEKxmi7s
+2024-12-21 22:57:14,916 - INFO - Processing video 83/456: https://www.youtube.com/watch?v=LXCPQvjBFhc
+2024-12-21 22:57:14,916 - INFO - Fetching captions for video ID: LXCPQvjBFhc
+2024-12-21 22:57:15,632 - WARNING - Captions disabled for video ID: LXCPQvjBFhc
+2024-12-21 22:57:15,632 - INFO - Processing video 84/456: https://www.youtube.com/watch?v=aNBZc7Prc9g
+2024-12-21 22:57:15,632 - INFO - Fetching captions for video ID: aNBZc7Prc9g
+2024-12-21 22:57:16,451 - WARNING - Captions disabled for video ID: aNBZc7Prc9g
+2024-12-21 22:57:16,451 - INFO - Processing video 85/456: https://www.youtube.com/watch?v=OtLZRiECnRU
+2024-12-21 22:57:16,451 - INFO - Fetching captions for video ID: OtLZRiECnRU
+2024-12-21 22:57:17,078 - WARNING - Captions disabled for video ID: OtLZRiECnRU
+2024-12-21 22:57:17,078 - INFO - Processing video 86/456: https://www.youtube.com/watch?v=vscw5BkPP1k
+2024-12-21 22:57:17,078 - INFO - Fetching captions for video ID: vscw5BkPP1k
+2024-12-21 22:57:17,808 - WARNING - Captions disabled for video ID: vscw5BkPP1k
+2024-12-21 22:57:17,808 - INFO - Processing video 87/456: https://www.youtube.com/watch?v=635mKczPl3k
+2024-12-21 22:57:17,808 - INFO - Fetching captions for video ID: 635mKczPl3k
+2024-12-21 22:57:18,513 - WARNING - Captions disabled for video ID: 635mKczPl3k
+2024-12-21 22:57:18,513 - INFO - Processing video 88/456: https://www.youtube.com/watch?v=vGXL8OQD4UY
+2024-12-21 22:57:18,513 - INFO - Fetching captions for video ID: vGXL8OQD4UY
+2024-12-21 22:57:19,234 - WARNING - Captions disabled for video ID: vGXL8OQD4UY
+2024-12-21 22:57:19,234 - INFO - Processing video 89/456: https://www.youtube.com/watch?v=ORJSyHyhJng
+2024-12-21 22:57:19,234 - INFO - Fetching captions for video ID: ORJSyHyhJng
+2024-12-21 22:57:20,023 - WARNING - Captions disabled for video ID: ORJSyHyhJng
+2024-12-21 22:57:20,024 - INFO - Processing video 90/456: https://www.youtube.com/watch?v=NZT4WDmT-bw
+2024-12-21 22:57:20,024 - INFO - Fetching captions for video ID: NZT4WDmT-bw
+2024-12-21 22:57:20,652 - WARNING - Captions disabled for video ID: NZT4WDmT-bw
+2024-12-21 22:57:20,652 - INFO - Processing video 91/456: https://www.youtube.com/watch?v=1Ldjxbh9CUA
+2024-12-21 22:57:20,652 - INFO - Fetching captions for video ID: 1Ldjxbh9CUA
+2024-12-21 22:57:21,382 - WARNING - Captions disabled for video ID: 1Ldjxbh9CUA
+2024-12-21 22:57:21,382 - INFO - Processing video 92/456: https://www.youtube.com/watch?v=xLticXsZSYw
+2024-12-21 22:57:21,382 - INFO - Fetching captions for video ID: xLticXsZSYw
+2024-12-21 22:57:22,089 - WARNING - Captions disabled for video ID: xLticXsZSYw
+2024-12-21 22:57:22,089 - INFO - Processing video 93/456: https://www.youtube.com/watch?v=dslwn6OwdmQ
+2024-12-21 22:57:22,089 - INFO - Fetching captions for video ID: dslwn6OwdmQ
+2024-12-21 22:57:22,788 - WARNING - Captions disabled for video ID: dslwn6OwdmQ
+2024-12-21 22:57:22,791 - INFO - Processing video 94/456: https://www.youtube.com/watch?v=MuAtOyrkfVM
+2024-12-21 22:57:22,791 - INFO - Fetching captions for video ID: MuAtOyrkfVM
+2024-12-21 22:57:23,449 - WARNING - Captions disabled for video ID: MuAtOyrkfVM
+2024-12-21 22:57:23,449 - INFO - Processing video 95/456: https://www.youtube.com/watch?v=1ykHwNC6FQw
+2024-12-21 22:57:23,449 - INFO - Fetching captions for video ID: 1ykHwNC6FQw
+2024-12-21 22:57:24,153 - WARNING - Captions disabled for video ID: 1ykHwNC6FQw
+2024-12-21 22:57:24,153 - INFO - Processing video 96/456: https://www.youtube.com/watch?v=lcQGR65qr2M
+2024-12-21 22:57:24,153 - INFO - Fetching captions for video ID: lcQGR65qr2M
+2024-12-21 22:57:24,804 - WARNING - Captions disabled for video ID: lcQGR65qr2M
+2024-12-21 22:57:24,804 - INFO - Processing video 97/456: https://www.youtube.com/watch?v=h0zvXZXoB1A
+2024-12-21 22:57:24,804 - INFO - Fetching captions for video ID: h0zvXZXoB1A
+2024-12-21 22:57:25,759 - WARNING - Captions disabled for video ID: h0zvXZXoB1A
+2024-12-21 22:57:25,759 - INFO - Processing video 98/456: https://www.youtube.com/watch?v=WcGWYL6SbYI
+2024-12-21 22:57:25,760 - INFO - Fetching captions for video ID: WcGWYL6SbYI
+2024-12-21 22:57:26,390 - WARNING - Captions disabled for video ID: WcGWYL6SbYI
+2024-12-21 22:57:26,391 - INFO - Processing video 99/456: https://www.youtube.com/watch?v=nJCvUiDYr9c
+2024-12-21 22:57:26,391 - INFO - Fetching captions for video ID: nJCvUiDYr9c
+2024-12-21 22:57:27,080 - WARNING - Captions disabled for video ID: nJCvUiDYr9c
+2024-12-21 22:57:27,080 - INFO - Processing video 100/456: https://www.youtube.com/watch?v=WBkyBz7TlGo
+2024-12-21 22:57:27,080 - INFO - Fetching captions for video ID: WBkyBz7TlGo
+2024-12-21 22:57:27,789 - WARNING - Captions disabled for video ID: WBkyBz7TlGo
+2024-12-21 22:57:27,789 - INFO - Processing video 101/456: https://www.youtube.com/watch?v=Tta0CKImBNk
+2024-12-21 22:57:27,790 - INFO - Fetching captions for video ID: Tta0CKImBNk
+2024-12-21 22:57:28,454 - WARNING - Captions disabled for video ID: Tta0CKImBNk
+2024-12-21 22:57:28,454 - INFO - Processing video 102/456: https://www.youtube.com/watch?v=G9U54uA6q08
+2024-12-21 22:57:28,455 - INFO - Fetching captions for video ID: G9U54uA6q08
+2024-12-21 22:57:29,187 - WARNING - Captions disabled for video ID: G9U54uA6q08
+2024-12-21 22:57:29,187 - INFO - Processing video 103/456: https://www.youtube.com/watch?v=Uio6v-LB8Ks
+2024-12-21 22:57:29,187 - INFO - Fetching captions for video ID: Uio6v-LB8Ks
+2024-12-21 22:57:29,822 - WARNING - Captions disabled for video ID: Uio6v-LB8Ks
+2024-12-21 22:57:29,822 - INFO - Processing video 104/456: https://www.youtube.com/watch?v=UAxMVhK30Gg
+2024-12-21 22:57:29,823 - INFO - Fetching captions for video ID: UAxMVhK30Gg
+2024-12-21 22:57:30,492 - WARNING - Captions disabled for video ID: UAxMVhK30Gg
+2024-12-21 22:57:30,493 - INFO - Processing video 105/456: https://www.youtube.com/watch?v=39yazi5GMPA
+2024-12-21 22:57:30,493 - INFO - Fetching captions for video ID: 39yazi5GMPA
+2024-12-21 22:57:31,120 - WARNING - Captions disabled for video ID: 39yazi5GMPA
+2024-12-21 22:57:31,122 - INFO - Processing video 106/456: https://www.youtube.com/watch?v=Y09jN38z1Jg
+2024-12-21 22:57:31,122 - INFO - Fetching captions for video ID: Y09jN38z1Jg
+2024-12-21 22:57:31,699 - WARNING - Captions disabled for video ID: Y09jN38z1Jg
+2024-12-21 22:57:31,707 - INFO - Processing video 107/456: https://www.youtube.com/watch?v=x0O7lCbE66M
+2024-12-21 22:57:31,707 - INFO - Fetching captions for video ID: x0O7lCbE66M
+2024-12-21 22:57:32,458 - WARNING - Captions disabled for video ID: x0O7lCbE66M
+2024-12-21 22:57:32,458 - INFO - Processing video 108/456: https://www.youtube.com/watch?v=m34DYXXN3KM
+2024-12-21 22:57:32,458 - INFO - Fetching captions for video ID: m34DYXXN3KM
+2024-12-21 22:57:33,222 - WARNING - Captions disabled for video ID: m34DYXXN3KM
+2024-12-21 22:57:33,222 - INFO - Processing video 109/456: https://www.youtube.com/watch?v=K2KVKF3YGG0
+2024-12-21 22:57:33,222 - INFO - Fetching captions for video ID: K2KVKF3YGG0
+2024-12-21 22:57:33,977 - WARNING - Captions disabled for video ID: K2KVKF3YGG0
+2024-12-21 22:57:33,977 - INFO - Processing video 110/456: https://www.youtube.com/watch?v=w0kUFIi927s
+2024-12-21 22:57:33,977 - INFO - Fetching captions for video ID: w0kUFIi927s
+2024-12-21 22:57:34,528 - WARNING - Captions disabled for video ID: w0kUFIi927s
+2024-12-21 22:57:34,528 - INFO - Processing video 111/456: https://www.youtube.com/watch?v=3DqMQAkulpk
+2024-12-21 22:57:34,528 - INFO - Fetching captions for video ID: 3DqMQAkulpk
+2024-12-21 22:57:35,089 - WARNING - Captions disabled for video ID: 3DqMQAkulpk
+2024-12-21 22:57:35,089 - INFO - Processing video 112/456: https://www.youtube.com/watch?v=D4JtLCp0hmI
+2024-12-21 22:57:35,089 - INFO - Fetching captions for video ID: D4JtLCp0hmI
+2024-12-21 22:57:35,817 - WARNING - Captions disabled for video ID: D4JtLCp0hmI
+2024-12-21 22:57:35,818 - INFO - Processing video 113/456: https://www.youtube.com/watch?v=raxBpihSVao
+2024-12-21 22:57:35,818 - INFO - Fetching captions for video ID: raxBpihSVao
+2024-12-21 22:57:36,600 - WARNING - Captions disabled for video ID: raxBpihSVao
+2024-12-21 22:57:36,600 - INFO - Processing video 114/456: https://www.youtube.com/watch?v=iLq6BtPTgWs
+2024-12-21 22:57:36,600 - INFO - Fetching captions for video ID: iLq6BtPTgWs
+2024-12-21 22:57:37,269 - WARNING - Captions disabled for video ID: iLq6BtPTgWs
+2024-12-21 22:57:37,270 - INFO - Processing video 115/456: https://www.youtube.com/watch?v=XWISSqsBNiM
+2024-12-21 22:57:37,270 - INFO - Fetching captions for video ID: XWISSqsBNiM
+2024-12-21 22:57:38,005 - WARNING - Captions disabled for video ID: XWISSqsBNiM
+2024-12-21 22:57:38,005 - INFO - Processing video 116/456: https://www.youtube.com/watch?v=tmvFuKDcGzc
+2024-12-21 22:57:38,005 - INFO - Fetching captions for video ID: tmvFuKDcGzc
+2024-12-21 22:57:38,811 - WARNING - Captions disabled for video ID: tmvFuKDcGzc
+2024-12-21 22:57:38,812 - INFO - Processing video 117/456: https://www.youtube.com/watch?v=7FvfjZqC3is
+2024-12-21 22:57:38,812 - INFO - Fetching captions for video ID: 7FvfjZqC3is
+2024-12-21 22:57:39,481 - WARNING - Captions disabled for video ID: 7FvfjZqC3is
+2024-12-21 22:57:39,481 - INFO - Processing video 118/456: https://www.youtube.com/watch?v=YmTHcXjAOyE
+2024-12-21 22:57:39,481 - INFO - Fetching captions for video ID: YmTHcXjAOyE
+2024-12-21 22:57:40,428 - INFO - Processing video 119/456: https://www.youtube.com/watch?v=Yg8uaZYMMEM
+2024-12-21 22:57:40,428 - INFO - Fetching captions for video ID: Yg8uaZYMMEM
+2024-12-21 22:57:41,433 - WARNING - Captions disabled for video ID: Yg8uaZYMMEM
+2024-12-21 22:57:41,433 - INFO - Processing video 120/456: https://www.youtube.com/watch?v=ErxK7uvFTWk
+2024-12-21 22:57:41,433 - INFO - Fetching captions for video ID: ErxK7uvFTWk
+2024-12-21 22:57:42,085 - WARNING - Captions disabled for video ID: ErxK7uvFTWk
+2024-12-21 22:57:42,085 - INFO - Processing video 121/456: https://www.youtube.com/watch?v=ibTOir5IELY
+2024-12-21 22:57:42,085 - INFO - Fetching captions for video ID: ibTOir5IELY
+2024-12-21 22:57:42,701 - WARNING - Captions disabled for video ID: ibTOir5IELY
+2024-12-21 22:57:42,701 - INFO - Processing video 122/456: https://www.youtube.com/watch?v=uYWXvHI8Pvs
+2024-12-21 22:57:42,701 - INFO - Fetching captions for video ID: uYWXvHI8Pvs
+2024-12-21 22:57:43,287 - WARNING - Captions disabled for video ID: uYWXvHI8Pvs
+2024-12-21 22:57:43,287 - INFO - Processing video 123/456: https://www.youtube.com/watch?v=ZEb-khSLZB0
+2024-12-21 22:57:43,287 - INFO - Fetching captions for video ID: ZEb-khSLZB0
+2024-12-21 22:57:43,849 - WARNING - Captions disabled for video ID: ZEb-khSLZB0
+2024-12-21 22:57:43,849 - INFO - Processing video 124/456: https://www.youtube.com/watch?v=ZgSMDh6cI1k
+2024-12-21 22:57:43,849 - INFO - Fetching captions for video ID: ZgSMDh6cI1k
+2024-12-21 22:57:44,500 - WARNING - Captions disabled for video ID: ZgSMDh6cI1k
+2024-12-21 22:57:44,500 - INFO - Processing video 125/456: https://www.youtube.com/watch?v=ULBiTCnYv6o
+2024-12-21 22:57:44,500 - INFO - Fetching captions for video ID: ULBiTCnYv6o
+2024-12-21 22:57:45,187 - WARNING - Captions disabled for video ID: ULBiTCnYv6o
+2024-12-21 22:57:45,187 - INFO - Processing video 126/456: https://www.youtube.com/watch?v=V6ZBbABV1oo
+2024-12-21 22:57:45,187 - INFO - Fetching captions for video ID: V6ZBbABV1oo
+2024-12-21 22:57:46,081 - WARNING - Captions disabled for video ID: V6ZBbABV1oo
+2024-12-21 22:57:46,081 - INFO - Processing video 127/456: https://www.youtube.com/watch?v=4uI8Ai2zdgA
+2024-12-21 22:57:46,081 - INFO - Fetching captions for video ID: 4uI8Ai2zdgA
+2024-12-21 22:57:46,702 - WARNING - Captions disabled for video ID: 4uI8Ai2zdgA
+2024-12-21 22:57:46,702 - INFO - Processing video 128/456: https://www.youtube.com/watch?v=Yf8eCtEI3eA
+2024-12-21 22:57:46,702 - INFO - Fetching captions for video ID: Yf8eCtEI3eA
+2024-12-21 22:57:47,376 - WARNING - Captions disabled for video ID: Yf8eCtEI3eA
+2024-12-21 22:57:47,376 - INFO - Processing video 129/456: https://www.youtube.com/watch?v=SVLbrHm50oY
+2024-12-21 22:57:47,377 - INFO - Fetching captions for video ID: SVLbrHm50oY
+2024-12-21 22:57:48,121 - WARNING - Captions disabled for video ID: SVLbrHm50oY
+2024-12-21 22:57:48,121 - INFO - Processing video 130/456: https://www.youtube.com/watch?v=6PK4lwirRv4
+2024-12-21 22:57:48,121 - INFO - Fetching captions for video ID: 6PK4lwirRv4
+2024-12-21 22:57:48,733 - WARNING - Captions disabled for video ID: 6PK4lwirRv4
+2024-12-21 22:57:48,733 - INFO - Processing video 131/456: https://www.youtube.com/watch?v=2zMO8BYnl-U
+2024-12-21 22:57:48,733 - INFO - Fetching captions for video ID: 2zMO8BYnl-U
+2024-12-21 22:57:49,571 - WARNING - Captions disabled for video ID: 2zMO8BYnl-U
+2024-12-21 22:57:49,571 - INFO - Processing video 132/456: https://www.youtube.com/watch?v=HUY2zs-DQF0
+2024-12-21 22:57:49,571 - INFO - Fetching captions for video ID: HUY2zs-DQF0
+2024-12-21 22:57:50,253 - WARNING - Captions disabled for video ID: HUY2zs-DQF0
+2024-12-21 22:57:50,254 - INFO - Processing video 133/456: https://www.youtube.com/watch?v=m1ebnmDzERs
+2024-12-21 22:57:50,254 - INFO - Fetching captions for video ID: m1ebnmDzERs
+2024-12-21 22:57:51,176 - WARNING - Captions disabled for video ID: m1ebnmDzERs
+2024-12-21 22:57:51,176 - INFO - Processing video 134/456: https://www.youtube.com/watch?v=he9VIed5dcI
+2024-12-21 22:57:51,176 - INFO - Fetching captions for video ID: he9VIed5dcI
+2024-12-21 22:57:51,884 - WARNING - Captions disabled for video ID: he9VIed5dcI
+2024-12-21 22:57:51,884 - INFO - Processing video 135/456: https://www.youtube.com/watch?v=wklI5Ud7UBg
+2024-12-21 22:57:51,884 - INFO - Fetching captions for video ID: wklI5Ud7UBg
+2024-12-21 22:57:52,490 - WARNING - Captions disabled for video ID: wklI5Ud7UBg
+2024-12-21 22:57:52,490 - INFO - Processing video 136/456: https://www.youtube.com/watch?v=gT98BalpYsw
+2024-12-21 22:57:52,490 - INFO - Fetching captions for video ID: gT98BalpYsw
+2024-12-21 22:57:53,211 - WARNING - Captions disabled for video ID: gT98BalpYsw
+2024-12-21 22:57:53,211 - INFO - Processing video 137/456: https://www.youtube.com/watch?v=PXoJPzj18VE
+2024-12-21 22:57:53,211 - INFO - Fetching captions for video ID: PXoJPzj18VE
+2024-12-21 22:57:53,906 - WARNING - Captions disabled for video ID: PXoJPzj18VE
+2024-12-21 22:57:53,906 - INFO - Processing video 138/456: https://www.youtube.com/watch?v=jjHlsGlUVnY
+2024-12-21 22:57:53,906 - INFO - Fetching captions for video ID: jjHlsGlUVnY
+2024-12-21 22:57:54,888 - WARNING - Captions disabled for video ID: jjHlsGlUVnY
+2024-12-21 22:57:54,888 - INFO - Processing video 139/456: https://www.youtube.com/watch?v=m3-aeYwe35I
+2024-12-21 22:57:54,888 - INFO - Fetching captions for video ID: m3-aeYwe35I
+2024-12-21 22:57:55,439 - WARNING - Captions disabled for video ID: m3-aeYwe35I
+2024-12-21 22:57:55,439 - INFO - Processing video 140/456: https://www.youtube.com/watch?v=1qrAUbNV-DQ
+2024-12-21 22:57:55,439 - INFO - Fetching captions for video ID: 1qrAUbNV-DQ
+2024-12-21 22:57:56,021 - WARNING - Captions disabled for video ID: 1qrAUbNV-DQ
+2024-12-21 22:57:56,021 - INFO - Processing video 141/456: https://www.youtube.com/watch?v=27MLIPr2Agg
+2024-12-21 22:57:56,021 - INFO - Fetching captions for video ID: 27MLIPr2Agg
+2024-12-21 22:57:56,697 - WARNING - Captions disabled for video ID: 27MLIPr2Agg
+2024-12-21 22:57:56,697 - INFO - Processing video 142/456: https://www.youtube.com/watch?v=DfYJyN4BkZY
+2024-12-21 22:57:56,697 - INFO - Fetching captions for video ID: DfYJyN4BkZY
+2024-12-21 22:57:57,207 - WARNING - Captions disabled for video ID: DfYJyN4BkZY
+2024-12-21 22:57:57,208 - INFO - Processing video 143/456: https://www.youtube.com/watch?v=XhuJD-oszqk
+2024-12-21 22:57:57,208 - INFO - Fetching captions for video ID: XhuJD-oszqk
+2024-12-21 22:57:57,799 - WARNING - Captions disabled for video ID: XhuJD-oszqk
+2024-12-21 22:57:57,799 - INFO - Processing video 144/456: https://www.youtube.com/watch?v=BQe6pxutESA
+2024-12-21 22:57:57,799 - INFO - Fetching captions for video ID: BQe6pxutESA
+2024-12-21 22:57:58,663 - WARNING - Captions disabled for video ID: BQe6pxutESA
+2024-12-21 22:57:58,663 - INFO - Processing video 145/456: https://www.youtube.com/watch?v=lbsodhlLs_A
+2024-12-21 22:57:58,663 - INFO - Fetching captions for video ID: lbsodhlLs_A
+2024-12-21 22:57:59,352 - WARNING - Captions disabled for video ID: lbsodhlLs_A
+2024-12-21 22:57:59,355 - INFO - Processing video 146/456: https://www.youtube.com/watch?v=KXxgqm1_trE
+2024-12-21 22:57:59,355 - INFO - Fetching captions for video ID: KXxgqm1_trE
+2024-12-21 22:57:59,921 - WARNING - Captions disabled for video ID: KXxgqm1_trE
+2024-12-21 22:57:59,921 - INFO - Processing video 147/456: https://www.youtube.com/watch?v=Bbij7od0PBw
+2024-12-21 22:57:59,921 - INFO - Fetching captions for video ID: Bbij7od0PBw
+2024-12-21 22:58:00,469 - WARNING - Captions disabled for video ID: Bbij7od0PBw
+2024-12-21 22:58:00,469 - INFO - Processing video 148/456: https://www.youtube.com/watch?v=VxOvaKNfnVg
+2024-12-21 22:58:00,469 - INFO - Fetching captions for video ID: VxOvaKNfnVg
+2024-12-21 22:58:01,120 - WARNING - Captions disabled for video ID: VxOvaKNfnVg
+2024-12-21 22:58:01,120 - INFO - Processing video 149/456: https://www.youtube.com/watch?v=Ef3fv0GdNj8
+2024-12-21 22:58:01,120 - INFO - Fetching captions for video ID: Ef3fv0GdNj8
+2024-12-21 22:58:01,785 - WARNING - Captions disabled for video ID: Ef3fv0GdNj8
+2024-12-21 22:58:01,785 - INFO - Processing video 150/456: https://www.youtube.com/watch?v=MfRZBywjoHI
+2024-12-21 22:58:01,785 - INFO - Fetching captions for video ID: MfRZBywjoHI
+2024-12-21 22:58:02,447 - WARNING - Captions disabled for video ID: MfRZBywjoHI
+2024-12-21 22:58:02,447 - INFO - Processing video 151/456: https://www.youtube.com/watch?v=gA47OLLEwDo
+2024-12-21 22:58:02,447 - INFO - Fetching captions for video ID: gA47OLLEwDo
+2024-12-21 22:58:03,046 - WARNING - Captions disabled for video ID: gA47OLLEwDo
+2024-12-21 22:58:03,046 - INFO - Processing video 152/456: https://www.youtube.com/watch?v=cX5CRvcC9Z4
+2024-12-21 22:58:03,046 - INFO - Fetching captions for video ID: cX5CRvcC9Z4
+2024-12-21 22:58:03,658 - WARNING - Captions disabled for video ID: cX5CRvcC9Z4
+2024-12-21 22:58:03,658 - INFO - Processing video 153/456: https://www.youtube.com/watch?v=V1fex88wkNk
+2024-12-21 22:58:03,658 - INFO - Fetching captions for video ID: V1fex88wkNk
+2024-12-21 22:58:04,480 - WARNING - Captions disabled for video ID: V1fex88wkNk
+2024-12-21 22:58:04,480 - INFO - Processing video 154/456: https://www.youtube.com/watch?v=FR5VP_9jL1U
+2024-12-21 22:58:04,480 - INFO - Fetching captions for video ID: FR5VP_9jL1U
+2024-12-21 22:58:05,403 - INFO - Processing video 155/456: https://www.youtube.com/watch?v=B-t_6R0UemY
+2024-12-21 22:58:05,403 - INFO - Fetching captions for video ID: B-t_6R0UemY
+2024-12-21 22:58:06,034 - WARNING - Captions disabled for video ID: B-t_6R0UemY
+2024-12-21 22:58:06,034 - INFO - Processing video 156/456: https://www.youtube.com/watch?v=A7NErOvHxqM
+2024-12-21 22:58:06,034 - INFO - Fetching captions for video ID: A7NErOvHxqM
+2024-12-21 22:58:06,632 - WARNING - Captions disabled for video ID: A7NErOvHxqM
+2024-12-21 22:58:06,634 - INFO - Processing video 157/456: https://www.youtube.com/watch?v=bKhr5EQmBCE
+2024-12-21 22:58:06,634 - INFO - Fetching captions for video ID: bKhr5EQmBCE
+2024-12-21 22:58:07,299 - WARNING - Captions disabled for video ID: bKhr5EQmBCE
+2024-12-21 22:58:07,299 - INFO - Processing video 158/456: https://www.youtube.com/watch?v=Q82cJcSjZok
+2024-12-21 22:58:07,299 - INFO - Fetching captions for video ID: Q82cJcSjZok
+2024-12-21 22:58:08,279 - INFO - Processing video 159/456: https://www.youtube.com/watch?v=NHeSofwUtdM
+2024-12-21 22:58:08,279 - INFO - Fetching captions for video ID: NHeSofwUtdM
+2024-12-21 22:58:08,852 - WARNING - Captions disabled for video ID: NHeSofwUtdM
+2024-12-21 22:58:08,852 - INFO - Processing video 160/456: https://www.youtube.com/watch?v=e8VNLCl_ptA
+2024-12-21 22:58:08,852 - INFO - Fetching captions for video ID: e8VNLCl_ptA
+2024-12-21 22:58:09,421 - WARNING - Captions disabled for video ID: e8VNLCl_ptA
+2024-12-21 22:58:09,421 - INFO - Processing video 161/456: https://www.youtube.com/watch?v=oh7IvSMz4IY
+2024-12-21 22:58:09,421 - INFO - Fetching captions for video ID: oh7IvSMz4IY
+2024-12-21 22:58:10,038 - WARNING - Captions disabled for video ID: oh7IvSMz4IY
+2024-12-21 22:58:10,038 - INFO - Processing video 162/456: https://www.youtube.com/watch?v=EpPFlhJ4EMg
+2024-12-21 22:58:10,038 - INFO - Fetching captions for video ID: EpPFlhJ4EMg
+2024-12-21 22:58:10,643 - WARNING - Captions disabled for video ID: EpPFlhJ4EMg
+2024-12-21 22:58:10,644 - INFO - Processing video 163/456: https://www.youtube.com/watch?v=79RDJjUciIA
+2024-12-21 22:58:10,644 - INFO - Fetching captions for video ID: 79RDJjUciIA
+2024-12-21 22:58:11,348 - WARNING - Captions disabled for video ID: 79RDJjUciIA
+2024-12-21 22:58:11,349 - INFO - Processing video 164/456: https://www.youtube.com/watch?v=TyvoDBTquKA
+2024-12-21 22:58:11,349 - INFO - Fetching captions for video ID: TyvoDBTquKA
+2024-12-21 22:58:11,929 - WARNING - Captions disabled for video ID: TyvoDBTquKA
+2024-12-21 22:58:11,930 - INFO - Processing video 165/456: https://www.youtube.com/watch?v=93NMGKCqUUU
+2024-12-21 22:58:11,930 - INFO - Fetching captions for video ID: 93NMGKCqUUU
+2024-12-21 22:58:12,676 - INFO - Processing video 166/456: https://www.youtube.com/watch?v=Fvkwu9sDN0o
+2024-12-21 22:58:12,676 - INFO - Fetching captions for video ID: Fvkwu9sDN0o
+2024-12-21 22:58:13,544 - INFO - Processing video 167/456: https://www.youtube.com/watch?v=xXM8FnOtSRg
+2024-12-21 22:58:13,544 - INFO - Fetching captions for video ID: xXM8FnOtSRg
+2024-12-21 22:58:14,196 - WARNING - Captions disabled for video ID: xXM8FnOtSRg
+2024-12-21 22:58:14,196 - INFO - Processing video 168/456: https://www.youtube.com/watch?v=dSBtY9Ca2Eg
+2024-12-21 22:58:14,196 - INFO - Fetching captions for video ID: dSBtY9Ca2Eg
+2024-12-21 22:58:15,299 - INFO - Processing video 169/456: https://www.youtube.com/watch?v=hnRASCy1mXU
+2024-12-21 22:58:15,299 - INFO - Fetching captions for video ID: hnRASCy1mXU
+2024-12-21 22:58:16,216 - INFO - Processing video 170/456: https://www.youtube.com/watch?v=SY3cNY8cUD8
+2024-12-21 22:58:16,218 - INFO - Fetching captions for video ID: SY3cNY8cUD8
+2024-12-21 22:58:17,134 - INFO - Processing video 171/456: https://www.youtube.com/watch?v=u7uLh5xcw3M
+2024-12-21 22:58:17,134 - INFO - Fetching captions for video ID: u7uLh5xcw3M
+2024-12-21 22:58:17,781 - WARNING - Captions disabled for video ID: u7uLh5xcw3M
+2024-12-21 22:58:17,781 - INFO - Processing video 172/456: https://www.youtube.com/watch?v=mMsC-Mt6bHU
+2024-12-21 22:58:17,781 - INFO - Fetching captions for video ID: mMsC-Mt6bHU
+2024-12-21 22:58:18,377 - WARNING - Captions disabled for video ID: mMsC-Mt6bHU
+2024-12-21 22:58:18,377 - INFO - Processing video 173/456: https://www.youtube.com/watch?v=fD9KKavtWJA
+2024-12-21 22:58:18,377 - INFO - Fetching captions for video ID: fD9KKavtWJA
+2024-12-21 22:58:19,028 - WARNING - Captions disabled for video ID: fD9KKavtWJA
+2024-12-21 22:58:19,029 - INFO - Processing video 174/456: https://www.youtube.com/watch?v=YUK8YYSW9TM
+2024-12-21 22:58:19,029 - INFO - Fetching captions for video ID: YUK8YYSW9TM
+2024-12-21 22:58:20,442 - INFO - Processing video 175/456: https://www.youtube.com/watch?v=qLhHCzU159Y
+2024-12-21 22:58:20,442 - INFO - Fetching captions for video ID: qLhHCzU159Y
+2024-12-21 22:58:21,121 - WARNING - Captions disabled for video ID: qLhHCzU159Y
+2024-12-21 22:58:21,121 - INFO - Processing video 176/456: https://www.youtube.com/watch?v=sqv3miEcGZI
+2024-12-21 22:58:21,121 - INFO - Fetching captions for video ID: sqv3miEcGZI
+2024-12-21 22:58:21,712 - WARNING - Captions disabled for video ID: sqv3miEcGZI
+2024-12-21 22:58:21,712 - INFO - Processing video 177/456: https://www.youtube.com/watch?v=K2nFNrfEBOI
+2024-12-21 22:58:21,712 - INFO - Fetching captions for video ID: K2nFNrfEBOI
+2024-12-21 22:58:22,385 - WARNING - Captions disabled for video ID: K2nFNrfEBOI
+2024-12-21 22:58:22,385 - INFO - Processing video 178/456: https://www.youtube.com/watch?v=v89QoKgrVyc
+2024-12-21 22:58:22,385 - INFO - Fetching captions for video ID: v89QoKgrVyc
+2024-12-21 22:58:23,046 - WARNING - Captions disabled for video ID: v89QoKgrVyc
+2024-12-21 22:58:23,046 - INFO - Processing video 179/456: https://www.youtube.com/watch?v=a5Dp9Qk5Xdc
+2024-12-21 22:58:23,046 - INFO - Fetching captions for video ID: a5Dp9Qk5Xdc
+2024-12-21 22:58:23,729 - WARNING - Captions disabled for video ID: a5Dp9Qk5Xdc
+2024-12-21 22:58:23,730 - INFO - Processing video 180/456: https://www.youtube.com/watch?v=G21W3wPJgX0
+2024-12-21 22:58:23,730 - INFO - Fetching captions for video ID: G21W3wPJgX0
+2024-12-21 22:58:24,268 - WARNING - Captions disabled for video ID: G21W3wPJgX0
+2024-12-21 22:58:24,269 - INFO - Processing video 181/456: https://www.youtube.com/watch?v=-ReBrMmG9iA
+2024-12-21 22:58:24,269 - INFO - Fetching captions for video ID: -ReBrMmG9iA
+2024-12-21 22:58:24,954 - WARNING - Captions disabled for video ID: -ReBrMmG9iA
+2024-12-21 22:58:24,954 - INFO - Processing video 182/456: https://www.youtube.com/watch?v=DZ6gI2CJM4c
+2024-12-21 22:58:24,954 - INFO - Fetching captions for video ID: DZ6gI2CJM4c
+2024-12-21 22:58:25,582 - WARNING - Captions disabled for video ID: DZ6gI2CJM4c
+2024-12-21 22:58:25,582 - INFO - Processing video 183/456: https://www.youtube.com/watch?v=eIUFlfe9YzQ
+2024-12-21 22:58:25,582 - INFO - Fetching captions for video ID: eIUFlfe9YzQ
+2024-12-21 22:58:26,255 - WARNING - Captions disabled for video ID: eIUFlfe9YzQ
+2024-12-21 22:58:26,255 - INFO - Processing video 184/456: https://www.youtube.com/watch?v=CIvK-4uEaS8
+2024-12-21 22:58:26,255 - INFO - Fetching captions for video ID: CIvK-4uEaS8
+2024-12-21 22:58:26,905 - WARNING - Captions disabled for video ID: CIvK-4uEaS8
+2024-12-21 22:58:26,905 - INFO - Processing video 185/456: https://www.youtube.com/watch?v=CX-u2XsNXvE
+2024-12-21 22:58:26,905 - INFO - Fetching captions for video ID: CX-u2XsNXvE
+2024-12-21 22:58:27,520 - WARNING - Captions disabled for video ID: CX-u2XsNXvE
+2024-12-21 22:58:27,520 - INFO - Processing video 186/456: https://www.youtube.com/watch?v=5orJiK9GBSc
+2024-12-21 22:58:27,520 - INFO - Fetching captions for video ID: 5orJiK9GBSc
+2024-12-21 22:58:28,102 - WARNING - Captions disabled for video ID: 5orJiK9GBSc
+2024-12-21 22:58:28,102 - INFO - Processing video 187/456: https://www.youtube.com/watch?v=yYr8q0y5Jfg
+2024-12-21 22:58:28,102 - INFO - Fetching captions for video ID: yYr8q0y5Jfg
+2024-12-21 22:58:28,836 - WARNING - Captions disabled for video ID: yYr8q0y5Jfg
+2024-12-21 22:58:28,836 - INFO - Processing video 188/456: https://www.youtube.com/watch?v=5wuGTrtd8Wc
+2024-12-21 22:58:28,836 - INFO - Fetching captions for video ID: 5wuGTrtd8Wc
+2024-12-21 22:58:29,464 - WARNING - Captions disabled for video ID: 5wuGTrtd8Wc
+2024-12-21 22:58:29,464 - INFO - Processing video 189/456: https://www.youtube.com/watch?v=I9tti32VDyU
+2024-12-21 22:58:29,464 - INFO - Fetching captions for video ID: I9tti32VDyU
+2024-12-21 22:58:30,108 - WARNING - Captions disabled for video ID: I9tti32VDyU
+2024-12-21 22:58:30,108 - INFO - Processing video 190/456: https://www.youtube.com/watch?v=oKJGhnYp2-8
+2024-12-21 22:58:30,108 - INFO - Fetching captions for video ID: oKJGhnYp2-8
+2024-12-21 22:58:30,712 - WARNING - Captions disabled for video ID: oKJGhnYp2-8
+2024-12-21 22:58:30,712 - INFO - Processing video 191/456: https://www.youtube.com/watch?v=3aMR3PA2_H8
+2024-12-21 22:58:30,712 - INFO - Fetching captions for video ID: 3aMR3PA2_H8
+2024-12-21 22:58:31,377 - WARNING - Captions disabled for video ID: 3aMR3PA2_H8
+2024-12-21 22:58:31,378 - INFO - Processing video 192/456: https://www.youtube.com/watch?v=L62-of6m0K0
+2024-12-21 22:58:31,378 - INFO - Fetching captions for video ID: L62-of6m0K0
+2024-12-21 22:58:32,041 - WARNING - Captions disabled for video ID: L62-of6m0K0
+2024-12-21 22:58:32,042 - INFO - Processing video 193/456: https://www.youtube.com/watch?v=r6f-uFwHPb8
+2024-12-21 22:58:32,042 - INFO - Fetching captions for video ID: r6f-uFwHPb8
+2024-12-21 22:58:33,075 - WARNING - Captions disabled for video ID: r6f-uFwHPb8
+2024-12-21 22:58:33,075 - INFO - Processing video 194/456: https://www.youtube.com/watch?v=xuqmHVj98Dg
+2024-12-21 22:58:33,076 - INFO - Fetching captions for video ID: xuqmHVj98Dg
+2024-12-21 22:58:33,680 - WARNING - Captions disabled for video ID: xuqmHVj98Dg
+2024-12-21 22:58:33,680 - INFO - Processing video 195/456: https://www.youtube.com/watch?v=2Qr4bjGRm54
+2024-12-21 22:58:33,680 - INFO - Fetching captions for video ID: 2Qr4bjGRm54
+2024-12-21 22:58:34,408 - WARNING - Captions disabled for video ID: 2Qr4bjGRm54
+2024-12-21 22:58:34,408 - INFO - Processing video 196/456: https://www.youtube.com/watch?v=0LaWB3ZT5-8
+2024-12-21 22:58:34,408 - INFO - Fetching captions for video ID: 0LaWB3ZT5-8
+2024-12-21 22:58:35,064 - WARNING - Captions disabled for video ID: 0LaWB3ZT5-8
+2024-12-21 22:58:35,078 - INFO - Processing video 197/456: https://www.youtube.com/watch?v=lGQ86FRK5Gk
+2024-12-21 22:58:35,078 - INFO - Fetching captions for video ID: lGQ86FRK5Gk
+2024-12-21 22:58:35,708 - WARNING - Captions disabled for video ID: lGQ86FRK5Gk
+2024-12-21 22:58:35,708 - INFO - Processing video 198/456: https://www.youtube.com/watch?v=-iVJFB2gZuE
+2024-12-21 22:58:35,708 - INFO - Fetching captions for video ID: -iVJFB2gZuE
+2024-12-21 22:58:36,458 - WARNING - Captions disabled for video ID: -iVJFB2gZuE
+2024-12-21 22:58:36,459 - INFO - Processing video 199/456: https://www.youtube.com/watch?v=NLCYuL1CTUk
+2024-12-21 22:58:36,459 - INFO - Fetching captions for video ID: NLCYuL1CTUk
+2024-12-21 22:58:37,215 - WARNING - Captions disabled for video ID: NLCYuL1CTUk
+2024-12-21 22:58:37,217 - INFO - Processing video 200/456: https://www.youtube.com/watch?v=Nq_li6xlD2o
+2024-12-21 22:58:37,217 - INFO - Fetching captions for video ID: Nq_li6xlD2o
+2024-12-21 22:58:37,868 - WARNING - Captions disabled for video ID: Nq_li6xlD2o
+2024-12-21 22:58:37,868 - INFO - Processing video 201/456: https://www.youtube.com/watch?v=yYr8q0y5Jfg
+2024-12-21 22:58:37,868 - INFO - Fetching captions for video ID: yYr8q0y5Jfg
+2024-12-21 22:58:38,560 - WARNING - Captions disabled for video ID: yYr8q0y5Jfg
+2024-12-21 22:58:38,561 - INFO - Processing video 202/456: https://www.youtube.com/watch?v=LaLcOcavqkg
+2024-12-21 22:58:38,561 - INFO - Fetching captions for video ID: LaLcOcavqkg
+2024-12-21 22:58:39,289 - WARNING - Captions disabled for video ID: LaLcOcavqkg
+2024-12-21 22:58:39,290 - INFO - Processing video 203/456: https://www.youtube.com/watch?v=0LaWB3ZT5-8
+2024-12-21 22:58:39,290 - INFO - Fetching captions for video ID: 0LaWB3ZT5-8
+2024-12-21 22:58:39,950 - WARNING - Captions disabled for video ID: 0LaWB3ZT5-8
+2024-12-21 22:58:39,951 - INFO - Processing video 204/456: https://www.youtube.com/watch?v=AXc7lPzxD0M
+2024-12-21 22:58:39,951 - INFO - Fetching captions for video ID: AXc7lPzxD0M
+2024-12-21 22:58:40,527 - WARNING - Captions disabled for video ID: AXc7lPzxD0M
+2024-12-21 22:58:40,528 - INFO - Processing video 205/456: https://www.youtube.com/watch?v=XhbJwZFgeVA
+2024-12-21 22:58:40,528 - INFO - Fetching captions for video ID: XhbJwZFgeVA
+2024-12-21 22:58:41,177 - WARNING - Captions disabled for video ID: XhbJwZFgeVA
+2024-12-21 22:58:41,177 - INFO - Processing video 206/456: https://www.youtube.com/watch?v=yvx1VY4dIFs
+2024-12-21 22:58:41,177 - INFO - Fetching captions for video ID: yvx1VY4dIFs
+2024-12-21 22:58:42,068 - WARNING - Captions disabled for video ID: yvx1VY4dIFs
+2024-12-21 22:58:42,069 - INFO - Processing video 207/456: https://www.youtube.com/watch?v=1aujZWkL8Xg
+2024-12-21 22:58:42,069 - INFO - Fetching captions for video ID: 1aujZWkL8Xg
+2024-12-21 22:58:42,637 - WARNING - Captions disabled for video ID: 1aujZWkL8Xg
+2024-12-21 22:58:42,638 - INFO - Processing video 208/456: https://www.youtube.com/watch?v=_ZwCVCaegWI
+2024-12-21 22:58:42,638 - INFO - Fetching captions for video ID: _ZwCVCaegWI
+2024-12-21 22:58:43,269 - WARNING - Captions disabled for video ID: _ZwCVCaegWI
+2024-12-21 22:58:43,270 - INFO - Processing video 209/456: https://www.youtube.com/watch?v=sqv3miEcGZI
+2024-12-21 22:58:43,270 - INFO - Fetching captions for video ID: sqv3miEcGZI
+2024-12-21 22:58:43,961 - WARNING - Captions disabled for video ID: sqv3miEcGZI
+2024-12-21 22:58:43,961 - INFO - Processing video 210/456: https://www.youtube.com/watch?v=fV8AknDk5S8
+2024-12-21 22:58:43,961 - INFO - Fetching captions for video ID: fV8AknDk5S8
+2024-12-21 22:58:44,603 - WARNING - Captions disabled for video ID: fV8AknDk5S8
+2024-12-21 22:58:44,604 - INFO - Processing video 211/456: https://www.youtube.com/watch?v=a9TQJHEdBgM
+2024-12-21 22:58:44,604 - INFO - Fetching captions for video ID: a9TQJHEdBgM
+2024-12-21 22:58:45,308 - WARNING - Captions disabled for video ID: a9TQJHEdBgM
+2024-12-21 22:58:45,309 - INFO - Processing video 212/456: https://www.youtube.com/watch?v=m3-aeYwe35I
+2024-12-21 22:58:45,309 - INFO - Fetching captions for video ID: m3-aeYwe35I
+2024-12-21 22:58:45,950 - WARNING - Captions disabled for video ID: m3-aeYwe35I
+2024-12-21 22:58:45,950 - INFO - Processing video 213/456: https://www.youtube.com/watch?v=MQ0YOiH_NGY
+2024-12-21 22:58:45,950 - INFO - Fetching captions for video ID: MQ0YOiH_NGY
+2024-12-21 22:58:46,514 - WARNING - Captions disabled for video ID: MQ0YOiH_NGY
+2024-12-21 22:58:46,514 - INFO - Processing video 214/456: https://www.youtube.com/watch?v=7u2EYFqlMqc
+2024-12-21 22:58:46,514 - INFO - Fetching captions for video ID: 7u2EYFqlMqc
+2024-12-21 22:58:47,134 - WARNING - Captions disabled for video ID: 7u2EYFqlMqc
+2024-12-21 22:58:47,134 - INFO - Processing video 215/456: https://www.youtube.com/watch?v=KXxgqm1_trE
+2024-12-21 22:58:47,134 - INFO - Fetching captions for video ID: KXxgqm1_trE
+2024-12-21 22:58:47,756 - WARNING - Captions disabled for video ID: KXxgqm1_trE
+2024-12-21 22:58:47,756 - INFO - Processing video 216/456: https://www.youtube.com/watch?v=jhfvXSz0mH8
+2024-12-21 22:58:47,756 - INFO - Fetching captions for video ID: jhfvXSz0mH8
+2024-12-21 22:58:48,381 - WARNING - Captions disabled for video ID: jhfvXSz0mH8
+2024-12-21 22:58:48,381 - INFO - Processing video 217/456: https://www.youtube.com/watch?v=XzWvCVQ3pUQ
+2024-12-21 22:58:48,381 - INFO - Fetching captions for video ID: XzWvCVQ3pUQ
+2024-12-21 22:58:49,047 - WARNING - Captions disabled for video ID: XzWvCVQ3pUQ
+2024-12-21 22:58:49,047 - INFO - Processing video 218/456: https://www.youtube.com/watch?v=6lZoAVyv5pM
+2024-12-21 22:58:49,047 - INFO - Fetching captions for video ID: 6lZoAVyv5pM
+2024-12-21 22:58:49,606 - WARNING - Captions disabled for video ID: 6lZoAVyv5pM
+2024-12-21 22:58:49,606 - INFO - Processing video 219/456: https://www.youtube.com/watch?v=mSfo1wwAPbw
+2024-12-21 22:58:49,607 - INFO - Fetching captions for video ID: mSfo1wwAPbw
+2024-12-21 22:58:50,293 - WARNING - Captions disabled for video ID: mSfo1wwAPbw
+2024-12-21 22:58:50,293 - INFO - Processing video 220/456: https://www.youtube.com/watch?v=35aLmO1Ixbs
+2024-12-21 22:58:50,294 - INFO - Fetching captions for video ID: 35aLmO1Ixbs
+2024-12-21 22:58:51,022 - WARNING - Captions disabled for video ID: 35aLmO1Ixbs
+2024-12-21 22:58:51,022 - INFO - Processing video 221/456: https://www.youtube.com/watch?v=-iVJFB2gZuE
+2024-12-21 22:58:51,022 - INFO - Fetching captions for video ID: -iVJFB2gZuE
+2024-12-21 22:58:51,643 - WARNING - Captions disabled for video ID: -iVJFB2gZuE
+2024-12-21 22:58:51,643 - INFO - Processing video 222/456: https://www.youtube.com/watch?v=lGQ86FRK5Gk
+2024-12-21 22:58:51,643 - INFO - Fetching captions for video ID: lGQ86FRK5Gk
+2024-12-21 22:58:52,331 - WARNING - Captions disabled for video ID: lGQ86FRK5Gk
+2024-12-21 22:58:52,331 - INFO - Processing video 223/456: https://www.youtube.com/watch?v=oKJGhnYp2-8
+2024-12-21 22:58:52,331 - INFO - Fetching captions for video ID: oKJGhnYp2-8
+2024-12-21 22:58:53,125 - WARNING - Captions disabled for video ID: oKJGhnYp2-8
+2024-12-21 22:58:53,126 - INFO - Processing video 224/456: https://www.youtube.com/watch?v=93YVRWQcQh8
+2024-12-21 22:58:53,126 - INFO - Fetching captions for video ID: 93YVRWQcQh8
+2024-12-21 22:58:53,854 - WARNING - Captions disabled for video ID: 93YVRWQcQh8
+2024-12-21 22:58:53,855 - INFO - Processing video 225/456: https://www.youtube.com/watch?v=etnxdfMwthY
+2024-12-21 22:58:53,855 - INFO - Fetching captions for video ID: etnxdfMwthY
+2024-12-21 22:58:54,539 - WARNING - Captions disabled for video ID: etnxdfMwthY
+2024-12-21 22:58:54,539 - INFO - Processing video 226/456: https://www.youtube.com/watch?v=hGU5n9P4gM8
+2024-12-21 22:58:54,539 - INFO - Fetching captions for video ID: hGU5n9P4gM8
+2024-12-21 22:58:55,188 - WARNING - Captions disabled for video ID: hGU5n9P4gM8
+2024-12-21 22:58:55,189 - INFO - Processing video 227/456: https://www.youtube.com/watch?v=ITr_iM5OT2E
+2024-12-21 22:58:55,189 - INFO - Fetching captions for video ID: ITr_iM5OT2E
+2024-12-21 22:58:55,876 - WARNING - Captions disabled for video ID: ITr_iM5OT2E
+2024-12-21 22:58:55,876 - INFO - Processing video 228/456: https://www.youtube.com/watch?v=97HgKGojFbw
+2024-12-21 22:58:55,876 - INFO - Fetching captions for video ID: 97HgKGojFbw
+2024-12-21 22:58:56,505 - WARNING - Captions disabled for video ID: 97HgKGojFbw
+2024-12-21 22:58:56,505 - INFO - Processing video 229/456: https://www.youtube.com/watch?v=-KVeFSEQ1iA
+2024-12-21 22:58:56,505 - INFO - Fetching captions for video ID: -KVeFSEQ1iA
+2024-12-21 22:58:57,127 - WARNING - Captions disabled for video ID: -KVeFSEQ1iA
+2024-12-21 22:58:57,128 - INFO - Processing video 230/456: https://www.youtube.com/watch?v=1qrAUbNV-DQ
+2024-12-21 22:58:57,128 - INFO - Fetching captions for video ID: 1qrAUbNV-DQ
+2024-12-21 22:58:57,824 - WARNING - Captions disabled for video ID: 1qrAUbNV-DQ
+2024-12-21 22:58:57,824 - INFO - Processing video 231/456: https://www.youtube.com/watch?v=89CY-YpPD-k
+2024-12-21 22:58:57,824 - INFO - Fetching captions for video ID: 89CY-YpPD-k
+2024-12-21 22:58:58,484 - WARNING - Captions disabled for video ID: 89CY-YpPD-k
+2024-12-21 22:58:58,484 - INFO - Processing video 232/456: https://www.youtube.com/watch?v=iPcDWVxYW3w
+2024-12-21 22:58:58,484 - INFO - Fetching captions for video ID: iPcDWVxYW3w
+2024-12-21 22:58:59,242 - WARNING - Captions disabled for video ID: iPcDWVxYW3w
+2024-12-21 22:58:59,242 - INFO - Processing video 233/456: https://www.youtube.com/watch?v=n0fRSnKZqGc
+2024-12-21 22:58:59,242 - INFO - Fetching captions for video ID: n0fRSnKZqGc
+2024-12-21 22:58:59,905 - WARNING - Captions disabled for video ID: n0fRSnKZqGc
+2024-12-21 22:58:59,905 - INFO - Processing video 234/456: https://www.youtube.com/watch?v=_k8whpgmsss
+2024-12-21 22:58:59,905 - INFO - Fetching captions for video ID: _k8whpgmsss
+2024-12-21 22:59:00,611 - WARNING - Captions disabled for video ID: _k8whpgmsss
+2024-12-21 22:59:00,611 - INFO - Processing video 235/456: https://www.youtube.com/watch?v=zfyKm-5XKOg
+2024-12-21 22:59:00,611 - INFO - Fetching captions for video ID: zfyKm-5XKOg
+2024-12-21 22:59:01,261 - WARNING - Captions disabled for video ID: zfyKm-5XKOg
+2024-12-21 22:59:01,261 - INFO - Processing video 236/456: https://www.youtube.com/watch?v=5wuGTrtd8Wc
+2024-12-21 22:59:01,261 - INFO - Fetching captions for video ID: 5wuGTrtd8Wc
+2024-12-21 22:59:01,902 - WARNING - Captions disabled for video ID: 5wuGTrtd8Wc
+2024-12-21 22:59:01,902 - INFO - Processing video 237/456: https://www.youtube.com/watch?v=FP-k8L6kMkA
+2024-12-21 22:59:01,902 - INFO - Fetching captions for video ID: FP-k8L6kMkA
+2024-12-21 22:59:02,505 - WARNING - Captions disabled for video ID: FP-k8L6kMkA
+2024-12-21 22:59:02,505 - INFO - Processing video 238/456: https://www.youtube.com/watch?v=w3KtCotO1pk
+2024-12-21 22:59:02,505 - INFO - Fetching captions for video ID: w3KtCotO1pk
+2024-12-21 22:59:03,054 - WARNING - Captions disabled for video ID: w3KtCotO1pk
+2024-12-21 22:59:03,054 - INFO - Processing video 239/456: https://www.youtube.com/watch?v=-JtO4PEytsU
+2024-12-21 22:59:03,054 - INFO - Fetching captions for video ID: -JtO4PEytsU
+2024-12-21 22:59:03,758 - WARNING - Captions disabled for video ID: -JtO4PEytsU
+2024-12-21 22:59:03,758 - INFO - Processing video 240/456: https://www.youtube.com/watch?v=YSN4jE2gk7c
+2024-12-21 22:59:03,758 - INFO - Fetching captions for video ID: YSN4jE2gk7c
+2024-12-21 22:59:04,420 - WARNING - Captions disabled for video ID: YSN4jE2gk7c
+2024-12-21 22:59:04,421 - INFO - Processing video 241/456: https://www.youtube.com/watch?v=JvtrqbB4ufc
+2024-12-21 22:59:04,421 - INFO - Fetching captions for video ID: JvtrqbB4ufc
+2024-12-21 22:59:05,106 - WARNING - Captions disabled for video ID: JvtrqbB4ufc
+2024-12-21 22:59:05,107 - INFO - Processing video 242/456: https://www.youtube.com/watch?v=FHOdxan1BQk
+2024-12-21 22:59:05,107 - INFO - Fetching captions for video ID: FHOdxan1BQk
+2024-12-21 22:59:05,799 - WARNING - Captions disabled for video ID: FHOdxan1BQk
+2024-12-21 22:59:05,800 - INFO - Processing video 243/456: https://www.youtube.com/watch?v=Ovnx0LOT930
+2024-12-21 22:59:05,800 - INFO - Fetching captions for video ID: Ovnx0LOT930
+2024-12-21 22:59:06,436 - WARNING - Captions disabled for video ID: Ovnx0LOT930
+2024-12-21 22:59:06,436 - INFO - Processing video 244/456: https://www.youtube.com/watch?v=yGDBxWQWt_Y
+2024-12-21 22:59:06,436 - INFO - Fetching captions for video ID: yGDBxWQWt_Y
+2024-12-21 22:59:07,149 - WARNING - Captions disabled for video ID: yGDBxWQWt_Y
+2024-12-21 22:59:07,151 - INFO - Processing video 245/456: https://www.youtube.com/watch?v=YiFTxJY2p90
+2024-12-21 22:59:07,151 - INFO - Fetching captions for video ID: YiFTxJY2p90
+2024-12-21 22:59:07,850 - WARNING - Captions disabled for video ID: YiFTxJY2p90
+2024-12-21 22:59:07,851 - INFO - Processing video 246/456: https://www.youtube.com/watch?v=1fhJD4eLWBU
+2024-12-21 22:59:07,851 - INFO - Fetching captions for video ID: 1fhJD4eLWBU
+2024-12-21 22:59:08,496 - WARNING - Captions disabled for video ID: 1fhJD4eLWBU
+2024-12-21 22:59:08,496 - INFO - Processing video 247/456: https://www.youtube.com/watch?v=lfLe5NHPZko
+2024-12-21 22:59:08,496 - INFO - Fetching captions for video ID: lfLe5NHPZko
+2024-12-21 22:59:09,116 - WARNING - Captions disabled for video ID: lfLe5NHPZko
+2024-12-21 22:59:09,116 - INFO - Processing video 248/456: https://www.youtube.com/watch?v=SuXM1I1McLM
+2024-12-21 22:59:09,116 - INFO - Fetching captions for video ID: SuXM1I1McLM
+2024-12-21 22:59:09,732 - WARNING - Captions disabled for video ID: SuXM1I1McLM
+2024-12-21 22:59:09,732 - INFO - Processing video 249/456: https://www.youtube.com/watch?v=o12ezPQhOYA
+2024-12-21 22:59:09,732 - INFO - Fetching captions for video ID: o12ezPQhOYA
+2024-12-21 22:59:10,374 - WARNING - Captions disabled for video ID: o12ezPQhOYA
+2024-12-21 22:59:10,374 - INFO - Processing video 250/456: https://www.youtube.com/watch?v=iTEhzo8NiCY
+2024-12-21 22:59:10,374 - INFO - Fetching captions for video ID: iTEhzo8NiCY
+2024-12-21 22:59:11,015 - WARNING - Captions disabled for video ID: iTEhzo8NiCY
+2024-12-21 22:59:11,015 - INFO - Processing video 251/456: https://www.youtube.com/watch?v=YiFTxJY2p90
+2024-12-21 22:59:11,015 - INFO - Fetching captions for video ID: YiFTxJY2p90
+2024-12-21 22:59:11,642 - WARNING - Captions disabled for video ID: YiFTxJY2p90
+2024-12-21 22:59:11,642 - INFO - Processing video 252/456: https://www.youtube.com/watch?v=89CY-YpPD-k
+2024-12-21 22:59:11,642 - INFO - Fetching captions for video ID: 89CY-YpPD-k
+2024-12-21 22:59:12,313 - WARNING - Captions disabled for video ID: 89CY-YpPD-k
+2024-12-21 22:59:12,313 - INFO - Processing video 253/456: https://www.youtube.com/watch?v=1aujZWkL8Xg
+2024-12-21 22:59:12,313 - INFO - Fetching captions for video ID: 1aujZWkL8Xg
+2024-12-21 22:59:13,012 - WARNING - Captions disabled for video ID: 1aujZWkL8Xg
+2024-12-21 22:59:13,012 - INFO - Processing video 254/456: https://www.youtube.com/watch?v=w3KtCotO1pk
+2024-12-21 22:59:13,012 - INFO - Fetching captions for video ID: w3KtCotO1pk
+2024-12-21 22:59:13,723 - WARNING - Captions disabled for video ID: w3KtCotO1pk
+2024-12-21 22:59:13,723 - INFO - Processing video 255/456: https://www.youtube.com/watch?v=FP-k8L6kMkA
+2024-12-21 22:59:13,723 - INFO - Fetching captions for video ID: FP-k8L6kMkA
+2024-12-21 22:59:14,448 - WARNING - Captions disabled for video ID: FP-k8L6kMkA
+2024-12-21 22:59:14,448 - INFO - Processing video 256/456: https://www.youtube.com/watch?v=y75p0Ocxg0A
+2024-12-21 22:59:14,448 - INFO - Fetching captions for video ID: y75p0Ocxg0A
+2024-12-21 22:59:15,055 - WARNING - Captions disabled for video ID: y75p0Ocxg0A
+2024-12-21 22:59:15,055 - INFO - Processing video 257/456: https://www.youtube.com/watch?v=Q5j384wLQHE
+2024-12-21 22:59:15,055 - INFO - Fetching captions for video ID: Q5j384wLQHE
+2024-12-21 22:59:15,717 - WARNING - Captions disabled for video ID: Q5j384wLQHE
+2024-12-21 22:59:15,717 - INFO - Processing video 258/456: https://www.youtube.com/watch?v=zfyKm-5XKOg
+2024-12-21 22:59:15,717 - INFO - Fetching captions for video ID: zfyKm-5XKOg
+2024-12-21 22:59:16,391 - WARNING - Captions disabled for video ID: zfyKm-5XKOg
+2024-12-21 22:59:16,392 - INFO - Processing video 259/456: https://www.youtube.com/watch?v=6lZoAVyv5pM
+2024-12-21 22:59:16,392 - INFO - Fetching captions for video ID: 6lZoAVyv5pM
+2024-12-21 22:59:16,983 - WARNING - Captions disabled for video ID: 6lZoAVyv5pM
+2024-12-21 22:59:16,983 - INFO - Processing video 260/456: https://www.youtube.com/watch?v=GUrVsa0EJPg
+2024-12-21 22:59:16,983 - INFO - Fetching captions for video ID: GUrVsa0EJPg
+2024-12-21 22:59:17,565 - WARNING - Captions disabled for video ID: GUrVsa0EJPg
+2024-12-21 22:59:17,565 - INFO - Processing video 261/456: https://www.youtube.com/watch?v=Ovnx0LOT930
+2024-12-21 22:59:17,565 - INFO - Fetching captions for video ID: Ovnx0LOT930
+2024-12-21 22:59:18,244 - WARNING - Captions disabled for video ID: Ovnx0LOT930
+2024-12-21 22:59:18,244 - INFO - Processing video 262/456: https://www.youtube.com/watch?v=rNrVkp4bJ4w
+2024-12-21 22:59:18,244 - INFO - Fetching captions for video ID: rNrVkp4bJ4w
+2024-12-21 22:59:18,853 - WARNING - Captions disabled for video ID: rNrVkp4bJ4w
+2024-12-21 22:59:18,853 - INFO - Processing video 263/456: https://www.youtube.com/watch?v=1fhJD4eLWBU
+2024-12-21 22:59:18,853 - INFO - Fetching captions for video ID: 1fhJD4eLWBU
+2024-12-21 22:59:19,463 - WARNING - Captions disabled for video ID: 1fhJD4eLWBU
+2024-12-21 22:59:19,463 - INFO - Processing video 264/456: https://www.youtube.com/watch?v=XhbJwZFgeVA
+2024-12-21 22:59:19,463 - INFO - Fetching captions for video ID: XhbJwZFgeVA
+2024-12-21 22:59:20,121 - WARNING - Captions disabled for video ID: XhbJwZFgeVA
+2024-12-21 22:59:20,131 - INFO - Processing video 265/456: https://www.youtube.com/watch?v=iPcDWVxYW3w
+2024-12-21 22:59:20,131 - INFO - Fetching captions for video ID: iPcDWVxYW3w
+2024-12-21 22:59:20,874 - WARNING - Captions disabled for video ID: iPcDWVxYW3w
+2024-12-21 22:59:20,874 - INFO - Processing video 266/456: https://www.youtube.com/watch?v=97HgKGojFbw
+2024-12-21 22:59:20,874 - INFO - Fetching captions for video ID: 97HgKGojFbw
+2024-12-21 22:59:21,544 - WARNING - Captions disabled for video ID: 97HgKGojFbw
+2024-12-21 22:59:21,544 - INFO - Processing video 267/456: https://www.youtube.com/watch?v=YNhRXaXwzac
+2024-12-21 22:59:21,544 - INFO - Fetching captions for video ID: YNhRXaXwzac
+2024-12-21 22:59:22,348 - WARNING - Captions disabled for video ID: YNhRXaXwzac
+2024-12-21 22:59:22,348 - INFO - Processing video 268/456: https://www.youtube.com/watch?v=NlghbRZeNzg
+2024-12-21 22:59:22,348 - INFO - Fetching captions for video ID: NlghbRZeNzg
+2024-12-21 22:59:23,040 - WARNING - Captions disabled for video ID: NlghbRZeNzg
+2024-12-21 22:59:23,040 - INFO - Processing video 269/456: https://www.youtube.com/watch?v=7rmj379omlU
+2024-12-21 22:59:23,040 - INFO - Fetching captions for video ID: 7rmj379omlU
+2024-12-21 22:59:23,759 - WARNING - Captions disabled for video ID: 7rmj379omlU
+2024-12-21 22:59:23,759 - INFO - Processing video 270/456: https://www.youtube.com/watch?v=lfLe5NHPZko
+2024-12-21 22:59:23,759 - INFO - Fetching captions for video ID: lfLe5NHPZko
+2024-12-21 22:59:24,540 - WARNING - Captions disabled for video ID: lfLe5NHPZko
+2024-12-21 22:59:24,540 - INFO - Processing video 271/456: https://www.youtube.com/watch?v=uSjb0ix8ESY
+2024-12-21 22:59:24,540 - INFO - Fetching captions for video ID: uSjb0ix8ESY
+2024-12-21 22:59:25,217 - WARNING - Captions disabled for video ID: uSjb0ix8ESY
+2024-12-21 22:59:25,219 - INFO - Processing video 272/456: https://www.youtube.com/watch?v=Mii6TZXPrbQ
+2024-12-21 22:59:25,219 - INFO - Fetching captions for video ID: Mii6TZXPrbQ
+2024-12-21 22:59:25,848 - WARNING - Captions disabled for video ID: Mii6TZXPrbQ
+2024-12-21 22:59:25,849 - INFO - Processing video 273/456: https://www.youtube.com/watch?v=YU9uIx2qhUs
+2024-12-21 22:59:25,849 - INFO - Fetching captions for video ID: YU9uIx2qhUs
+2024-12-21 22:59:26,461 - WARNING - Captions disabled for video ID: YU9uIx2qhUs
+2024-12-21 22:59:26,461 - INFO - Processing video 274/456: https://www.youtube.com/watch?v=-KVeFSEQ1iA
+2024-12-21 22:59:26,461 - INFO - Fetching captions for video ID: -KVeFSEQ1iA
+2024-12-21 22:59:27,001 - WARNING - Captions disabled for video ID: -KVeFSEQ1iA
+2024-12-21 22:59:27,001 - INFO - Processing video 275/456: https://www.youtube.com/watch?v=C0akn-xvcX8
+2024-12-21 22:59:27,005 - INFO - Fetching captions for video ID: C0akn-xvcX8
+2024-12-21 22:59:27,737 - WARNING - Captions disabled for video ID: C0akn-xvcX8
+2024-12-21 22:59:27,737 - INFO - Processing video 276/456: https://www.youtube.com/watch?v=3aKGEH2PjYg
+2024-12-21 22:59:27,737 - INFO - Fetching captions for video ID: 3aKGEH2PjYg
+2024-12-21 22:59:28,440 - WARNING - Captions disabled for video ID: 3aKGEH2PjYg
+2024-12-21 22:59:28,440 - INFO - Processing video 277/456: https://www.youtube.com/watch?v=S4er6xOjXp8
+2024-12-21 22:59:28,440 - INFO - Fetching captions for video ID: S4er6xOjXp8
+2024-12-21 22:59:29,138 - WARNING - Captions disabled for video ID: S4er6xOjXp8
+2024-12-21 22:59:29,138 - INFO - Processing video 278/456: https://www.youtube.com/watch?v=dhmJpDq-5mk
+2024-12-21 22:59:29,138 - INFO - Fetching captions for video ID: dhmJpDq-5mk
+2024-12-21 22:59:29,797 - WARNING - Captions disabled for video ID: dhmJpDq-5mk
+2024-12-21 22:59:29,797 - INFO - Processing video 279/456: https://www.youtube.com/watch?v=4EezU-E1HL8
+2024-12-21 22:59:29,797 - INFO - Fetching captions for video ID: 4EezU-E1HL8
+2024-12-21 22:59:30,370 - WARNING - Captions disabled for video ID: 4EezU-E1HL8
+2024-12-21 22:59:30,370 - INFO - Processing video 280/456: https://www.youtube.com/watch?v=4rkkcMYrz1M
+2024-12-21 22:59:30,370 - INFO - Fetching captions for video ID: 4rkkcMYrz1M
+2024-12-21 22:59:31,003 - WARNING - Captions disabled for video ID: 4rkkcMYrz1M
+2024-12-21 22:59:31,003 - INFO - Processing video 281/456: https://www.youtube.com/watch?v=mtlVF8x4dgs
+2024-12-21 22:59:31,003 - INFO - Fetching captions for video ID: mtlVF8x4dgs
+2024-12-21 22:59:31,587 - WARNING - Captions disabled for video ID: mtlVF8x4dgs
+2024-12-21 22:59:31,587 - INFO - Processing video 282/456: https://www.youtube.com/watch?v=MlA8HENKuVM
+2024-12-21 22:59:31,587 - INFO - Fetching captions for video ID: MlA8HENKuVM
+2024-12-21 22:59:32,145 - WARNING - Captions disabled for video ID: MlA8HENKuVM
+2024-12-21 22:59:32,145 - INFO - Processing video 283/456: https://www.youtube.com/watch?v=-JtO4PEytsU
+2024-12-21 22:59:32,145 - INFO - Fetching captions for video ID: -JtO4PEytsU
+2024-12-21 22:59:32,895 - WARNING - Captions disabled for video ID: -JtO4PEytsU
+2024-12-21 22:59:32,895 - INFO - Processing video 284/456: https://www.youtube.com/watch?v=ZIsZF_da2VU
+2024-12-21 22:59:32,895 - INFO - Fetching captions for video ID: ZIsZF_da2VU
+2024-12-21 22:59:33,529 - WARNING - Captions disabled for video ID: ZIsZF_da2VU
+2024-12-21 22:59:33,529 - INFO - Processing video 285/456: https://www.youtube.com/watch?v=2OgpNq1wqaE
+2024-12-21 22:59:33,529 - INFO - Fetching captions for video ID: 2OgpNq1wqaE
+2024-12-21 22:59:34,145 - WARNING - Captions disabled for video ID: 2OgpNq1wqaE
+2024-12-21 22:59:34,145 - INFO - Processing video 286/456: https://www.youtube.com/watch?v=ITr_iM5OT2E
+2024-12-21 22:59:34,145 - INFO - Fetching captions for video ID: ITr_iM5OT2E
+2024-12-21 22:59:34,798 - WARNING - Captions disabled for video ID: ITr_iM5OT2E
+2024-12-21 22:59:34,798 - INFO - Processing video 287/456: https://www.youtube.com/watch?v=35aLmO1Ixbs
+2024-12-21 22:59:34,798 - INFO - Fetching captions for video ID: 35aLmO1Ixbs
+2024-12-21 22:59:35,489 - WARNING - Captions disabled for video ID: 35aLmO1Ixbs
+2024-12-21 22:59:35,489 - INFO - Processing video 288/456: https://www.youtube.com/watch?v=AOdDDtVjGpU
+2024-12-21 22:59:35,489 - INFO - Fetching captions for video ID: AOdDDtVjGpU
+2024-12-21 22:59:36,164 - WARNING - Captions disabled for video ID: AOdDDtVjGpU
+2024-12-21 22:59:36,164 - INFO - Processing video 289/456: https://www.youtube.com/watch?v=RXoKhzmrmLQ
+2024-12-21 22:59:36,164 - INFO - Fetching captions for video ID: RXoKhzmrmLQ
+2024-12-21 22:59:36,778 - WARNING - Captions disabled for video ID: RXoKhzmrmLQ
+2024-12-21 22:59:36,778 - INFO - Processing video 290/456: https://www.youtube.com/watch?v=NIOc8Ygk-oI
+2024-12-21 22:59:36,778 - INFO - Fetching captions for video ID: NIOc8Ygk-oI
+2024-12-21 22:59:37,440 - WARNING - Captions disabled for video ID: NIOc8Ygk-oI
+2024-12-21 22:59:37,440 - INFO - Processing video 291/456: https://www.youtube.com/watch?v=93YVRWQcQh8
+2024-12-21 22:59:37,440 - INFO - Fetching captions for video ID: 93YVRWQcQh8
+2024-12-21 22:59:38,177 - WARNING - Captions disabled for video ID: 93YVRWQcQh8
+2024-12-21 22:59:38,177 - INFO - Processing video 292/456: https://www.youtube.com/watch?v=u9BR7pTigSU
+2024-12-21 22:59:38,177 - INFO - Fetching captions for video ID: u9BR7pTigSU
+2024-12-21 22:59:38,874 - WARNING - Captions disabled for video ID: u9BR7pTigSU
+2024-12-21 22:59:38,874 - INFO - Processing video 293/456: https://www.youtube.com/watch?v=f94hn5kF-Ok
+2024-12-21 22:59:38,874 - INFO - Fetching captions for video ID: f94hn5kF-Ok
+2024-12-21 22:59:39,582 - WARNING - Captions disabled for video ID: f94hn5kF-Ok
+2024-12-21 22:59:39,582 - INFO - Processing video 294/456: https://www.youtube.com/watch?v=ePRNBmz-jP4
+2024-12-21 22:59:39,582 - INFO - Fetching captions for video ID: ePRNBmz-jP4
+2024-12-21 22:59:40,249 - WARNING - Captions disabled for video ID: ePRNBmz-jP4
+2024-12-21 22:59:40,249 - INFO - Processing video 295/456: https://www.youtube.com/watch?v=r0B4ZVF5J-M
+2024-12-21 22:59:40,249 - INFO - Fetching captions for video ID: r0B4ZVF5J-M
+2024-12-21 22:59:40,794 - WARNING - Captions disabled for video ID: r0B4ZVF5J-M
+2024-12-21 22:59:40,794 - INFO - Processing video 296/456: https://www.youtube.com/watch?v=7v07PLlIPgo
+2024-12-21 22:59:40,794 - INFO - Fetching captions for video ID: 7v07PLlIPgo
+2024-12-21 22:59:41,392 - WARNING - Captions disabled for video ID: 7v07PLlIPgo
+2024-12-21 22:59:41,392 - INFO - Processing video 297/456: https://www.youtube.com/watch?v=ULT18fbq840
+2024-12-21 22:59:41,392 - INFO - Fetching captions for video ID: ULT18fbq840
+2024-12-21 22:59:41,990 - WARNING - Captions disabled for video ID: ULT18fbq840
+2024-12-21 22:59:41,991 - INFO - Processing video 298/456: https://www.youtube.com/watch?v=fTc5JEDGpS0
+2024-12-21 22:59:41,991 - INFO - Fetching captions for video ID: fTc5JEDGpS0
+2024-12-21 22:59:42,684 - WARNING - Captions disabled for video ID: fTc5JEDGpS0
+2024-12-21 22:59:42,684 - INFO - Processing video 299/456: https://www.youtube.com/watch?v=tXyUd_YMssg
+2024-12-21 22:59:42,684 - INFO - Fetching captions for video ID: tXyUd_YMssg
+2024-12-21 22:59:43,303 - WARNING - Captions disabled for video ID: tXyUd_YMssg
+2024-12-21 22:59:43,303 - INFO - Processing video 300/456: https://www.youtube.com/watch?v=YSN4jE2gk7c
+2024-12-21 22:59:43,303 - INFO - Fetching captions for video ID: YSN4jE2gk7c
+2024-12-21 22:59:43,985 - WARNING - Captions disabled for video ID: YSN4jE2gk7c
+2024-12-21 22:59:43,985 - INFO - Processing video 301/456: https://www.youtube.com/watch?v=vdkx5sUmZcw
+2024-12-21 22:59:43,985 - INFO - Fetching captions for video ID: vdkx5sUmZcw
+2024-12-21 22:59:44,600 - WARNING - Captions disabled for video ID: vdkx5sUmZcw
+2024-12-21 22:59:44,600 - INFO - Processing video 302/456: https://www.youtube.com/watch?v=tPvCMQW38VU
+2024-12-21 22:59:44,600 - INFO - Fetching captions for video ID: tPvCMQW38VU
+2024-12-21 22:59:45,226 - WARNING - Captions disabled for video ID: tPvCMQW38VU
+2024-12-21 22:59:45,226 - INFO - Processing video 303/456: https://www.youtube.com/watch?v=dZdW7sQT3Pg
+2024-12-21 22:59:45,226 - INFO - Fetching captions for video ID: dZdW7sQT3Pg
+2024-12-21 22:59:45,898 - WARNING - Captions disabled for video ID: dZdW7sQT3Pg
+2024-12-21 22:59:45,898 - INFO - Processing video 304/456: https://www.youtube.com/watch?v=N2u4u4KWOOU
+2024-12-21 22:59:45,898 - INFO - Fetching captions for video ID: N2u4u4KWOOU
+2024-12-21 22:59:46,554 - WARNING - Captions disabled for video ID: N2u4u4KWOOU
+2024-12-21 22:59:46,554 - INFO - Processing video 305/456: https://www.youtube.com/watch?v=-VVgWUWM2z4
+2024-12-21 22:59:46,554 - INFO - Fetching captions for video ID: -VVgWUWM2z4
+2024-12-21 22:59:47,244 - WARNING - Captions disabled for video ID: -VVgWUWM2z4
+2024-12-21 22:59:47,244 - INFO - Processing video 306/456: https://www.youtube.com/watch?v=yGDBxWQWt_Y
+2024-12-21 22:59:47,244 - INFO - Fetching captions for video ID: yGDBxWQWt_Y
+2024-12-21 22:59:47,956 - WARNING - Captions disabled for video ID: yGDBxWQWt_Y
+2024-12-21 22:59:47,956 - INFO - Processing video 307/456: https://www.youtube.com/watch?v=IbwjDTOvwG8
+2024-12-21 22:59:47,956 - INFO - Fetching captions for video ID: IbwjDTOvwG8
+2024-12-21 22:59:48,750 - WARNING - Captions disabled for video ID: IbwjDTOvwG8
+2024-12-21 22:59:48,750 - INFO - Processing video 308/456: https://www.youtube.com/watch?v=4onk40bwKbo
+2024-12-21 22:59:48,750 - INFO - Fetching captions for video ID: 4onk40bwKbo
+2024-12-21 22:59:49,558 - WARNING - Captions disabled for video ID: 4onk40bwKbo
+2024-12-21 22:59:49,558 - INFO - Processing video 309/456: https://www.youtube.com/watch?v=OKmKh1wddEk
+2024-12-21 22:59:49,558 - INFO - Fetching captions for video ID: OKmKh1wddEk
+2024-12-21 22:59:50,159 - WARNING - Captions disabled for video ID: OKmKh1wddEk
+2024-12-21 22:59:50,159 - INFO - Processing video 310/456: https://www.youtube.com/watch?v=RYgi7TZpkjg
+2024-12-21 22:59:50,159 - INFO - Fetching captions for video ID: RYgi7TZpkjg
+2024-12-21 22:59:50,745 - WARNING - Captions disabled for video ID: RYgi7TZpkjg
+2024-12-21 22:59:50,745 - INFO - Processing video 311/456: https://www.youtube.com/watch?v=4ftJ-jLp3Yo
+2024-12-21 22:59:50,745 - INFO - Fetching captions for video ID: 4ftJ-jLp3Yo
+2024-12-21 22:59:51,535 - WARNING - Captions disabled for video ID: 4ftJ-jLp3Yo
+2024-12-21 22:59:51,535 - INFO - Processing video 312/456: https://www.youtube.com/watch?v=n0fRSnKZqGc
+2024-12-21 22:59:51,535 - INFO - Fetching captions for video ID: n0fRSnKZqGc
+2024-12-21 22:59:52,264 - WARNING - Captions disabled for video ID: n0fRSnKZqGc
+2024-12-21 22:59:52,266 - INFO - Processing video 313/456: https://www.youtube.com/watch?v=4EkVrodb_GE
+2024-12-21 22:59:52,266 - INFO - Fetching captions for video ID: 4EkVrodb_GE
+2024-12-21 22:59:52,853 - WARNING - Captions disabled for video ID: 4EkVrodb_GE
+2024-12-21 22:59:52,853 - INFO - Processing video 314/456: https://www.youtube.com/watch?v=_k8whpgmsss
+2024-12-21 22:59:52,853 - INFO - Fetching captions for video ID: _k8whpgmsss
+2024-12-21 22:59:53,516 - WARNING - Captions disabled for video ID: _k8whpgmsss
+2024-12-21 22:59:53,516 - INFO - Processing video 315/456: https://www.youtube.com/watch?v=i_vMTBFQ87M
+2024-12-21 22:59:53,516 - INFO - Fetching captions for video ID: i_vMTBFQ87M
+2024-12-21 22:59:54,179 - WARNING - Captions disabled for video ID: i_vMTBFQ87M
+2024-12-21 22:59:54,179 - INFO - Processing video 316/456: https://www.youtube.com/watch?v=HA_tss03GOs
+2024-12-21 22:59:54,179 - INFO - Fetching captions for video ID: HA_tss03GOs
+2024-12-21 22:59:54,778 - WARNING - Captions disabled for video ID: HA_tss03GOs
+2024-12-21 22:59:54,778 - INFO - Processing video 317/456: https://www.youtube.com/watch?v=GQGJkBeFTT0
+2024-12-21 22:59:54,778 - INFO - Fetching captions for video ID: GQGJkBeFTT0
+2024-12-21 22:59:55,537 - WARNING - Captions disabled for video ID: GQGJkBeFTT0
+2024-12-21 22:59:55,537 - INFO - Processing video 318/456: https://www.youtube.com/watch?v=LSQUWPC_97A
+2024-12-21 22:59:55,537 - INFO - Fetching captions for video ID: LSQUWPC_97A
+2024-12-21 22:59:56,548 - INFO - Processing video 319/456: https://www.youtube.com/watch?v=2izSzktgYpo
+2024-12-21 22:59:56,548 - INFO - Fetching captions for video ID: 2izSzktgYpo
+2024-12-21 22:59:57,174 - WARNING - Captions disabled for video ID: 2izSzktgYpo
+2024-12-21 22:59:57,174 - INFO - Processing video 320/456: https://www.youtube.com/watch?v=KC-0PouS88Y
+2024-12-21 22:59:57,174 - INFO - Fetching captions for video ID: KC-0PouS88Y
+2024-12-21 22:59:57,776 - WARNING - Captions disabled for video ID: KC-0PouS88Y
+2024-12-21 22:59:57,776 - INFO - Processing video 321/456: https://www.youtube.com/watch?v=3rs12sjX1as
+2024-12-21 22:59:57,776 - INFO - Fetching captions for video ID: 3rs12sjX1as
+2024-12-21 22:59:58,380 - WARNING - Captions disabled for video ID: 3rs12sjX1as
+2024-12-21 22:59:58,380 - INFO - Processing video 322/456: https://www.youtube.com/watch?v=JvtrqbB4ufc
+2024-12-21 22:59:58,380 - INFO - Fetching captions for video ID: JvtrqbB4ufc
+2024-12-21 22:59:59,064 - WARNING - Captions disabled for video ID: JvtrqbB4ufc
+2024-12-21 22:59:59,064 - INFO - Processing video 323/456: https://www.youtube.com/watch?v=GzBMQihulz4
+2024-12-21 22:59:59,064 - INFO - Fetching captions for video ID: GzBMQihulz4
+2024-12-21 22:59:59,775 - WARNING - Captions disabled for video ID: GzBMQihulz4
+2024-12-21 22:59:59,775 - INFO - Processing video 324/456: https://www.youtube.com/watch?v=ymPgxj_ZJ0Q
+2024-12-21 22:59:59,775 - INFO - Fetching captions for video ID: ymPgxj_ZJ0Q
+2024-12-21 23:00:00,397 - WARNING - Captions disabled for video ID: ymPgxj_ZJ0Q
+2024-12-21 23:00:00,397 - INFO - Processing video 325/456: https://www.youtube.com/watch?v=wHIHgl-2GcU
+2024-12-21 23:00:00,397 - INFO - Fetching captions for video ID: wHIHgl-2GcU
+2024-12-21 23:00:01,092 - WARNING - Captions disabled for video ID: wHIHgl-2GcU
+2024-12-21 23:00:01,092 - INFO - Processing video 326/456: https://www.youtube.com/watch?v=0VpUuqzibUk
+2024-12-21 23:00:01,092 - INFO - Fetching captions for video ID: 0VpUuqzibUk
+2024-12-21 23:00:01,692 - WARNING - Captions disabled for video ID: 0VpUuqzibUk
+2024-12-21 23:00:01,692 - INFO - Processing video 327/456: https://www.youtube.com/watch?v=ktgMLYQYpy8
+2024-12-21 23:00:01,692 - INFO - Fetching captions for video ID: ktgMLYQYpy8
+2024-12-21 23:00:02,345 - WARNING - Captions disabled for video ID: ktgMLYQYpy8
+2024-12-21 23:00:02,345 - INFO - Processing video 328/456: https://www.youtube.com/watch?v=d1Hi6bABaA4
+2024-12-21 23:00:02,345 - INFO - Fetching captions for video ID: d1Hi6bABaA4
+2024-12-21 23:00:02,978 - WARNING - Captions disabled for video ID: d1Hi6bABaA4
+2024-12-21 23:00:02,978 - INFO - Processing video 329/456: https://www.youtube.com/watch?v=dmbUYu1qOuk
+2024-12-21 23:00:02,978 - INFO - Fetching captions for video ID: dmbUYu1qOuk
+2024-12-21 23:00:03,680 - WARNING - Captions disabled for video ID: dmbUYu1qOuk
+2024-12-21 23:00:03,682 - INFO - Processing video 330/456: https://www.youtube.com/watch?v=nfJh-9B76Ys
+2024-12-21 23:00:03,682 - INFO - Fetching captions for video ID: nfJh-9B76Ys
+2024-12-21 23:00:04,350 - WARNING - Captions disabled for video ID: nfJh-9B76Ys
+2024-12-21 23:00:04,350 - INFO - Processing video 331/456: https://www.youtube.com/watch?v=S-ggr5Uf4pQ
+2024-12-21 23:00:04,350 - INFO - Fetching captions for video ID: S-ggr5Uf4pQ
+2024-12-21 23:00:05,032 - WARNING - Captions disabled for video ID: S-ggr5Uf4pQ
+2024-12-21 23:00:05,032 - INFO - Processing video 332/456: https://www.youtube.com/watch?v=CMiakCX9Vy4
+2024-12-21 23:00:05,032 - INFO - Fetching captions for video ID: CMiakCX9Vy4
+2024-12-21 23:00:05,657 - WARNING - Captions disabled for video ID: CMiakCX9Vy4
+2024-12-21 23:00:05,673 - INFO - Processing video 333/456: https://www.youtube.com/watch?v=Ocu35D_h1EE
+2024-12-21 23:00:05,673 - INFO - Fetching captions for video ID: Ocu35D_h1EE
+2024-12-21 23:00:06,344 - WARNING - Captions disabled for video ID: Ocu35D_h1EE
+2024-12-21 23:00:06,344 - INFO - Processing video 334/456: https://www.youtube.com/watch?v=cjNO5QiNPk8
+2024-12-21 23:00:06,344 - INFO - Fetching captions for video ID: cjNO5QiNPk8
+2024-12-21 23:00:07,010 - WARNING - Captions disabled for video ID: cjNO5QiNPk8
+2024-12-21 23:00:07,010 - INFO - Processing video 335/456: https://www.youtube.com/watch?v=QcoL-kU1I1Y
+2024-12-21 23:00:07,010 - INFO - Fetching captions for video ID: QcoL-kU1I1Y
+2024-12-21 23:00:07,602 - WARNING - Captions disabled for video ID: QcoL-kU1I1Y
+2024-12-21 23:00:07,602 - INFO - Processing video 336/456: https://www.youtube.com/watch?v=ttus22CLSb4
+2024-12-21 23:00:07,602 - INFO - Fetching captions for video ID: ttus22CLSb4
+2024-12-21 23:00:08,206 - WARNING - Captions disabled for video ID: ttus22CLSb4
+2024-12-21 23:00:08,206 - INFO - Processing video 337/456: https://www.youtube.com/watch?v=q2X9YPT7LMI
+2024-12-21 23:00:08,206 - INFO - Fetching captions for video ID: q2X9YPT7LMI
+2024-12-21 23:00:08,788 - WARNING - Captions disabled for video ID: q2X9YPT7LMI
+2024-12-21 23:00:08,790 - INFO - Processing video 338/456: https://www.youtube.com/watch?v=Sc0Kr9JEVXs
+2024-12-21 23:00:08,790 - INFO - Fetching captions for video ID: Sc0Kr9JEVXs
+2024-12-21 23:00:09,490 - WARNING - Captions disabled for video ID: Sc0Kr9JEVXs
+2024-12-21 23:00:09,490 - INFO - Processing video 339/456: https://www.youtube.com/watch?v=IXQvtz4CdB8
+2024-12-21 23:00:09,490 - INFO - Fetching captions for video ID: IXQvtz4CdB8
+2024-12-21 23:00:10,181 - WARNING - Captions disabled for video ID: IXQvtz4CdB8
+2024-12-21 23:00:10,181 - INFO - Processing video 340/456: https://www.youtube.com/watch?v=NJZTCJKGyx4
+2024-12-21 23:00:10,181 - INFO - Fetching captions for video ID: NJZTCJKGyx4
+2024-12-21 23:00:10,787 - WARNING - Captions disabled for video ID: NJZTCJKGyx4
+2024-12-21 23:00:10,787 - INFO - Processing video 341/456: https://www.youtube.com/watch?v=eph_BM0g8zw
+2024-12-21 23:00:10,787 - INFO - Fetching captions for video ID: eph_BM0g8zw
+2024-12-21 23:00:11,423 - WARNING - Captions disabled for video ID: eph_BM0g8zw
+2024-12-21 23:00:11,423 - INFO - Processing video 342/456: https://www.youtube.com/watch?v=WVjutHfxtDo
+2024-12-21 23:00:11,423 - INFO - Fetching captions for video ID: WVjutHfxtDo
+2024-12-21 23:00:12,156 - WARNING - Captions disabled for video ID: WVjutHfxtDo
+2024-12-21 23:00:12,156 - INFO - Processing video 343/456: https://www.youtube.com/watch?v=y9fAPTSN45c
+2024-12-21 23:00:12,156 - INFO - Fetching captions for video ID: y9fAPTSN45c
+2024-12-21 23:00:12,697 - WARNING - Captions disabled for video ID: y9fAPTSN45c
+2024-12-21 23:00:12,697 - INFO - Processing video 344/456: https://www.youtube.com/watch?v=jAwgpDemm_I
+2024-12-21 23:00:12,697 - INFO - Fetching captions for video ID: jAwgpDemm_I
+2024-12-21 23:00:13,281 - WARNING - Captions disabled for video ID: jAwgpDemm_I
+2024-12-21 23:00:13,281 - INFO - Processing video 345/456: https://www.youtube.com/watch?v=swFgC1jWVfk
+2024-12-21 23:00:13,281 - INFO - Fetching captions for video ID: swFgC1jWVfk
+2024-12-21 23:00:13,880 - WARNING - Captions disabled for video ID: swFgC1jWVfk
+2024-12-21 23:00:13,880 - INFO - Processing video 346/456: https://www.youtube.com/watch?v=uDD941PR_08
+2024-12-21 23:00:13,880 - INFO - Fetching captions for video ID: uDD941PR_08
+2024-12-21 23:00:14,510 - WARNING - Captions disabled for video ID: uDD941PR_08
+2024-12-21 23:00:14,510 - INFO - Processing video 347/456: https://www.youtube.com/watch?v=gG5rRhPgoRU
+2024-12-21 23:00:14,510 - INFO - Fetching captions for video ID: gG5rRhPgoRU
+2024-12-21 23:00:15,291 - WARNING - Captions disabled for video ID: gG5rRhPgoRU
+2024-12-21 23:00:15,299 - INFO - Processing video 348/456: https://www.youtube.com/watch?v=vSaD36MRxBw
+2024-12-21 23:00:15,299 - INFO - Fetching captions for video ID: vSaD36MRxBw
+2024-12-21 23:00:15,933 - WARNING - Captions disabled for video ID: vSaD36MRxBw
+2024-12-21 23:00:15,933 - INFO - Processing video 349/456: https://www.youtube.com/watch?v=FybioscjEMw
+2024-12-21 23:00:15,933 - INFO - Fetching captions for video ID: FybioscjEMw
+2024-12-21 23:00:16,568 - WARNING - Captions disabled for video ID: FybioscjEMw
+2024-12-21 23:00:16,568 - INFO - Processing video 350/456: https://www.youtube.com/watch?v=VOvkkzGbCDk
+2024-12-21 23:00:16,568 - INFO - Fetching captions for video ID: VOvkkzGbCDk
+2024-12-21 23:00:17,190 - WARNING - Captions disabled for video ID: VOvkkzGbCDk
+2024-12-21 23:00:17,190 - INFO - Processing video 351/456: https://www.youtube.com/watch?v=VOvkkzGbCDk
+2024-12-21 23:00:17,190 - INFO - Fetching captions for video ID: VOvkkzGbCDk
+2024-12-21 23:00:17,792 - WARNING - Captions disabled for video ID: VOvkkzGbCDk
+2024-12-21 23:00:17,792 - INFO - Processing video 352/456: https://www.youtube.com/watch?v=wouIXHFKZy4
+2024-12-21 23:00:17,792 - INFO - Fetching captions for video ID: wouIXHFKZy4
+2024-12-21 23:00:18,735 - INFO - Processing video 353/456: https://www.youtube.com/watch?v=s08YBEKyf9Y
+2024-12-21 23:00:18,735 - INFO - Fetching captions for video ID: s08YBEKyf9Y
+2024-12-21 23:00:19,453 - WARNING - Captions disabled for video ID: s08YBEKyf9Y
+2024-12-21 23:00:19,453 - INFO - Processing video 354/456: https://www.youtube.com/watch?v=zjW5Iw4Zy0Y
+2024-12-21 23:00:19,453 - INFO - Fetching captions for video ID: zjW5Iw4Zy0Y
+2024-12-21 23:00:20,432 - INFO - Processing video 355/456: https://www.youtube.com/watch?v=yHqhJ1rIfus
+2024-12-21 23:00:20,432 - INFO - Fetching captions for video ID: yHqhJ1rIfus
+2024-12-21 23:00:21,057 - WARNING - Captions disabled for video ID: yHqhJ1rIfus
+2024-12-21 23:00:21,057 - INFO - Processing video 356/456: https://www.youtube.com/watch?v=94fuzZXsf3Y
+2024-12-21 23:00:21,057 - INFO - Fetching captions for video ID: 94fuzZXsf3Y
+2024-12-21 23:00:21,743 - WARNING - Captions disabled for video ID: 94fuzZXsf3Y
+2024-12-21 23:00:21,743 - INFO - Processing video 357/456: https://www.youtube.com/watch?v=FenVeYbNrDc
+2024-12-21 23:00:21,743 - INFO - Fetching captions for video ID: FenVeYbNrDc
+2024-12-21 23:00:22,335 - WARNING - Captions disabled for video ID: FenVeYbNrDc
+2024-12-21 23:00:22,335 - INFO - Processing video 358/456: https://www.youtube.com/watch?v=2iBSsKB9_GQ
+2024-12-21 23:00:22,335 - INFO - Fetching captions for video ID: 2iBSsKB9_GQ
+2024-12-21 23:00:22,959 - WARNING - Captions disabled for video ID: 2iBSsKB9_GQ
+2024-12-21 23:00:22,962 - INFO - Processing video 359/456: https://www.youtube.com/watch?v=FeK4qlewdpQ
+2024-12-21 23:00:22,962 - INFO - Fetching captions for video ID: FeK4qlewdpQ
+2024-12-21 23:00:23,562 - WARNING - Captions disabled for video ID: FeK4qlewdpQ
+2024-12-21 23:00:23,562 - INFO - Processing video 360/456: https://www.youtube.com/watch?v=M9AAcSapC-w
+2024-12-21 23:00:23,562 - INFO - Fetching captions for video ID: M9AAcSapC-w
+2024-12-21 23:00:24,366 - WARNING - Captions disabled for video ID: M9AAcSapC-w
+2024-12-21 23:00:24,366 - INFO - Processing video 361/456: https://www.youtube.com/watch?v=VTAWi0El5E0
+2024-12-21 23:00:24,366 - INFO - Fetching captions for video ID: VTAWi0El5E0
+2024-12-21 23:00:25,052 - WARNING - Captions disabled for video ID: VTAWi0El5E0
+2024-12-21 23:00:25,052 - INFO - Processing video 362/456: https://www.youtube.com/watch?v=Dvb2O0Dq4nM
+2024-12-21 23:00:25,052 - INFO - Fetching captions for video ID: Dvb2O0Dq4nM
+2024-12-21 23:00:25,666 - WARNING - Captions disabled for video ID: Dvb2O0Dq4nM
+2024-12-21 23:00:25,666 - INFO - Processing video 363/456: https://www.youtube.com/watch?v=xqL1lR5yhhA
+2024-12-21 23:00:25,666 - INFO - Fetching captions for video ID: xqL1lR5yhhA
+2024-12-21 23:00:26,212 - WARNING - Captions disabled for video ID: xqL1lR5yhhA
+2024-12-21 23:00:26,217 - INFO - Processing video 364/456: https://www.youtube.com/watch?v=9N-WnXhGpAQ
+2024-12-21 23:00:26,217 - INFO - Fetching captions for video ID: 9N-WnXhGpAQ
+2024-12-21 23:00:26,895 - WARNING - Captions disabled for video ID: 9N-WnXhGpAQ
+2024-12-21 23:00:26,895 - INFO - Processing video 365/456: https://www.youtube.com/watch?v=zBEnAnLLifQ
+2024-12-21 23:00:26,895 - INFO - Fetching captions for video ID: zBEnAnLLifQ
+2024-12-21 23:00:27,736 - WARNING - Captions disabled for video ID: zBEnAnLLifQ
+2024-12-21 23:00:27,736 - INFO - Processing video 366/456: https://www.youtube.com/watch?v=9Y2E_0zyXyE
+2024-12-21 23:00:27,736 - INFO - Fetching captions for video ID: 9Y2E_0zyXyE
+2024-12-21 23:00:28,516 - WARNING - Captions disabled for video ID: 9Y2E_0zyXyE
+2024-12-21 23:00:28,516 - INFO - Processing video 367/456: https://www.youtube.com/watch?v=yncBVLhkE98
+2024-12-21 23:00:28,516 - INFO - Fetching captions for video ID: yncBVLhkE98
+2024-12-21 23:00:29,119 - WARNING - Captions disabled for video ID: yncBVLhkE98
+2024-12-21 23:00:29,119 - INFO - Processing video 368/456: https://www.youtube.com/watch?v=GGzSId0_qJc
+2024-12-21 23:00:29,119 - INFO - Fetching captions for video ID: GGzSId0_qJc
+2024-12-21 23:00:29,772 - WARNING - Captions disabled for video ID: GGzSId0_qJc
+2024-12-21 23:00:29,772 - INFO - Processing video 369/456: https://www.youtube.com/watch?v=Mf2zGGSLJQ8
+2024-12-21 23:00:29,772 - INFO - Fetching captions for video ID: Mf2zGGSLJQ8
+2024-12-21 23:00:30,441 - WARNING - Captions disabled for video ID: Mf2zGGSLJQ8
+2024-12-21 23:00:30,441 - INFO - Processing video 370/456: https://www.youtube.com/watch?v=8URKgwE1VMM
+2024-12-21 23:00:30,441 - INFO - Fetching captions for video ID: 8URKgwE1VMM
+2024-12-21 23:00:31,173 - WARNING - Captions disabled for video ID: 8URKgwE1VMM
+2024-12-21 23:00:31,173 - INFO - Processing video 371/456: https://www.youtube.com/watch?v=-MfKN_X8O9k
+2024-12-21 23:00:31,173 - INFO - Fetching captions for video ID: -MfKN_X8O9k
+2024-12-21 23:00:31,971 - INFO - Processing video 372/456: https://www.youtube.com/watch?v=xT6xkOkk9Gw
+2024-12-21 23:00:31,971 - INFO - Fetching captions for video ID: xT6xkOkk9Gw
+2024-12-21 23:00:32,573 - WARNING - Captions disabled for video ID: xT6xkOkk9Gw
+2024-12-21 23:00:32,573 - INFO - Processing video 373/456: https://www.youtube.com/watch?v=7gT-4tuXbRA
+2024-12-21 23:00:32,573 - INFO - Fetching captions for video ID: 7gT-4tuXbRA
+2024-12-21 23:00:33,223 - WARNING - Captions disabled for video ID: 7gT-4tuXbRA
+2024-12-21 23:00:33,223 - INFO - Processing video 374/456: https://www.youtube.com/watch?v=p_yXae3j4HA
+2024-12-21 23:00:33,223 - INFO - Fetching captions for video ID: p_yXae3j4HA
+2024-12-21 23:00:33,915 - WARNING - Captions disabled for video ID: p_yXae3j4HA
+2024-12-21 23:00:33,915 - INFO - Processing video 375/456: https://www.youtube.com/watch?v=s6EXrinPiXI
+2024-12-21 23:00:33,915 - INFO - Fetching captions for video ID: s6EXrinPiXI
+2024-12-21 23:00:34,596 - INFO - Processing video 376/456: https://www.youtube.com/watch?v=80SnPnZkNTI
+2024-12-21 23:00:34,596 - INFO - Fetching captions for video ID: 80SnPnZkNTI
+2024-12-21 23:00:35,435 - WARNING - Captions disabled for video ID: 80SnPnZkNTI
+2024-12-21 23:00:35,435 - INFO - Processing video 377/456: https://www.youtube.com/watch?v=PAWpsyW9Hkk
+2024-12-21 23:00:35,435 - INFO - Fetching captions for video ID: PAWpsyW9Hkk
+2024-12-21 23:00:36,078 - WARNING - Captions disabled for video ID: PAWpsyW9Hkk
+2024-12-21 23:00:36,078 - INFO - Processing video 378/456: https://www.youtube.com/watch?v=-4p07AauEWk
+2024-12-21 23:00:36,078 - INFO - Fetching captions for video ID: -4p07AauEWk
+2024-12-21 23:00:36,719 - WARNING - Captions disabled for video ID: -4p07AauEWk
+2024-12-21 23:00:36,719 - INFO - Processing video 379/456: https://www.youtube.com/watch?v=lREzXeH4PTc
+2024-12-21 23:00:36,719 - INFO - Fetching captions for video ID: lREzXeH4PTc
+2024-12-21 23:00:37,365 - WARNING - Captions disabled for video ID: lREzXeH4PTc
+2024-12-21 23:00:37,365 - INFO - Processing video 380/456: https://www.youtube.com/watch?v=5V9eGkGLBKo
+2024-12-21 23:00:37,369 - INFO - Fetching captions for video ID: 5V9eGkGLBKo
+2024-12-21 23:00:37,964 - WARNING - Captions disabled for video ID: 5V9eGkGLBKo
+2024-12-21 23:00:37,964 - INFO - Processing video 381/456: https://www.youtube.com/watch?v=-KCRrU6cTJU
+2024-12-21 23:00:37,964 - INFO - Fetching captions for video ID: -KCRrU6cTJU
+2024-12-21 23:00:38,710 - WARNING - Captions disabled for video ID: -KCRrU6cTJU
+2024-12-21 23:00:38,710 - INFO - Processing video 382/456: https://www.youtube.com/watch?v=f6SxK88jNEU
+2024-12-21 23:00:38,710 - INFO - Fetching captions for video ID: f6SxK88jNEU
+2024-12-21 23:00:39,368 - WARNING - Captions disabled for video ID: f6SxK88jNEU
+2024-12-21 23:00:39,368 - INFO - Processing video 383/456: https://www.youtube.com/watch?v=f0MtWVRKk4Q
+2024-12-21 23:00:39,368 - INFO - Fetching captions for video ID: f0MtWVRKk4Q
+2024-12-21 23:00:40,092 - WARNING - Captions disabled for video ID: f0MtWVRKk4Q
+2024-12-21 23:00:40,092 - INFO - Processing video 384/456: https://www.youtube.com/watch?v=RxNr2SrQv1Y
+2024-12-21 23:00:40,092 - INFO - Fetching captions for video ID: RxNr2SrQv1Y
+2024-12-21 23:00:40,790 - WARNING - Captions disabled for video ID: RxNr2SrQv1Y
+2024-12-21 23:00:40,791 - INFO - Processing video 385/456: https://www.youtube.com/watch?v=uBDZZ--86lU
+2024-12-21 23:00:40,791 - INFO - Fetching captions for video ID: uBDZZ--86lU
+2024-12-21 23:00:41,471 - WARNING - Captions disabled for video ID: uBDZZ--86lU
+2024-12-21 23:00:41,471 - INFO - Processing video 386/456: https://www.youtube.com/watch?v=1FccMHcIzwY
+2024-12-21 23:00:41,471 - INFO - Fetching captions for video ID: 1FccMHcIzwY
+2024-12-21 23:00:42,174 - WARNING - Captions disabled for video ID: 1FccMHcIzwY
+2024-12-21 23:00:42,174 - INFO - Processing video 387/456: https://www.youtube.com/watch?v=3jZEn0krL5A
+2024-12-21 23:00:42,174 - INFO - Fetching captions for video ID: 3jZEn0krL5A
+2024-12-21 23:00:42,786 - WARNING - Captions disabled for video ID: 3jZEn0krL5A
+2024-12-21 23:00:42,786 - INFO - Processing video 388/456: https://www.youtube.com/watch?v=MebWf6V9MI4
+2024-12-21 23:00:42,786 - INFO - Fetching captions for video ID: MebWf6V9MI4
+2024-12-21 23:00:43,511 - WARNING - Captions disabled for video ID: MebWf6V9MI4
+2024-12-21 23:00:43,511 - INFO - Processing video 389/456: https://www.youtube.com/watch?v=6BIMbAz9Tyc
+2024-12-21 23:00:43,511 - INFO - Fetching captions for video ID: 6BIMbAz9Tyc
+2024-12-21 23:00:44,127 - WARNING - Captions disabled for video ID: 6BIMbAz9Tyc
+2024-12-21 23:00:44,127 - INFO - Processing video 390/456: https://www.youtube.com/watch?v=8cLShJJ0DME
+2024-12-21 23:00:44,127 - INFO - Fetching captions for video ID: 8cLShJJ0DME
+2024-12-21 23:00:44,792 - WARNING - Captions disabled for video ID: 8cLShJJ0DME
+2024-12-21 23:00:44,792 - INFO - Processing video 391/456: https://www.youtube.com/watch?v=ynokjzrlBuQ
+2024-12-21 23:00:44,792 - INFO - Fetching captions for video ID: ynokjzrlBuQ
+2024-12-21 23:00:45,474 - WARNING - Captions disabled for video ID: ynokjzrlBuQ
+2024-12-21 23:00:45,485 - INFO - Processing video 392/456: https://www.youtube.com/watch?v=xea6X0VkOL0
+2024-12-21 23:00:45,485 - INFO - Fetching captions for video ID: xea6X0VkOL0
+2024-12-21 23:00:46,106 - WARNING - Captions disabled for video ID: xea6X0VkOL0
+2024-12-21 23:00:46,106 - INFO - Processing video 393/456: https://www.youtube.com/watch?v=WBxbee-yxQo
+2024-12-21 23:00:46,106 - INFO - Fetching captions for video ID: WBxbee-yxQo
+2024-12-21 23:00:46,761 - WARNING - Captions disabled for video ID: WBxbee-yxQo
+2024-12-21 23:00:46,761 - INFO - Processing video 394/456: https://www.youtube.com/watch?v=u4ziFkeyQpM
+2024-12-21 23:00:46,761 - INFO - Fetching captions for video ID: u4ziFkeyQpM
+2024-12-21 23:00:47,358 - WARNING - Captions disabled for video ID: u4ziFkeyQpM
+2024-12-21 23:00:47,358 - INFO - Processing video 395/456: https://www.youtube.com/watch?v=36cHW8PE560
+2024-12-21 23:00:47,358 - INFO - Fetching captions for video ID: 36cHW8PE560
+2024-12-21 23:00:48,071 - WARNING - Captions disabled for video ID: 36cHW8PE560
+2024-12-21 23:00:48,071 - INFO - Processing video 396/456: https://www.youtube.com/watch?v=0NHu6Adkjbo
+2024-12-21 23:00:48,071 - INFO - Fetching captions for video ID: 0NHu6Adkjbo
+2024-12-21 23:00:48,703 - WARNING - Captions disabled for video ID: 0NHu6Adkjbo
+2024-12-21 23:00:48,703 - INFO - Processing video 397/456: https://www.youtube.com/watch?v=7cc2EyNT7BQ
+2024-12-21 23:00:48,703 - INFO - Fetching captions for video ID: 7cc2EyNT7BQ
+2024-12-21 23:00:49,358 - WARNING - Captions disabled for video ID: 7cc2EyNT7BQ
+2024-12-21 23:00:49,358 - INFO - Processing video 398/456: https://www.youtube.com/watch?v=VJU0VIlHBsw
+2024-12-21 23:00:49,358 - INFO - Fetching captions for video ID: VJU0VIlHBsw
+2024-12-21 23:00:49,965 - WARNING - Captions disabled for video ID: VJU0VIlHBsw
+2024-12-21 23:00:49,965 - INFO - Processing video 399/456: https://www.youtube.com/watch?v=nigbLZVEngE
+2024-12-21 23:00:49,965 - INFO - Fetching captions for video ID: nigbLZVEngE
+2024-12-21 23:00:50,566 - WARNING - Captions disabled for video ID: nigbLZVEngE
+2024-12-21 23:00:50,566 - INFO - Processing video 400/456: https://www.youtube.com/watch?v=F7FhWuO3xo4
+2024-12-21 23:00:50,566 - INFO - Fetching captions for video ID: F7FhWuO3xo4
+2024-12-21 23:00:51,296 - WARNING - Captions disabled for video ID: F7FhWuO3xo4
+2024-12-21 23:00:51,296 - INFO - Processing video 401/456: https://www.youtube.com/watch?v=gya7Powe5p8
+2024-12-21 23:00:51,296 - INFO - Fetching captions for video ID: gya7Powe5p8
+2024-12-21 23:00:51,978 - WARNING - Captions disabled for video ID: gya7Powe5p8
+2024-12-21 23:00:51,978 - INFO - Processing video 402/456: https://www.youtube.com/watch?v=Kn5zqRbslqI
+2024-12-21 23:00:51,978 - INFO - Fetching captions for video ID: Kn5zqRbslqI
+2024-12-21 23:00:52,599 - WARNING - Captions disabled for video ID: Kn5zqRbslqI
+2024-12-21 23:00:52,599 - INFO - Processing video 403/456: https://www.youtube.com/watch?v=L0T5YX9WHME
+2024-12-21 23:00:52,599 - INFO - Fetching captions for video ID: L0T5YX9WHME
+2024-12-21 23:00:53,768 - WARNING - Captions disabled for video ID: L0T5YX9WHME
+2024-12-21 23:00:53,768 - INFO - Processing video 404/456: https://www.youtube.com/watch?v=BT2Y3oYKQlQ
+2024-12-21 23:00:53,768 - INFO - Fetching captions for video ID: BT2Y3oYKQlQ
+2024-12-21 23:00:54,532 - WARNING - Captions disabled for video ID: BT2Y3oYKQlQ
+2024-12-21 23:00:54,532 - INFO - Processing video 405/456: https://www.youtube.com/watch?v=902HoCO-298
+2024-12-21 23:00:54,532 - INFO - Fetching captions for video ID: 902HoCO-298
+2024-12-21 23:00:55,096 - WARNING - Captions disabled for video ID: 902HoCO-298
+2024-12-21 23:00:55,096 - INFO - Processing video 406/456: https://www.youtube.com/watch?v=zO2XbgFne9k
+2024-12-21 23:00:55,096 - INFO - Fetching captions for video ID: zO2XbgFne9k
+2024-12-21 23:00:55,798 - WARNING - Captions disabled for video ID: zO2XbgFne9k
+2024-12-21 23:00:55,798 - INFO - Processing video 407/456: https://www.youtube.com/watch?v=2Prd_PtVfu8
+2024-12-21 23:00:55,798 - INFO - Fetching captions for video ID: 2Prd_PtVfu8
+2024-12-21 23:00:56,328 - WARNING - Captions disabled for video ID: 2Prd_PtVfu8
+2024-12-21 23:00:56,328 - INFO - Processing video 408/456: https://www.youtube.com/watch?v=d5EIqk4I_1o
+2024-12-21 23:00:56,328 - INFO - Fetching captions for video ID: d5EIqk4I_1o
+2024-12-21 23:00:57,111 - WARNING - Captions disabled for video ID: d5EIqk4I_1o
+2024-12-21 23:00:57,123 - INFO - Processing video 409/456: https://www.youtube.com/watch?v=srbsIxklIz8
+2024-12-21 23:00:57,123 - INFO - Fetching captions for video ID: srbsIxklIz8
+2024-12-21 23:00:57,868 - WARNING - Captions disabled for video ID: srbsIxklIz8
+2024-12-21 23:00:57,868 - INFO - Processing video 410/456: https://www.youtube.com/watch?v=ka6a80doMpo
+2024-12-21 23:00:57,868 - INFO - Fetching captions for video ID: ka6a80doMpo
+2024-12-21 23:00:58,511 - WARNING - Captions disabled for video ID: ka6a80doMpo
+2024-12-21 23:00:58,511 - INFO - Processing video 411/456: https://www.youtube.com/watch?v=W4R00hnEXHg
+2024-12-21 23:00:58,511 - INFO - Fetching captions for video ID: W4R00hnEXHg
+2024-12-21 23:00:59,312 - WARNING - Captions disabled for video ID: W4R00hnEXHg
+2024-12-21 23:00:59,312 - INFO - Processing video 412/456: https://www.youtube.com/watch?v=SqLNDxbh1sM
+2024-12-21 23:00:59,312 - INFO - Fetching captions for video ID: SqLNDxbh1sM
+2024-12-21 23:01:00,266 - WARNING - Captions disabled for video ID: SqLNDxbh1sM
+2024-12-21 23:01:00,266 - INFO - Processing video 413/456: https://www.youtube.com/watch?v=27YugsH1WPM
+2024-12-21 23:01:00,266 - INFO - Fetching captions for video ID: 27YugsH1WPM
+2024-12-21 23:01:01,580 - WARNING - Captions disabled for video ID: 27YugsH1WPM
+2024-12-21 23:01:01,580 - INFO - Processing video 414/456: https://www.youtube.com/watch?v=FGMH4Xh_DF8
+2024-12-21 23:01:01,580 - INFO - Fetching captions for video ID: FGMH4Xh_DF8
+2024-12-21 23:01:02,380 - WARNING - Captions disabled for video ID: FGMH4Xh_DF8
+2024-12-21 23:01:02,380 - INFO - Processing video 415/456: https://www.youtube.com/watch?v=g464Dt1v3Wo
+2024-12-21 23:01:02,380 - INFO - Fetching captions for video ID: g464Dt1v3Wo
+2024-12-21 23:01:02,918 - WARNING - Captions disabled for video ID: g464Dt1v3Wo
+2024-12-21 23:01:02,918 - INFO - Processing video 416/456: https://www.youtube.com/watch?v=XrmbxaZmEb4
+2024-12-21 23:01:02,918 - INFO - Fetching captions for video ID: XrmbxaZmEb4
+2024-12-21 23:01:03,430 - WARNING - Captions disabled for video ID: XrmbxaZmEb4
+2024-12-21 23:01:03,430 - INFO - Processing video 417/456: https://www.youtube.com/watch?v=b-XZtmVhN4U
+2024-12-21 23:01:03,430 - INFO - Fetching captions for video ID: b-XZtmVhN4U
+2024-12-21 23:01:04,010 - WARNING - Captions disabled for video ID: b-XZtmVhN4U
+2024-12-21 23:01:04,010 - INFO - Processing video 418/456: https://www.youtube.com/watch?v=yL-h9VegAlA
+2024-12-21 23:01:04,010 - INFO - Fetching captions for video ID: yL-h9VegAlA
+2024-12-21 23:01:04,716 - WARNING - Captions disabled for video ID: yL-h9VegAlA
+2024-12-21 23:01:04,716 - INFO - Processing video 419/456: https://www.youtube.com/watch?v=1gVtfDxXDSg
+2024-12-21 23:01:04,716 - INFO - Fetching captions for video ID: 1gVtfDxXDSg
+2024-12-21 23:01:05,336 - WARNING - Captions disabled for video ID: 1gVtfDxXDSg
+2024-12-21 23:01:05,336 - INFO - Processing video 420/456: https://www.youtube.com/watch?v=CsXfpgSoT2k
+2024-12-21 23:01:05,336 - INFO - Fetching captions for video ID: CsXfpgSoT2k
+2024-12-21 23:01:05,982 - WARNING - Captions disabled for video ID: CsXfpgSoT2k
+2024-12-21 23:01:05,982 - INFO - Processing video 421/456: https://www.youtube.com/watch?v=5cA_O5JkjWk
+2024-12-21 23:01:05,982 - INFO - Fetching captions for video ID: 5cA_O5JkjWk
+2024-12-21 23:01:06,575 - WARNING - Captions disabled for video ID: 5cA_O5JkjWk
+2024-12-21 23:01:06,576 - INFO - Processing video 422/456: https://www.youtube.com/watch?v=IeE-9jUEaio
+2024-12-21 23:01:06,576 - INFO - Fetching captions for video ID: IeE-9jUEaio
+2024-12-21 23:01:07,547 - INFO - Processing video 423/456: https://www.youtube.com/watch?v=OEzRr_L4kYc
+2024-12-21 23:01:07,547 - INFO - Fetching captions for video ID: OEzRr_L4kYc
+2024-12-21 23:01:08,115 - WARNING - Captions disabled for video ID: OEzRr_L4kYc
+2024-12-21 23:01:08,115 - INFO - Processing video 424/456: https://www.youtube.com/watch?v=DJ3A47PGdhc
+2024-12-21 23:01:08,115 - INFO - Fetching captions for video ID: DJ3A47PGdhc
+2024-12-21 23:01:08,866 - WARNING - Captions disabled for video ID: DJ3A47PGdhc
+2024-12-21 23:01:08,866 - INFO - Processing video 425/456: https://www.youtube.com/watch?v=U_u8MzNZ7TA
+2024-12-21 23:01:08,866 - INFO - Fetching captions for video ID: U_u8MzNZ7TA
+2024-12-21 23:01:09,614 - WARNING - Captions disabled for video ID: U_u8MzNZ7TA
+2024-12-21 23:01:09,614 - INFO - Processing video 426/456: https://www.youtube.com/watch?v=7yKouVc8BUI
+2024-12-21 23:01:09,614 - INFO - Fetching captions for video ID: 7yKouVc8BUI
+2024-12-21 23:01:10,264 - WARNING - Captions disabled for video ID: 7yKouVc8BUI
+2024-12-21 23:01:10,264 - INFO - Processing video 427/456: https://www.youtube.com/watch?v=9SWtJ87RrhE
+2024-12-21 23:01:10,264 - INFO - Fetching captions for video ID: 9SWtJ87RrhE
+2024-12-21 23:01:10,877 - WARNING - Captions disabled for video ID: 9SWtJ87RrhE
+2024-12-21 23:01:10,877 - INFO - Processing video 428/456: https://www.youtube.com/watch?v=CsCNuZDd3xY
+2024-12-21 23:01:10,877 - INFO - Fetching captions for video ID: CsCNuZDd3xY
+2024-12-21 23:01:11,753 - WARNING - Captions disabled for video ID: CsCNuZDd3xY
+2024-12-21 23:01:11,753 - INFO - Processing video 429/456: https://www.youtube.com/watch?v=wdYkXct5MU4
+2024-12-21 23:01:11,753 - INFO - Fetching captions for video ID: wdYkXct5MU4
+2024-12-21 23:01:12,439 - WARNING - Captions disabled for video ID: wdYkXct5MU4
+2024-12-21 23:01:12,439 - INFO - Processing video 430/456: https://www.youtube.com/watch?v=32oOlaENKfU
+2024-12-21 23:01:12,439 - INFO - Fetching captions for video ID: 32oOlaENKfU
+2024-12-21 23:01:13,021 - WARNING - Captions disabled for video ID: 32oOlaENKfU
+2024-12-21 23:01:13,021 - INFO - Processing video 431/456: https://www.youtube.com/watch?v=jTkRzN7ggME
+2024-12-21 23:01:13,021 - INFO - Fetching captions for video ID: jTkRzN7ggME
+2024-12-21 23:01:13,613 - WARNING - Captions disabled for video ID: jTkRzN7ggME
+2024-12-21 23:01:13,613 - INFO - Processing video 432/456: https://www.youtube.com/watch?v=tcq5zSF2AgI
+2024-12-21 23:01:13,613 - INFO - Fetching captions for video ID: tcq5zSF2AgI
+2024-12-21 23:01:14,441 - INFO - Processing video 433/456: https://www.youtube.com/watch?v=mSIRvGymtHU
+2024-12-21 23:01:14,441 - INFO - Fetching captions for video ID: mSIRvGymtHU
+2024-12-21 23:01:15,083 - WARNING - Captions disabled for video ID: mSIRvGymtHU
+2024-12-21 23:01:15,083 - INFO - Processing video 434/456: https://www.youtube.com/watch?v=CgQTR_zzhAI
+2024-12-21 23:01:15,083 - INFO - Fetching captions for video ID: CgQTR_zzhAI
+2024-12-21 23:01:16,001 - WARNING - Captions disabled for video ID: CgQTR_zzhAI
+2024-12-21 23:01:16,001 - INFO - Processing video 435/456: https://www.youtube.com/watch?v=wU9k5jlblls
+2024-12-21 23:01:16,001 - INFO - Fetching captions for video ID: wU9k5jlblls
+2024-12-21 23:01:16,650 - WARNING - Captions disabled for video ID: wU9k5jlblls
+2024-12-21 23:01:16,650 - INFO - Processing video 436/456: https://www.youtube.com/watch?v=S4xqBumaPng
+2024-12-21 23:01:16,650 - INFO - Fetching captions for video ID: S4xqBumaPng
+2024-12-21 23:01:17,352 - WARNING - Captions disabled for video ID: S4xqBumaPng
+2024-12-21 23:01:17,352 - INFO - Processing video 437/456: https://www.youtube.com/watch?v=oSo6ZwrUAWg
+2024-12-21 23:01:17,352 - INFO - Fetching captions for video ID: oSo6ZwrUAWg
+2024-12-21 23:01:18,096 - WARNING - Captions disabled for video ID: oSo6ZwrUAWg
+2024-12-21 23:01:18,096 - INFO - Processing video 438/456: https://www.youtube.com/watch?v=yEVuK1jYeUo
+2024-12-21 23:01:18,096 - INFO - Fetching captions for video ID: yEVuK1jYeUo
+2024-12-21 23:01:18,728 - WARNING - Captions disabled for video ID: yEVuK1jYeUo
+2024-12-21 23:01:18,728 - INFO - Processing video 439/456: https://www.youtube.com/watch?v=06ZrEgak5ig
+2024-12-21 23:01:18,728 - INFO - Fetching captions for video ID: 06ZrEgak5ig
+2024-12-21 23:01:19,404 - WARNING - Captions disabled for video ID: 06ZrEgak5ig
+2024-12-21 23:01:19,404 - INFO - Processing video 440/456: https://www.youtube.com/watch?v=_9ihzdv200U
+2024-12-21 23:01:19,404 - INFO - Fetching captions for video ID: _9ihzdv200U
+2024-12-21 23:01:20,025 - WARNING - Captions disabled for video ID: _9ihzdv200U
+2024-12-21 23:01:20,025 - INFO - Processing video 441/456: https://www.youtube.com/watch?v=aKzsXx3LcgU
+2024-12-21 23:01:20,025 - INFO - Fetching captions for video ID: aKzsXx3LcgU
+2024-12-21 23:01:20,820 - INFO - Processing video 442/456: https://www.youtube.com/watch?v=FJ34XrBr_6I
+2024-12-21 23:01:20,820 - INFO - Fetching captions for video ID: FJ34XrBr_6I
+2024-12-21 23:01:21,726 - INFO - Processing video 443/456: https://www.youtube.com/watch?v=aw7fKB_8xWs
+2024-12-21 23:01:21,733 - INFO - Fetching captions for video ID: aw7fKB_8xWs
+2024-12-21 23:01:22,448 - WARNING - Captions disabled for video ID: aw7fKB_8xWs
+2024-12-21 23:01:22,448 - INFO - Processing video 444/456: https://www.youtube.com/watch?v=db_2mujPXjk
+2024-12-21 23:01:22,448 - INFO - Fetching captions for video ID: db_2mujPXjk
+2024-12-21 23:01:23,197 - INFO - Processing video 445/456: https://www.youtube.com/watch?v=k0cLkLdZRww
+2024-12-21 23:01:23,197 - INFO - Fetching captions for video ID: k0cLkLdZRww
+2024-12-21 23:01:23,821 - WARNING - Captions disabled for video ID: k0cLkLdZRww
+2024-12-21 23:01:23,821 - INFO - Processing video 446/456: https://www.youtube.com/watch?v=xX0Gzqr8jow
+2024-12-21 23:01:23,821 - INFO - Fetching captions for video ID: xX0Gzqr8jow
+2024-12-21 23:01:24,427 - WARNING - Captions disabled for video ID: xX0Gzqr8jow
+2024-12-21 23:01:24,428 - INFO - Processing video 447/456: https://www.youtube.com/watch?v=wzGUZwIjUTE
+2024-12-21 23:01:24,428 - INFO - Fetching captions for video ID: wzGUZwIjUTE
+2024-12-21 23:01:25,417 - INFO - Processing video 448/456: https://www.youtube.com/watch?v=hh68DpcWtvA
+2024-12-21 23:01:25,417 - INFO - Fetching captions for video ID: hh68DpcWtvA
+2024-12-21 23:01:26,158 - WARNING - Captions disabled for video ID: hh68DpcWtvA
+2024-12-21 23:01:26,159 - INFO - Processing video 449/456: https://www.youtube.com/watch?v=DwnaiIY0DsI
+2024-12-21 23:01:26,159 - INFO - Fetching captions for video ID: DwnaiIY0DsI
+2024-12-21 23:01:26,931 - WARNING - Captions disabled for video ID: DwnaiIY0DsI
+2024-12-21 23:01:26,931 - INFO - Processing video 450/456: https://www.youtube.com/watch?v=H_g3PZcps0A
+2024-12-21 23:01:26,931 - INFO - Fetching captions for video ID: H_g3PZcps0A
+2024-12-21 23:01:27,568 - WARNING - Captions disabled for video ID: H_g3PZcps0A
+2024-12-21 23:01:27,568 - INFO - Processing video 451/456: https://www.youtube.com/watch?v=mAPbxRFeb64
+2024-12-21 23:01:27,568 - INFO - Fetching captions for video ID: mAPbxRFeb64
+2024-12-21 23:01:28,354 - WARNING - Captions disabled for video ID: mAPbxRFeb64
+2024-12-21 23:01:28,354 - INFO - Processing video 452/456: https://www.youtube.com/watch?v=1uhWOm1GWw0
+2024-12-21 23:01:28,354 - INFO - Fetching captions for video ID: 1uhWOm1GWw0
+2024-12-21 23:01:28,941 - WARNING - Captions disabled for video ID: 1uhWOm1GWw0
+2024-12-21 23:01:28,941 - INFO - Processing video 453/456: https://www.youtube.com/watch?v=j620aYsx5Qw
+2024-12-21 23:01:28,941 - INFO - Fetching captions for video ID: j620aYsx5Qw
+2024-12-21 23:01:30,524 - WARNING - Captions disabled for video ID: j620aYsx5Qw
+2024-12-21 23:01:30,524 - INFO - Processing video 454/456: https://www.youtube.com/watch?v=wBsrDySVfq4
+2024-12-21 23:01:30,524 - INFO - Fetching captions for video ID: wBsrDySVfq4
+2024-12-21 23:01:31,178 - WARNING - Captions disabled for video ID: wBsrDySVfq4
+2024-12-21 23:01:31,178 - INFO - Processing video 455/456: https://www.youtube.com/watch?v=e_DysoKuewE
+2024-12-21 23:01:31,178 - INFO - Fetching captions for video ID: e_DysoKuewE
+2024-12-21 23:01:31,880 - WARNING - Captions disabled for video ID: e_DysoKuewE
+2024-12-21 23:01:31,880 - INFO - Processing video 456/456: https://www.youtube.com/watch?v=xMDAU1WB5JQ
+2024-12-21 23:01:31,880 - INFO - Fetching captions for video ID: xMDAU1WB5JQ
+2024-12-21 23:01:32,598 - WARNING - Captions disabled for video ID: xMDAU1WB5JQ
+2024-12-21 23:01:32,598 - INFO - Captions data saved to Movies_captions.csv

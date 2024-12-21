@@ -1,0 +1,927 @@
+2024-12-21 22:46:41,578 - INFO - Starting script...
+2024-12-21 22:46:41,578 - INFO - Fetching top videos for genre ID: 30
+2024-12-21 22:46:42,162 - INFO - Fetched 50 videos so far.
+2024-12-21 22:46:42,731 - INFO - Fetched 100 videos so far.
+2024-12-21 22:46:43,271 - INFO - Fetched 150 videos so far.
+2024-12-21 22:46:43,842 - INFO - Fetched 200 videos so far.
+2024-12-21 22:46:44,419 - INFO - Fetched 250 videos so far.
+2024-12-21 22:46:45,007 - INFO - Fetched 300 videos so far.
+2024-12-21 22:46:45,631 - INFO - Fetched 350 videos so far.
+2024-12-21 22:46:46,194 - INFO - Fetched 400 videos so far.
+2024-12-21 22:46:46,838 - INFO - Fetched 450 videos so far.
+2024-12-21 22:46:47,371 - INFO - Fetched 456 videos so far.
+2024-12-21 22:46:47,371 - INFO - No more pages available.
+2024-12-21 22:46:47,371 - INFO - Total videos fetched: 456
+2024-12-21 22:46:47,371 - INFO - Fetching details for video ID: AL2xUN_eP50
+2024-12-21 22:46:47,705 - INFO - Processed video ID: AL2xUN_eP50
+2024-12-21 22:46:47,705 - INFO - Fetching details for video ID: IEAfVDaf1hM
+2024-12-21 22:46:47,908 - INFO - Processed video ID: IEAfVDaf1hM
+2024-12-21 22:46:47,908 - INFO - Fetching details for video ID: LjiXs0LdFZs
+2024-12-21 22:46:48,110 - INFO - Processed video ID: LjiXs0LdFZs
+2024-12-21 22:46:48,110 - INFO - Fetching details for video ID: GjbLPDsPhDA
+2024-12-21 22:46:48,309 - INFO - Processed video ID: GjbLPDsPhDA
+2024-12-21 22:46:48,309 - INFO - Fetching details for video ID: eRSkM_W9xXw
+2024-12-21 22:46:48,519 - INFO - Processed video ID: eRSkM_W9xXw
+2024-12-21 22:46:48,519 - INFO - Fetching details for video ID: JLwNc9sGEes
+2024-12-21 22:46:48,709 - INFO - Processed video ID: JLwNc9sGEes
+2024-12-21 22:46:48,709 - INFO - Fetching details for video ID: XGWx4Cu8ti0
+2024-12-21 22:46:48,914 - INFO - Processed video ID: XGWx4Cu8ti0
+2024-12-21 22:46:48,914 - INFO - Fetching details for video ID: UL6rjfjiaWs
+2024-12-21 22:46:49,107 - INFO - Processed video ID: UL6rjfjiaWs
+2024-12-21 22:46:49,107 - INFO - Fetching details for video ID: 1NBUpld5hZA
+2024-12-21 22:46:49,298 - INFO - Processed video ID: 1NBUpld5hZA
+2024-12-21 22:46:49,298 - INFO - Fetching details for video ID: 9Os8D7O6MZU
+2024-12-21 22:46:49,484 - INFO - Processed video ID: 9Os8D7O6MZU
+2024-12-21 22:46:49,484 - INFO - Fetching details for video ID: jbJdNpdT31Y
+2024-12-21 22:46:49,679 - INFO - Processed video ID: jbJdNpdT31Y
+2024-12-21 22:46:49,680 - INFO - Fetching details for video ID: etcvW4k7OyE
+2024-12-21 22:46:49,895 - INFO - Processed video ID: etcvW4k7OyE
+2024-12-21 22:46:49,895 - INFO - Fetching details for video ID: sQdmt7vIEdQ
+2024-12-21 22:46:50,091 - INFO - Processed video ID: sQdmt7vIEdQ
+2024-12-21 22:46:50,091 - INFO - Fetching details for video ID: I1pkrZJ2sj8
+2024-12-21 22:46:50,287 - INFO - Processed video ID: I1pkrZJ2sj8
+2024-12-21 22:46:50,287 - INFO - Fetching details for video ID: uCNDHDA2Vi4
+2024-12-21 22:46:50,487 - INFO - Processed video ID: uCNDHDA2Vi4
+2024-12-21 22:46:50,487 - INFO - Fetching details for video ID: ThrC-JWxVA4
+2024-12-21 22:46:50,678 - INFO - Processed video ID: ThrC-JWxVA4
+2024-12-21 22:46:50,678 - INFO - Fetching details for video ID: FzebZ_uu0gk
+2024-12-21 22:46:50,867 - INFO - Processed video ID: FzebZ_uu0gk
+2024-12-21 22:46:50,867 - INFO - Fetching details for video ID: jdGaUUB2aak
+2024-12-21 22:46:51,062 - INFO - Processed video ID: jdGaUUB2aak
+2024-12-21 22:46:51,062 - INFO - Fetching details for video ID: iEMKrOjsksE
+2024-12-21 22:46:51,251 - INFO - Processed video ID: iEMKrOjsksE
+2024-12-21 22:46:51,251 - INFO - Fetching details for video ID: MoD8Wt97Xq8
+2024-12-21 22:46:51,443 - INFO - Processed video ID: MoD8Wt97Xq8
+2024-12-21 22:46:51,443 - INFO - Fetching details for video ID: UOxjpPtHVZM
+2024-12-21 22:46:51,638 - INFO - Processed video ID: UOxjpPtHVZM
+2024-12-21 22:46:51,639 - INFO - Fetching details for video ID: 5SR6dPkQ_rM
+2024-12-21 22:46:51,841 - INFO - Processed video ID: 5SR6dPkQ_rM
+2024-12-21 22:46:51,841 - INFO - Fetching details for video ID: 4dfnH232lB4
+2024-12-21 22:46:52,030 - INFO - Processed video ID: 4dfnH232lB4
+2024-12-21 22:46:52,030 - INFO - Fetching details for video ID: 3LCiNRNkSug
+2024-12-21 22:46:52,220 - INFO - Processed video ID: 3LCiNRNkSug
+2024-12-21 22:46:52,220 - INFO - Fetching details for video ID: XzrOks5QVo4
+2024-12-21 22:46:52,414 - INFO - Processed video ID: XzrOks5QVo4
+2024-12-21 22:46:52,414 - INFO - Fetching details for video ID: Y45SC-THvwI
+2024-12-21 22:46:52,608 - INFO - Processed video ID: Y45SC-THvwI
+2024-12-21 22:46:52,608 - INFO - Fetching details for video ID: C1hAEMXf85c
+2024-12-21 22:46:52,797 - INFO - Processed video ID: C1hAEMXf85c
+2024-12-21 22:46:52,797 - INFO - Fetching details for video ID: JG1pnk2VgEo
+2024-12-21 22:46:52,986 - INFO - Processed video ID: JG1pnk2VgEo
+2024-12-21 22:46:52,986 - INFO - Fetching details for video ID: UaHMLfKeAtU
+2024-12-21 22:46:53,186 - INFO - Processed video ID: UaHMLfKeAtU
+2024-12-21 22:46:53,186 - INFO - Fetching details for video ID: yY5bcIq_h4k
+2024-12-21 22:46:53,379 - INFO - Processed video ID: yY5bcIq_h4k
+2024-12-21 22:46:53,379 - INFO - Fetching details for video ID: nNPZOZR_WDQ
+2024-12-21 22:46:53,581 - INFO - Processed video ID: nNPZOZR_WDQ
+2024-12-21 22:46:53,581 - INFO - Fetching details for video ID: pnwfdY0HVu4
+2024-12-21 22:46:53,775 - INFO - Processed video ID: pnwfdY0HVu4
+2024-12-21 22:46:53,775 - INFO - Fetching details for video ID: r3MM8CvL1oA
+2024-12-21 22:46:53,970 - INFO - Processed video ID: r3MM8CvL1oA
+2024-12-21 22:46:53,970 - INFO - Fetching details for video ID: 8jdWA0pM9X8
+2024-12-21 22:46:54,158 - INFO - Processed video ID: 8jdWA0pM9X8
+2024-12-21 22:46:54,158 - INFO - Fetching details for video ID: qKcOtOejaic
+2024-12-21 22:46:54,345 - INFO - Processed video ID: qKcOtOejaic
+2024-12-21 22:46:54,345 - INFO - Fetching details for video ID: rNTOuqR6x_Q
+2024-12-21 22:46:54,552 - INFO - Processed video ID: rNTOuqR6x_Q
+2024-12-21 22:46:54,554 - INFO - Fetching details for video ID: k7UaZ6Su5dI
+2024-12-21 22:46:54,755 - INFO - Processed video ID: k7UaZ6Su5dI
+2024-12-21 22:46:54,755 - INFO - Fetching details for video ID: gc9sgdUkWY0
+2024-12-21 22:46:55,245 - INFO - Processed video ID: gc9sgdUkWY0
+2024-12-21 22:46:55,245 - INFO - Fetching details for video ID: 4CAhEt_f960
+2024-12-21 22:46:55,435 - INFO - Processed video ID: 4CAhEt_f960
+2024-12-21 22:46:55,435 - INFO - Fetching details for video ID: 2BR-LGAfqjQ
+2024-12-21 22:46:55,624 - INFO - Processed video ID: 2BR-LGAfqjQ
+2024-12-21 22:46:55,624 - INFO - Fetching details for video ID: AWpl7YE_38Q
+2024-12-21 22:46:55,810 - INFO - Processed video ID: AWpl7YE_38Q
+2024-12-21 22:46:55,810 - INFO - Fetching details for video ID: -0sxErCPYVc
+2024-12-21 22:46:56,028 - INFO - Processed video ID: -0sxErCPYVc
+2024-12-21 22:46:56,028 - INFO - Fetching details for video ID: wMFADwMcKgk
+2024-12-21 22:46:56,231 - INFO - Processed video ID: wMFADwMcKgk
+2024-12-21 22:46:56,231 - INFO - Fetching details for video ID: 6fZVUHXJcUw
+2024-12-21 22:46:56,420 - INFO - Processed video ID: 6fZVUHXJcUw
+2024-12-21 22:46:56,420 - INFO - Fetching details for video ID: 6xrh-w09Rvo
+2024-12-21 22:46:56,611 - INFO - Processed video ID: 6xrh-w09Rvo
+2024-12-21 22:46:56,611 - INFO - Fetching details for video ID: OVS_z4Ru1YY
+2024-12-21 22:46:56,799 - INFO - Processed video ID: OVS_z4Ru1YY
+2024-12-21 22:46:56,799 - INFO - Fetching details for video ID: bGY10oqiJoM
+2024-12-21 22:46:56,995 - INFO - Processed video ID: bGY10oqiJoM
+2024-12-21 22:46:56,995 - INFO - Fetching details for video ID: bfEIhjqXP5A
+2024-12-21 22:46:57,181 - INFO - Processed video ID: bfEIhjqXP5A
+2024-12-21 22:46:57,185 - INFO - Fetching details for video ID: rAz5u3wiCVk
+2024-12-21 22:46:57,365 - INFO - Processed video ID: rAz5u3wiCVk
+2024-12-21 22:46:57,365 - INFO - Fetching details for video ID: mhSAFrqjapQ
+2024-12-21 22:46:57,563 - INFO - Processed video ID: mhSAFrqjapQ
+2024-12-21 22:46:57,563 - INFO - Fetching details for video ID: 8KWjhxHb99w
+2024-12-21 22:46:57,762 - INFO - Processed video ID: 8KWjhxHb99w
+2024-12-21 22:46:57,762 - INFO - Fetching details for video ID: nSDuzEmm3w8
+2024-12-21 22:46:57,954 - INFO - Processed video ID: nSDuzEmm3w8
+2024-12-21 22:46:57,954 - INFO - Fetching details for video ID: _33KvQFrunc
+2024-12-21 22:46:58,147 - INFO - Processed video ID: _33KvQFrunc
+2024-12-21 22:46:58,147 - INFO - Fetching details for video ID: KnP9nl6JfvI
+2024-12-21 22:46:58,342 - INFO - Processed video ID: KnP9nl6JfvI
+2024-12-21 22:46:58,342 - INFO - Fetching details for video ID: g1zqqsOU3bU
+2024-12-21 22:46:58,522 - INFO - Processed video ID: g1zqqsOU3bU
+2024-12-21 22:46:58,522 - INFO - Fetching details for video ID: LlNSB_-GmBI
+2024-12-21 22:46:58,719 - INFO - Processed video ID: LlNSB_-GmBI
+2024-12-21 22:46:58,719 - INFO - Fetching details for video ID: FhV6Vqbezk0
+2024-12-21 22:46:58,909 - INFO - Processed video ID: FhV6Vqbezk0
+2024-12-21 22:46:58,909 - INFO - Fetching details for video ID: WJlY0VySfbo
+2024-12-21 22:46:59,100 - INFO - Processed video ID: WJlY0VySfbo
+2024-12-21 22:46:59,100 - INFO - Fetching details for video ID: F9Vc60F5IeM
+2024-12-21 22:46:59,297 - INFO - Processed video ID: F9Vc60F5IeM
+2024-12-21 22:46:59,297 - INFO - Fetching details for video ID: R9rf3urf-J0
+2024-12-21 22:46:59,485 - INFO - Processed video ID: R9rf3urf-J0
+2024-12-21 22:46:59,485 - INFO - Fetching details for video ID: ecrWgbtmb8I
+2024-12-21 22:46:59,671 - INFO - Processed video ID: ecrWgbtmb8I
+2024-12-21 22:46:59,671 - INFO - Fetching details for video ID: 2Mq6z-IlECA
+2024-12-21 22:46:59,867 - INFO - Processed video ID: 2Mq6z-IlECA
+2024-12-21 22:46:59,867 - INFO - Fetching details for video ID: UNLBgIMaPjQ
+2024-12-21 22:47:00,073 - INFO - Processed video ID: UNLBgIMaPjQ
+2024-12-21 22:47:00,073 - INFO - Fetching details for video ID: 8wGmzBF4IHU
+2024-12-21 22:47:00,276 - INFO - Processed video ID: 8wGmzBF4IHU
+2024-12-21 22:47:00,276 - INFO - Fetching details for video ID: Aycsq9SsMxk
+2024-12-21 22:47:00,469 - INFO - Processed video ID: Aycsq9SsMxk
+2024-12-21 22:47:00,469 - INFO - Fetching details for video ID: ROyLVfROnP0
+2024-12-21 22:47:00,663 - INFO - Processed video ID: ROyLVfROnP0
+2024-12-21 22:47:00,663 - INFO - Fetching details for video ID: YVkmfUAIlb4
+2024-12-21 22:47:00,851 - INFO - Processed video ID: YVkmfUAIlb4
+2024-12-21 22:47:00,852 - INFO - Fetching details for video ID: Mlb3v9uDK30
+2024-12-21 22:47:01,062 - INFO - Processed video ID: Mlb3v9uDK30
+2024-12-21 22:47:01,062 - INFO - Fetching details for video ID: yhsihRa9XUQ
+2024-12-21 22:47:01,252 - INFO - Processed video ID: yhsihRa9XUQ
+2024-12-21 22:47:01,252 - INFO - Fetching details for video ID: G92Jr_id27k
+2024-12-21 22:47:01,447 - INFO - Processed video ID: G92Jr_id27k
+2024-12-21 22:47:01,447 - INFO - Fetching details for video ID: vIYrlx1UEgs
+2024-12-21 22:47:01,622 - INFO - Processed video ID: vIYrlx1UEgs
+2024-12-21 22:47:01,622 - INFO - Fetching details for video ID: HUK2SCqzuJc
+2024-12-21 22:47:01,824 - INFO - Processed video ID: HUK2SCqzuJc
+2024-12-21 22:47:01,824 - INFO - Fetching details for video ID: kBwi0cSuYC4
+2024-12-21 22:47:02,023 - INFO - Processed video ID: kBwi0cSuYC4
+2024-12-21 22:47:02,023 - INFO - Fetching details for video ID: _8ZGNDhXa8o
+2024-12-21 22:47:02,230 - INFO - Processed video ID: _8ZGNDhXa8o
+2024-12-21 22:47:02,230 - INFO - Fetching details for video ID: M2-_8Vi-_xo
+2024-12-21 22:47:02,421 - INFO - Processed video ID: M2-_8Vi-_xo
+2024-12-21 22:47:02,421 - INFO - Fetching details for video ID: UrEj6cEvdgU
+2024-12-21 22:47:02,609 - INFO - Processed video ID: UrEj6cEvdgU
+2024-12-21 22:47:02,609 - INFO - Fetching details for video ID: uKnTScBY7Ps
+2024-12-21 22:47:02,810 - INFO - Processed video ID: uKnTScBY7Ps
+2024-12-21 22:47:02,810 - INFO - Fetching details for video ID: LLZYdD6HWG4
+2024-12-21 22:47:02,996 - INFO - Processed video ID: LLZYdD6HWG4
+2024-12-21 22:47:02,996 - INFO - Fetching details for video ID: rhfPDyuY5c0
+2024-12-21 22:47:03,180 - INFO - Processed video ID: rhfPDyuY5c0
+2024-12-21 22:47:03,180 - INFO - Fetching details for video ID: IIfFAy3LLk4
+2024-12-21 22:47:03,385 - INFO - Processed video ID: IIfFAy3LLk4
+2024-12-21 22:47:03,385 - INFO - Fetching details for video ID: n9oqY9rV050
+2024-12-21 22:47:03,588 - INFO - Processed video ID: n9oqY9rV050
+2024-12-21 22:47:03,588 - INFO - Fetching details for video ID: SblnEKxmi7s
+2024-12-21 22:47:03,784 - INFO - Processed video ID: SblnEKxmi7s
+2024-12-21 22:47:03,784 - INFO - Fetching details for video ID: LXCPQvjBFhc
+2024-12-21 22:47:03,974 - INFO - Processed video ID: LXCPQvjBFhc
+2024-12-21 22:47:03,974 - INFO - Fetching details for video ID: aNBZc7Prc9g
+2024-12-21 22:47:04,165 - INFO - Processed video ID: aNBZc7Prc9g
+2024-12-21 22:47:04,165 - INFO - Fetching details for video ID: OtLZRiECnRU
+2024-12-21 22:47:04,349 - INFO - Processed video ID: OtLZRiECnRU
+2024-12-21 22:47:04,349 - INFO - Fetching details for video ID: vscw5BkPP1k
+2024-12-21 22:47:04,552 - INFO - Processed video ID: vscw5BkPP1k
+2024-12-21 22:47:04,552 - INFO - Fetching details for video ID: 635mKczPl3k
+2024-12-21 22:47:04,743 - INFO - Processed video ID: 635mKczPl3k
+2024-12-21 22:47:04,743 - INFO - Fetching details for video ID: vGXL8OQD4UY
+2024-12-21 22:47:04,939 - INFO - Processed video ID: vGXL8OQD4UY
+2024-12-21 22:47:04,939 - INFO - Fetching details for video ID: ORJSyHyhJng
+2024-12-21 22:47:05,133 - INFO - Processed video ID: ORJSyHyhJng
+2024-12-21 22:47:05,133 - INFO - Fetching details for video ID: NZT4WDmT-bw
+2024-12-21 22:47:05,322 - INFO - Processed video ID: NZT4WDmT-bw
+2024-12-21 22:47:05,322 - INFO - Fetching details for video ID: 1Ldjxbh9CUA
+2024-12-21 22:47:05,508 - INFO - Processed video ID: 1Ldjxbh9CUA
+2024-12-21 22:47:05,508 - INFO - Fetching details for video ID: xLticXsZSYw
+2024-12-21 22:47:05,691 - INFO - Processed video ID: xLticXsZSYw
+2024-12-21 22:47:05,691 - INFO - Fetching details for video ID: dslwn6OwdmQ
+2024-12-21 22:47:05,873 - INFO - Processed video ID: dslwn6OwdmQ
+2024-12-21 22:47:05,873 - INFO - Fetching details for video ID: MuAtOyrkfVM
+2024-12-21 22:47:06,079 - INFO - Processed video ID: MuAtOyrkfVM
+2024-12-21 22:47:06,079 - INFO - Fetching details for video ID: 1ykHwNC6FQw
+2024-12-21 22:47:06,267 - INFO - Processed video ID: 1ykHwNC6FQw
+2024-12-21 22:47:06,267 - INFO - Fetching details for video ID: lcQGR65qr2M
+2024-12-21 22:47:06,455 - INFO - Processed video ID: lcQGR65qr2M
+2024-12-21 22:47:06,455 - INFO - Fetching details for video ID: h0zvXZXoB1A
+2024-12-21 22:47:06,676 - INFO - Processed video ID: h0zvXZXoB1A
+2024-12-21 22:47:06,678 - INFO - Fetching details for video ID: WcGWYL6SbYI
+2024-12-21 22:47:06,864 - INFO - Processed video ID: WcGWYL6SbYI
+2024-12-21 22:47:06,865 - INFO - Fetching details for video ID: nJCvUiDYr9c
+2024-12-21 22:47:07,053 - INFO - Processed video ID: nJCvUiDYr9c
+2024-12-21 22:47:07,053 - INFO - Fetching details for video ID: WBkyBz7TlGo
+2024-12-21 22:47:07,241 - INFO - Processed video ID: WBkyBz7TlGo
+2024-12-21 22:47:07,241 - INFO - Fetching details for video ID: Tta0CKImBNk
+2024-12-21 22:47:07,445 - INFO - Processed video ID: Tta0CKImBNk
+2024-12-21 22:47:07,445 - INFO - Fetching details for video ID: G9U54uA6q08
+2024-12-21 22:47:07,631 - INFO - Processed video ID: G9U54uA6q08
+2024-12-21 22:47:07,631 - INFO - Fetching details for video ID: Uio6v-LB8Ks
+2024-12-21 22:47:07,810 - INFO - Processed video ID: Uio6v-LB8Ks
+2024-12-21 22:47:07,810 - INFO - Fetching details for video ID: UAxMVhK30Gg
+2024-12-21 22:47:08,014 - INFO - Processed video ID: UAxMVhK30Gg
+2024-12-21 22:47:08,014 - INFO - Fetching details for video ID: 39yazi5GMPA
+2024-12-21 22:47:08,222 - INFO - Processed video ID: 39yazi5GMPA
+2024-12-21 22:47:08,222 - INFO - Fetching details for video ID: Y09jN38z1Jg
+2024-12-21 22:47:08,422 - INFO - Processed video ID: Y09jN38z1Jg
+2024-12-21 22:47:08,422 - INFO - Fetching details for video ID: x0O7lCbE66M
+2024-12-21 22:47:08,624 - INFO - Processed video ID: x0O7lCbE66M
+2024-12-21 22:47:08,624 - INFO - Fetching details for video ID: m34DYXXN3KM
+2024-12-21 22:47:08,806 - INFO - Processed video ID: m34DYXXN3KM
+2024-12-21 22:47:08,806 - INFO - Fetching details for video ID: K2KVKF3YGG0
+2024-12-21 22:47:08,993 - INFO - Processed video ID: K2KVKF3YGG0
+2024-12-21 22:47:08,993 - INFO - Fetching details for video ID: w0kUFIi927s
+2024-12-21 22:47:09,199 - INFO - Processed video ID: w0kUFIi927s
+2024-12-21 22:47:09,199 - INFO - Fetching details for video ID: 3DqMQAkulpk
+2024-12-21 22:47:09,398 - INFO - Processed video ID: 3DqMQAkulpk
+2024-12-21 22:47:09,398 - INFO - Fetching details for video ID: D4JtLCp0hmI
+2024-12-21 22:47:09,592 - INFO - Processed video ID: D4JtLCp0hmI
+2024-12-21 22:47:09,592 - INFO - Fetching details for video ID: raxBpihSVao
+2024-12-21 22:47:09,782 - INFO - Processed video ID: raxBpihSVao
+2024-12-21 22:47:09,782 - INFO - Fetching details for video ID: iLq6BtPTgWs
+2024-12-21 22:47:09,988 - INFO - Processed video ID: iLq6BtPTgWs
+2024-12-21 22:47:09,988 - INFO - Fetching details for video ID: XWISSqsBNiM
+2024-12-21 22:47:10,172 - INFO - Processed video ID: XWISSqsBNiM
+2024-12-21 22:47:10,172 - INFO - Fetching details for video ID: tmvFuKDcGzc
+2024-12-21 22:47:10,360 - INFO - Processed video ID: tmvFuKDcGzc
+2024-12-21 22:47:10,360 - INFO - Fetching details for video ID: 7FvfjZqC3is
+2024-12-21 22:47:10,546 - INFO - Processed video ID: 7FvfjZqC3is
+2024-12-21 22:47:10,546 - INFO - Fetching details for video ID: YmTHcXjAOyE
+2024-12-21 22:47:10,751 - INFO - Processed video ID: YmTHcXjAOyE
+2024-12-21 22:47:10,751 - INFO - Fetching details for video ID: Yg8uaZYMMEM
+2024-12-21 22:47:10,939 - INFO - Processed video ID: Yg8uaZYMMEM
+2024-12-21 22:47:10,939 - INFO - Fetching details for video ID: ErxK7uvFTWk
+2024-12-21 22:47:11,125 - INFO - Processed video ID: ErxK7uvFTWk
+2024-12-21 22:47:11,125 - INFO - Fetching details for video ID: ibTOir5IELY
+2024-12-21 22:47:11,323 - INFO - Processed video ID: ibTOir5IELY
+2024-12-21 22:47:11,323 - INFO - Fetching details for video ID: uYWXvHI8Pvs
+2024-12-21 22:47:11,513 - INFO - Processed video ID: uYWXvHI8Pvs
+2024-12-21 22:47:11,513 - INFO - Fetching details for video ID: ZEb-khSLZB0
+2024-12-21 22:47:11,695 - INFO - Processed video ID: ZEb-khSLZB0
+2024-12-21 22:47:11,695 - INFO - Fetching details for video ID: ZgSMDh6cI1k
+2024-12-21 22:47:11,890 - INFO - Processed video ID: ZgSMDh6cI1k
+2024-12-21 22:47:11,890 - INFO - Fetching details for video ID: ULBiTCnYv6o
+2024-12-21 22:47:12,091 - INFO - Processed video ID: ULBiTCnYv6o
+2024-12-21 22:47:12,091 - INFO - Fetching details for video ID: V6ZBbABV1oo
+2024-12-21 22:47:12,397 - INFO - Processed video ID: V6ZBbABV1oo
+2024-12-21 22:47:12,398 - INFO - Fetching details for video ID: 4uI8Ai2zdgA
+2024-12-21 22:47:12,586 - INFO - Processed video ID: 4uI8Ai2zdgA
+2024-12-21 22:47:12,587 - INFO - Fetching details for video ID: Yf8eCtEI3eA
+2024-12-21 22:47:12,783 - INFO - Processed video ID: Yf8eCtEI3eA
+2024-12-21 22:47:12,783 - INFO - Fetching details for video ID: SVLbrHm50oY
+2024-12-21 22:47:12,976 - INFO - Processed video ID: SVLbrHm50oY
+2024-12-21 22:47:12,976 - INFO - Fetching details for video ID: 6PK4lwirRv4
+2024-12-21 22:47:13,167 - INFO - Processed video ID: 6PK4lwirRv4
+2024-12-21 22:47:13,167 - INFO - Fetching details for video ID: 2zMO8BYnl-U
+2024-12-21 22:47:13,364 - INFO - Processed video ID: 2zMO8BYnl-U
+2024-12-21 22:47:13,365 - INFO - Fetching details for video ID: HUY2zs-DQF0
+2024-12-21 22:47:13,563 - INFO - Processed video ID: HUY2zs-DQF0
+2024-12-21 22:47:13,567 - INFO - Fetching details for video ID: m1ebnmDzERs
+2024-12-21 22:47:13,777 - INFO - Processed video ID: m1ebnmDzERs
+2024-12-21 22:47:13,777 - INFO - Fetching details for video ID: he9VIed5dcI
+2024-12-21 22:47:13,984 - INFO - Processed video ID: he9VIed5dcI
+2024-12-21 22:47:13,984 - INFO - Fetching details for video ID: wklI5Ud7UBg
+2024-12-21 22:47:14,173 - INFO - Processed video ID: wklI5Ud7UBg
+2024-12-21 22:47:14,173 - INFO - Fetching details for video ID: gT98BalpYsw
+2024-12-21 22:47:14,364 - INFO - Processed video ID: gT98BalpYsw
+2024-12-21 22:47:14,364 - INFO - Fetching details for video ID: PXoJPzj18VE
+2024-12-21 22:47:14,553 - INFO - Processed video ID: PXoJPzj18VE
+2024-12-21 22:47:14,553 - INFO - Fetching details for video ID: jjHlsGlUVnY
+2024-12-21 22:47:14,741 - INFO - Processed video ID: jjHlsGlUVnY
+2024-12-21 22:47:14,741 - INFO - Fetching details for video ID: m3-aeYwe35I
+2024-12-21 22:47:14,934 - INFO - Processed video ID: m3-aeYwe35I
+2024-12-21 22:47:14,934 - INFO - Fetching details for video ID: 1qrAUbNV-DQ
+2024-12-21 22:47:15,133 - INFO - Processed video ID: 1qrAUbNV-DQ
+2024-12-21 22:47:15,133 - INFO - Fetching details for video ID: 27MLIPr2Agg
+2024-12-21 22:47:15,331 - INFO - Processed video ID: 27MLIPr2Agg
+2024-12-21 22:47:15,331 - INFO - Fetching details for video ID: DfYJyN4BkZY
+2024-12-21 22:47:15,536 - INFO - Processed video ID: DfYJyN4BkZY
+2024-12-21 22:47:15,536 - INFO - Fetching details for video ID: XhuJD-oszqk
+2024-12-21 22:47:15,729 - INFO - Processed video ID: XhuJD-oszqk
+2024-12-21 22:47:15,729 - INFO - Fetching details for video ID: BQe6pxutESA
+2024-12-21 22:47:15,919 - INFO - Processed video ID: BQe6pxutESA
+2024-12-21 22:47:15,919 - INFO - Fetching details for video ID: lbsodhlLs_A
+2024-12-21 22:47:16,117 - INFO - Processed video ID: lbsodhlLs_A
+2024-12-21 22:47:16,117 - INFO - Fetching details for video ID: KXxgqm1_trE
+2024-12-21 22:47:16,305 - INFO - Processed video ID: KXxgqm1_trE
+2024-12-21 22:47:16,305 - INFO - Fetching details for video ID: Bbij7od0PBw
+2024-12-21 22:47:16,511 - INFO - Processed video ID: Bbij7od0PBw
+2024-12-21 22:47:16,511 - INFO - Fetching details for video ID: VxOvaKNfnVg
+2024-12-21 22:47:16,697 - INFO - Processed video ID: VxOvaKNfnVg
+2024-12-21 22:47:16,697 - INFO - Fetching details for video ID: Ef3fv0GdNj8
+2024-12-21 22:47:16,898 - INFO - Processed video ID: Ef3fv0GdNj8
+2024-12-21 22:47:16,898 - INFO - Fetching details for video ID: MfRZBywjoHI
+2024-12-21 22:47:17,087 - INFO - Processed video ID: MfRZBywjoHI
+2024-12-21 22:47:17,087 - INFO - Fetching details for video ID: gA47OLLEwDo
+2024-12-21 22:47:17,282 - INFO - Processed video ID: gA47OLLEwDo
+2024-12-21 22:47:17,282 - INFO - Fetching details for video ID: cX5CRvcC9Z4
+2024-12-21 22:47:17,469 - INFO - Processed video ID: cX5CRvcC9Z4
+2024-12-21 22:47:17,470 - INFO - Fetching details for video ID: V1fex88wkNk
+2024-12-21 22:47:17,669 - INFO - Processed video ID: V1fex88wkNk
+2024-12-21 22:47:17,669 - INFO - Fetching details for video ID: FR5VP_9jL1U
+2024-12-21 22:47:17,863 - INFO - Processed video ID: FR5VP_9jL1U
+2024-12-21 22:47:17,863 - INFO - Fetching details for video ID: B-t_6R0UemY
+2024-12-21 22:47:18,072 - INFO - Processed video ID: B-t_6R0UemY
+2024-12-21 22:47:18,072 - INFO - Fetching details for video ID: A7NErOvHxqM
+2024-12-21 22:47:18,261 - INFO - Processed video ID: A7NErOvHxqM
+2024-12-21 22:47:18,261 - INFO - Fetching details for video ID: bKhr5EQmBCE
+2024-12-21 22:47:18,456 - INFO - Processed video ID: bKhr5EQmBCE
+2024-12-21 22:47:18,456 - INFO - Fetching details for video ID: Q82cJcSjZok
+2024-12-21 22:47:18,653 - INFO - Processed video ID: Q82cJcSjZok
+2024-12-21 22:47:18,654 - INFO - Fetching details for video ID: NHeSofwUtdM
+2024-12-21 22:47:18,846 - INFO - Processed video ID: NHeSofwUtdM
+2024-12-21 22:47:18,846 - INFO - Fetching details for video ID: e8VNLCl_ptA
+2024-12-21 22:47:19,033 - INFO - Processed video ID: e8VNLCl_ptA
+2024-12-21 22:47:19,033 - INFO - Fetching details for video ID: oh7IvSMz4IY
+2024-12-21 22:47:19,225 - INFO - Processed video ID: oh7IvSMz4IY
+2024-12-21 22:47:19,225 - INFO - Fetching details for video ID: EpPFlhJ4EMg
+2024-12-21 22:47:19,433 - INFO - Processed video ID: EpPFlhJ4EMg
+2024-12-21 22:47:19,433 - INFO - Fetching details for video ID: 79RDJjUciIA
+2024-12-21 22:47:19,629 - INFO - Processed video ID: 79RDJjUciIA
+2024-12-21 22:47:19,629 - INFO - Fetching details for video ID: TyvoDBTquKA
+2024-12-21 22:47:19,825 - INFO - Processed video ID: TyvoDBTquKA
+2024-12-21 22:47:19,825 - INFO - Fetching details for video ID: 93NMGKCqUUU
+2024-12-21 22:47:20,014 - INFO - Processed video ID: 93NMGKCqUUU
+2024-12-21 22:47:20,014 - INFO - Fetching details for video ID: Fvkwu9sDN0o
+2024-12-21 22:47:20,206 - INFO - Processed video ID: Fvkwu9sDN0o
+2024-12-21 22:47:20,206 - INFO - Fetching details for video ID: xXM8FnOtSRg
+2024-12-21 22:47:20,394 - INFO - Processed video ID: xXM8FnOtSRg
+2024-12-21 22:47:20,394 - INFO - Fetching details for video ID: dSBtY9Ca2Eg
+2024-12-21 22:47:20,585 - INFO - Processed video ID: dSBtY9Ca2Eg
+2024-12-21 22:47:20,585 - INFO - Fetching details for video ID: hnRASCy1mXU
+2024-12-21 22:47:20,771 - INFO - Processed video ID: hnRASCy1mXU
+2024-12-21 22:47:20,771 - INFO - Fetching details for video ID: SY3cNY8cUD8
+2024-12-21 22:47:20,973 - INFO - Processed video ID: SY3cNY8cUD8
+2024-12-21 22:47:20,973 - INFO - Fetching details for video ID: u7uLh5xcw3M
+2024-12-21 22:47:21,181 - INFO - Processed video ID: u7uLh5xcw3M
+2024-12-21 22:47:21,181 - INFO - Fetching details for video ID: mMsC-Mt6bHU
+2024-12-21 22:47:21,373 - INFO - Processed video ID: mMsC-Mt6bHU
+2024-12-21 22:47:21,373 - INFO - Fetching details for video ID: fD9KKavtWJA
+2024-12-21 22:47:21,583 - INFO - Processed video ID: fD9KKavtWJA
+2024-12-21 22:47:21,583 - INFO - Fetching details for video ID: YUK8YYSW9TM
+2024-12-21 22:47:21,776 - INFO - Processed video ID: YUK8YYSW9TM
+2024-12-21 22:47:21,776 - INFO - Fetching details for video ID: qLhHCzU159Y
+2024-12-21 22:47:21,986 - INFO - Processed video ID: qLhHCzU159Y
+2024-12-21 22:47:21,986 - INFO - Fetching details for video ID: sqv3miEcGZI
+2024-12-21 22:47:22,176 - INFO - Processed video ID: sqv3miEcGZI
+2024-12-21 22:47:22,177 - INFO - Fetching details for video ID: K2nFNrfEBOI
+2024-12-21 22:47:22,374 - INFO - Processed video ID: K2nFNrfEBOI
+2024-12-21 22:47:22,374 - INFO - Fetching details for video ID: v89QoKgrVyc
+2024-12-21 22:47:22,571 - INFO - Processed video ID: v89QoKgrVyc
+2024-12-21 22:47:22,571 - INFO - Fetching details for video ID: a5Dp9Qk5Xdc
+2024-12-21 22:47:22,783 - INFO - Processed video ID: a5Dp9Qk5Xdc
+2024-12-21 22:47:22,783 - INFO - Fetching details for video ID: G21W3wPJgX0
+2024-12-21 22:47:22,976 - INFO - Processed video ID: G21W3wPJgX0
+2024-12-21 22:47:22,976 - INFO - Fetching details for video ID: -ReBrMmG9iA
+2024-12-21 22:47:23,167 - INFO - Processed video ID: -ReBrMmG9iA
+2024-12-21 22:47:23,167 - INFO - Fetching details for video ID: DZ6gI2CJM4c
+2024-12-21 22:47:23,354 - INFO - Processed video ID: DZ6gI2CJM4c
+2024-12-21 22:47:23,354 - INFO - Fetching details for video ID: eIUFlfe9YzQ
+2024-12-21 22:47:23,539 - INFO - Processed video ID: eIUFlfe9YzQ
+2024-12-21 22:47:23,539 - INFO - Fetching details for video ID: CIvK-4uEaS8
+2024-12-21 22:47:23,773 - INFO - Processed video ID: CIvK-4uEaS8
+2024-12-21 22:47:23,773 - INFO - Fetching details for video ID: CX-u2XsNXvE
+2024-12-21 22:47:23,969 - INFO - Processed video ID: CX-u2XsNXvE
+2024-12-21 22:47:23,969 - INFO - Fetching details for video ID: 5orJiK9GBSc
+2024-12-21 22:47:24,150 - INFO - Processed video ID: 5orJiK9GBSc
+2024-12-21 22:47:24,150 - INFO - Fetching details for video ID: yYr8q0y5Jfg
+2024-12-21 22:47:24,348 - INFO - Processed video ID: yYr8q0y5Jfg
+2024-12-21 22:47:24,348 - INFO - Fetching details for video ID: 5wuGTrtd8Wc
+2024-12-21 22:47:24,540 - INFO - Processed video ID: 5wuGTrtd8Wc
+2024-12-21 22:47:24,540 - INFO - Fetching details for video ID: I9tti32VDyU
+2024-12-21 22:47:24,735 - INFO - Processed video ID: I9tti32VDyU
+2024-12-21 22:47:24,735 - INFO - Fetching details for video ID: oKJGhnYp2-8
+2024-12-21 22:47:24,934 - INFO - Processed video ID: oKJGhnYp2-8
+2024-12-21 22:47:24,934 - INFO - Fetching details for video ID: 3aMR3PA2_H8
+2024-12-21 22:47:25,125 - INFO - Processed video ID: 3aMR3PA2_H8
+2024-12-21 22:47:25,125 - INFO - Fetching details for video ID: L62-of6m0K0
+2024-12-21 22:47:25,315 - INFO - Processed video ID: L62-of6m0K0
+2024-12-21 22:47:25,316 - INFO - Fetching details for video ID: r6f-uFwHPb8
+2024-12-21 22:47:25,507 - INFO - Processed video ID: r6f-uFwHPb8
+2024-12-21 22:47:25,507 - INFO - Fetching details for video ID: xuqmHVj98Dg
+2024-12-21 22:47:25,696 - INFO - Processed video ID: xuqmHVj98Dg
+2024-12-21 22:47:25,696 - INFO - Fetching details for video ID: 2Qr4bjGRm54
+2024-12-21 22:47:25,886 - INFO - Processed video ID: 2Qr4bjGRm54
+2024-12-21 22:47:25,886 - INFO - Fetching details for video ID: 0LaWB3ZT5-8
+2024-12-21 22:47:26,074 - INFO - Processed video ID: 0LaWB3ZT5-8
+2024-12-21 22:47:26,074 - INFO - Fetching details for video ID: lGQ86FRK5Gk
+2024-12-21 22:47:26,259 - INFO - Processed video ID: lGQ86FRK5Gk
+2024-12-21 22:47:26,259 - INFO - Fetching details for video ID: -iVJFB2gZuE
+2024-12-21 22:47:26,451 - INFO - Processed video ID: -iVJFB2gZuE
+2024-12-21 22:47:26,451 - INFO - Fetching details for video ID: NLCYuL1CTUk
+2024-12-21 22:47:26,652 - INFO - Processed video ID: NLCYuL1CTUk
+2024-12-21 22:47:26,652 - INFO - Fetching details for video ID: Nq_li6xlD2o
+2024-12-21 22:47:26,852 - INFO - Processed video ID: Nq_li6xlD2o
+2024-12-21 22:47:26,852 - INFO - Fetching details for video ID: yYr8q0y5Jfg
+2024-12-21 22:47:27,358 - INFO - Processed video ID: yYr8q0y5Jfg
+2024-12-21 22:47:27,358 - INFO - Fetching details for video ID: LaLcOcavqkg
+2024-12-21 22:47:27,553 - INFO - Processed video ID: LaLcOcavqkg
+2024-12-21 22:47:27,553 - INFO - Fetching details for video ID: 0LaWB3ZT5-8
+2024-12-21 22:47:27,745 - INFO - Processed video ID: 0LaWB3ZT5-8
+2024-12-21 22:47:27,745 - INFO - Fetching details for video ID: AXc7lPzxD0M
+2024-12-21 22:47:27,967 - INFO - Processed video ID: AXc7lPzxD0M
+2024-12-21 22:47:27,967 - INFO - Fetching details for video ID: XhbJwZFgeVA
+2024-12-21 22:47:28,169 - INFO - Processed video ID: XhbJwZFgeVA
+2024-12-21 22:47:28,169 - INFO - Fetching details for video ID: yvx1VY4dIFs
+2024-12-21 22:47:28,364 - INFO - Processed video ID: yvx1VY4dIFs
+2024-12-21 22:47:28,364 - INFO - Fetching details for video ID: 1aujZWkL8Xg
+2024-12-21 22:47:28,570 - INFO - Processed video ID: 1aujZWkL8Xg
+2024-12-21 22:47:28,570 - INFO - Fetching details for video ID: _ZwCVCaegWI
+2024-12-21 22:47:28,766 - INFO - Processed video ID: _ZwCVCaegWI
+2024-12-21 22:47:28,766 - INFO - Fetching details for video ID: sqv3miEcGZI
+2024-12-21 22:47:28,964 - INFO - Processed video ID: sqv3miEcGZI
+2024-12-21 22:47:28,964 - INFO - Fetching details for video ID: fV8AknDk5S8
+2024-12-21 22:47:29,154 - INFO - Processed video ID: fV8AknDk5S8
+2024-12-21 22:47:29,154 - INFO - Fetching details for video ID: a9TQJHEdBgM
+2024-12-21 22:47:29,382 - INFO - Processed video ID: a9TQJHEdBgM
+2024-12-21 22:47:29,383 - INFO - Fetching details for video ID: m3-aeYwe35I
+2024-12-21 22:47:29,573 - INFO - Processed video ID: m3-aeYwe35I
+2024-12-21 22:47:29,573 - INFO - Fetching details for video ID: MQ0YOiH_NGY
+2024-12-21 22:47:29,769 - INFO - Processed video ID: MQ0YOiH_NGY
+2024-12-21 22:47:29,769 - INFO - Fetching details for video ID: 7u2EYFqlMqc
+2024-12-21 22:47:29,966 - INFO - Processed video ID: 7u2EYFqlMqc
+2024-12-21 22:47:29,966 - INFO - Fetching details for video ID: KXxgqm1_trE
+2024-12-21 22:47:30,157 - INFO - Processed video ID: KXxgqm1_trE
+2024-12-21 22:47:30,157 - INFO - Fetching details for video ID: jhfvXSz0mH8
+2024-12-21 22:47:30,350 - INFO - Processed video ID: jhfvXSz0mH8
+2024-12-21 22:47:30,350 - INFO - Fetching details for video ID: XzWvCVQ3pUQ
+2024-12-21 22:47:30,567 - INFO - Processed video ID: XzWvCVQ3pUQ
+2024-12-21 22:47:30,567 - INFO - Fetching details for video ID: 6lZoAVyv5pM
+2024-12-21 22:47:30,762 - INFO - Processed video ID: 6lZoAVyv5pM
+2024-12-21 22:47:30,762 - INFO - Fetching details for video ID: mSfo1wwAPbw
+2024-12-21 22:47:30,964 - INFO - Processed video ID: mSfo1wwAPbw
+2024-12-21 22:47:30,964 - INFO - Fetching details for video ID: 35aLmO1Ixbs
+2024-12-21 22:47:31,166 - INFO - Processed video ID: 35aLmO1Ixbs
+2024-12-21 22:47:31,166 - INFO - Fetching details for video ID: -iVJFB2gZuE
+2024-12-21 22:47:31,370 - INFO - Processed video ID: -iVJFB2gZuE
+2024-12-21 22:47:31,370 - INFO - Fetching details for video ID: lGQ86FRK5Gk
+2024-12-21 22:47:31,569 - INFO - Processed video ID: lGQ86FRK5Gk
+2024-12-21 22:47:31,569 - INFO - Fetching details for video ID: oKJGhnYp2-8
+2024-12-21 22:47:31,760 - INFO - Processed video ID: oKJGhnYp2-8
+2024-12-21 22:47:31,760 - INFO - Fetching details for video ID: 93YVRWQcQh8
+2024-12-21 22:47:31,951 - INFO - Processed video ID: 93YVRWQcQh8
+2024-12-21 22:47:31,951 - INFO - Fetching details for video ID: etnxdfMwthY
+2024-12-21 22:47:32,142 - INFO - Processed video ID: etnxdfMwthY
+2024-12-21 22:47:32,142 - INFO - Fetching details for video ID: hGU5n9P4gM8
+2024-12-21 22:47:32,335 - INFO - Processed video ID: hGU5n9P4gM8
+2024-12-21 22:47:32,335 - INFO - Fetching details for video ID: ITr_iM5OT2E
+2024-12-21 22:47:32,543 - INFO - Processed video ID: ITr_iM5OT2E
+2024-12-21 22:47:32,543 - INFO - Fetching details for video ID: 97HgKGojFbw
+2024-12-21 22:47:32,746 - INFO - Processed video ID: 97HgKGojFbw
+2024-12-21 22:47:32,746 - INFO - Fetching details for video ID: -KVeFSEQ1iA
+2024-12-21 22:47:33,163 - INFO - Processed video ID: -KVeFSEQ1iA
+2024-12-21 22:47:33,164 - INFO - Fetching details for video ID: 1qrAUbNV-DQ
+2024-12-21 22:47:33,359 - INFO - Processed video ID: 1qrAUbNV-DQ
+2024-12-21 22:47:33,359 - INFO - Fetching details for video ID: 89CY-YpPD-k
+2024-12-21 22:47:33,548 - INFO - Processed video ID: 89CY-YpPD-k
+2024-12-21 22:47:33,549 - INFO - Fetching details for video ID: iPcDWVxYW3w
+2024-12-21 22:47:33,744 - INFO - Processed video ID: iPcDWVxYW3w
+2024-12-21 22:47:33,744 - INFO - Fetching details for video ID: n0fRSnKZqGc
+2024-12-21 22:47:33,950 - INFO - Processed video ID: n0fRSnKZqGc
+2024-12-21 22:47:33,950 - INFO - Fetching details for video ID: _k8whpgmsss
+2024-12-21 22:47:34,140 - INFO - Processed video ID: _k8whpgmsss
+2024-12-21 22:47:34,140 - INFO - Fetching details for video ID: zfyKm-5XKOg
+2024-12-21 22:47:34,335 - INFO - Processed video ID: zfyKm-5XKOg
+2024-12-21 22:47:34,335 - INFO - Fetching details for video ID: 5wuGTrtd8Wc
+2024-12-21 22:47:34,542 - INFO - Processed video ID: 5wuGTrtd8Wc
+2024-12-21 22:47:34,542 - INFO - Fetching details for video ID: FP-k8L6kMkA
+2024-12-21 22:47:34,743 - INFO - Processed video ID: FP-k8L6kMkA
+2024-12-21 22:47:34,743 - INFO - Fetching details for video ID: w3KtCotO1pk
+2024-12-21 22:47:34,931 - INFO - Processed video ID: w3KtCotO1pk
+2024-12-21 22:47:34,931 - INFO - Fetching details for video ID: -JtO4PEytsU
+2024-12-21 22:47:35,120 - INFO - Processed video ID: -JtO4PEytsU
+2024-12-21 22:47:35,121 - INFO - Fetching details for video ID: YSN4jE2gk7c
+2024-12-21 22:47:35,311 - INFO - Processed video ID: YSN4jE2gk7c
+2024-12-21 22:47:35,311 - INFO - Fetching details for video ID: JvtrqbB4ufc
+2024-12-21 22:47:35,504 - INFO - Processed video ID: JvtrqbB4ufc
+2024-12-21 22:47:35,504 - INFO - Fetching details for video ID: FHOdxan1BQk
+2024-12-21 22:47:35,693 - INFO - Processed video ID: FHOdxan1BQk
+2024-12-21 22:47:35,693 - INFO - Fetching details for video ID: Ovnx0LOT930
+2024-12-21 22:47:35,881 - INFO - Processed video ID: Ovnx0LOT930
+2024-12-21 22:47:35,881 - INFO - Fetching details for video ID: yGDBxWQWt_Y
+2024-12-21 22:47:36,070 - INFO - Processed video ID: yGDBxWQWt_Y
+2024-12-21 22:47:36,070 - INFO - Fetching details for video ID: YiFTxJY2p90
+2024-12-21 22:47:36,259 - INFO - Processed video ID: YiFTxJY2p90
+2024-12-21 22:47:36,259 - INFO - Fetching details for video ID: 1fhJD4eLWBU
+2024-12-21 22:47:36,449 - INFO - Processed video ID: 1fhJD4eLWBU
+2024-12-21 22:47:36,449 - INFO - Fetching details for video ID: lfLe5NHPZko
+2024-12-21 22:47:36,643 - INFO - Processed video ID: lfLe5NHPZko
+2024-12-21 22:47:36,643 - INFO - Fetching details for video ID: SuXM1I1McLM
+2024-12-21 22:47:36,835 - INFO - Processed video ID: SuXM1I1McLM
+2024-12-21 22:47:36,835 - INFO - Fetching details for video ID: o12ezPQhOYA
+2024-12-21 22:47:37,038 - INFO - Processed video ID: o12ezPQhOYA
+2024-12-21 22:47:37,038 - INFO - Fetching details for video ID: iTEhzo8NiCY
+2024-12-21 22:47:37,232 - INFO - Processed video ID: iTEhzo8NiCY
+2024-12-21 22:47:37,232 - INFO - Fetching details for video ID: YiFTxJY2p90
+2024-12-21 22:47:37,417 - INFO - Processed video ID: YiFTxJY2p90
+2024-12-21 22:47:37,417 - INFO - Fetching details for video ID: 89CY-YpPD-k
+2024-12-21 22:47:37,606 - INFO - Processed video ID: 89CY-YpPD-k
+2024-12-21 22:47:37,606 - INFO - Fetching details for video ID: 1aujZWkL8Xg
+2024-12-21 22:47:38,048 - INFO - Processed video ID: 1aujZWkL8Xg
+2024-12-21 22:47:38,048 - INFO - Fetching details for video ID: w3KtCotO1pk
+2024-12-21 22:47:38,259 - INFO - Processed video ID: w3KtCotO1pk
+2024-12-21 22:47:38,259 - INFO - Fetching details for video ID: FP-k8L6kMkA
+2024-12-21 22:47:38,491 - INFO - Processed video ID: FP-k8L6kMkA
+2024-12-21 22:47:38,491 - INFO - Fetching details for video ID: y75p0Ocxg0A
+2024-12-21 22:47:38,684 - INFO - Processed video ID: y75p0Ocxg0A
+2024-12-21 22:47:38,684 - INFO - Fetching details for video ID: Q5j384wLQHE
+2024-12-21 22:47:38,891 - INFO - Processed video ID: Q5j384wLQHE
+2024-12-21 22:47:38,891 - INFO - Fetching details for video ID: zfyKm-5XKOg
+2024-12-21 22:47:39,088 - INFO - Processed video ID: zfyKm-5XKOg
+2024-12-21 22:47:39,088 - INFO - Fetching details for video ID: 6lZoAVyv5pM
+2024-12-21 22:47:39,281 - INFO - Processed video ID: 6lZoAVyv5pM
+2024-12-21 22:47:39,281 - INFO - Fetching details for video ID: GUrVsa0EJPg
+2024-12-21 22:47:39,478 - INFO - Processed video ID: GUrVsa0EJPg
+2024-12-21 22:47:39,478 - INFO - Fetching details for video ID: Ovnx0LOT930
+2024-12-21 22:47:39,667 - INFO - Processed video ID: Ovnx0LOT930
+2024-12-21 22:47:39,667 - INFO - Fetching details for video ID: rNrVkp4bJ4w
+2024-12-21 22:47:39,876 - INFO - Processed video ID: rNrVkp4bJ4w
+2024-12-21 22:47:39,876 - INFO - Fetching details for video ID: 1fhJD4eLWBU
+2024-12-21 22:47:40,065 - INFO - Processed video ID: 1fhJD4eLWBU
+2024-12-21 22:47:40,065 - INFO - Fetching details for video ID: XhbJwZFgeVA
+2024-12-21 22:47:40,255 - INFO - Processed video ID: XhbJwZFgeVA
+2024-12-21 22:47:40,255 - INFO - Fetching details for video ID: iPcDWVxYW3w
+2024-12-21 22:47:40,449 - INFO - Processed video ID: iPcDWVxYW3w
+2024-12-21 22:47:40,449 - INFO - Fetching details for video ID: 97HgKGojFbw
+2024-12-21 22:47:40,650 - INFO - Processed video ID: 97HgKGojFbw
+2024-12-21 22:47:40,650 - INFO - Fetching details for video ID: YNhRXaXwzac
+2024-12-21 22:47:40,837 - INFO - Processed video ID: YNhRXaXwzac
+2024-12-21 22:47:40,837 - INFO - Fetching details for video ID: NlghbRZeNzg
+2024-12-21 22:47:41,037 - INFO - Processed video ID: NlghbRZeNzg
+2024-12-21 22:47:41,037 - INFO - Fetching details for video ID: 7rmj379omlU
+2024-12-21 22:47:41,263 - INFO - Processed video ID: 7rmj379omlU
+2024-12-21 22:47:41,263 - INFO - Fetching details for video ID: lfLe5NHPZko
+2024-12-21 22:47:41,457 - INFO - Processed video ID: lfLe5NHPZko
+2024-12-21 22:47:41,457 - INFO - Fetching details for video ID: uSjb0ix8ESY
+2024-12-21 22:47:41,648 - INFO - Processed video ID: uSjb0ix8ESY
+2024-12-21 22:47:41,648 - INFO - Fetching details for video ID: Mii6TZXPrbQ
+2024-12-21 22:47:41,833 - INFO - Processed video ID: Mii6TZXPrbQ
+2024-12-21 22:47:41,833 - INFO - Fetching details for video ID: YU9uIx2qhUs
+2024-12-21 22:47:42,035 - INFO - Processed video ID: YU9uIx2qhUs
+2024-12-21 22:47:42,035 - INFO - Fetching details for video ID: -KVeFSEQ1iA
+2024-12-21 22:47:42,226 - INFO - Processed video ID: -KVeFSEQ1iA
+2024-12-21 22:47:42,226 - INFO - Fetching details for video ID: C0akn-xvcX8
+2024-12-21 22:47:42,428 - INFO - Processed video ID: C0akn-xvcX8
+2024-12-21 22:47:42,428 - INFO - Fetching details for video ID: 3aKGEH2PjYg
+2024-12-21 22:47:42,936 - INFO - Processed video ID: 3aKGEH2PjYg
+2024-12-21 22:47:42,936 - INFO - Fetching details for video ID: S4er6xOjXp8
+2024-12-21 22:47:43,128 - INFO - Processed video ID: S4er6xOjXp8
+2024-12-21 22:47:43,128 - INFO - Fetching details for video ID: dhmJpDq-5mk
+2024-12-21 22:47:43,331 - INFO - Processed video ID: dhmJpDq-5mk
+2024-12-21 22:47:43,331 - INFO - Fetching details for video ID: 4EezU-E1HL8
+2024-12-21 22:47:43,520 - INFO - Processed video ID: 4EezU-E1HL8
+2024-12-21 22:47:43,520 - INFO - Fetching details for video ID: 4rkkcMYrz1M
+2024-12-21 22:47:43,708 - INFO - Processed video ID: 4rkkcMYrz1M
+2024-12-21 22:47:43,708 - INFO - Fetching details for video ID: mtlVF8x4dgs
+2024-12-21 22:47:43,889 - INFO - Processed video ID: mtlVF8x4dgs
+2024-12-21 22:47:43,889 - INFO - Fetching details for video ID: MlA8HENKuVM
+2024-12-21 22:47:44,093 - INFO - Processed video ID: MlA8HENKuVM
+2024-12-21 22:47:44,093 - INFO - Fetching details for video ID: -JtO4PEytsU
+2024-12-21 22:47:44,298 - INFO - Processed video ID: -JtO4PEytsU
+2024-12-21 22:47:44,298 - INFO - Fetching details for video ID: ZIsZF_da2VU
+2024-12-21 22:47:44,514 - INFO - Processed video ID: ZIsZF_da2VU
+2024-12-21 22:47:44,514 - INFO - Fetching details for video ID: 2OgpNq1wqaE
+2024-12-21 22:47:44,709 - INFO - Processed video ID: 2OgpNq1wqaE
+2024-12-21 22:47:44,709 - INFO - Fetching details for video ID: ITr_iM5OT2E
+2024-12-21 22:47:44,898 - INFO - Processed video ID: ITr_iM5OT2E
+2024-12-21 22:47:44,898 - INFO - Fetching details for video ID: 35aLmO1Ixbs
+2024-12-21 22:47:45,094 - INFO - Processed video ID: 35aLmO1Ixbs
+2024-12-21 22:47:45,094 - INFO - Fetching details for video ID: AOdDDtVjGpU
+2024-12-21 22:47:45,285 - INFO - Processed video ID: AOdDDtVjGpU
+2024-12-21 22:47:45,285 - INFO - Fetching details for video ID: RXoKhzmrmLQ
+2024-12-21 22:47:45,498 - INFO - Processed video ID: RXoKhzmrmLQ
+2024-12-21 22:47:45,498 - INFO - Fetching details for video ID: NIOc8Ygk-oI
+2024-12-21 22:47:45,704 - INFO - Processed video ID: NIOc8Ygk-oI
+2024-12-21 22:47:45,704 - INFO - Fetching details for video ID: 93YVRWQcQh8
+2024-12-21 22:47:45,896 - INFO - Processed video ID: 93YVRWQcQh8
+2024-12-21 22:47:45,896 - INFO - Fetching details for video ID: u9BR7pTigSU
+2024-12-21 22:47:46,082 - INFO - Processed video ID: u9BR7pTigSU
+2024-12-21 22:47:46,082 - INFO - Fetching details for video ID: f94hn5kF-Ok
+2024-12-21 22:47:46,274 - INFO - Processed video ID: f94hn5kF-Ok
+2024-12-21 22:47:46,274 - INFO - Fetching details for video ID: ePRNBmz-jP4
+2024-12-21 22:47:46,463 - INFO - Processed video ID: ePRNBmz-jP4
+2024-12-21 22:47:46,463 - INFO - Fetching details for video ID: r0B4ZVF5J-M
+2024-12-21 22:47:46,654 - INFO - Processed video ID: r0B4ZVF5J-M
+2024-12-21 22:47:46,654 - INFO - Fetching details for video ID: 7v07PLlIPgo
+2024-12-21 22:47:46,847 - INFO - Processed video ID: 7v07PLlIPgo
+2024-12-21 22:47:46,847 - INFO - Fetching details for video ID: ULT18fbq840
+2024-12-21 22:47:47,036 - INFO - Processed video ID: ULT18fbq840
+2024-12-21 22:47:47,036 - INFO - Fetching details for video ID: fTc5JEDGpS0
+2024-12-21 22:47:47,232 - INFO - Processed video ID: fTc5JEDGpS0
+2024-12-21 22:47:47,232 - INFO - Fetching details for video ID: tXyUd_YMssg
+2024-12-21 22:47:47,429 - INFO - Processed video ID: tXyUd_YMssg
+2024-12-21 22:47:47,429 - INFO - Fetching details for video ID: YSN4jE2gk7c
+2024-12-21 22:47:47,625 - INFO - Processed video ID: YSN4jE2gk7c
+2024-12-21 22:47:47,625 - INFO - Fetching details for video ID: vdkx5sUmZcw
+2024-12-21 22:47:47,813 - INFO - Processed video ID: vdkx5sUmZcw
+2024-12-21 22:47:47,813 - INFO - Fetching details for video ID: tPvCMQW38VU
+2024-12-21 22:47:48,009 - INFO - Processed video ID: tPvCMQW38VU
+2024-12-21 22:47:48,009 - INFO - Fetching details for video ID: dZdW7sQT3Pg
+2024-12-21 22:47:48,199 - INFO - Processed video ID: dZdW7sQT3Pg
+2024-12-21 22:47:48,199 - INFO - Fetching details for video ID: N2u4u4KWOOU
+2024-12-21 22:47:48,394 - INFO - Processed video ID: N2u4u4KWOOU
+2024-12-21 22:47:48,394 - INFO - Fetching details for video ID: -VVgWUWM2z4
+2024-12-21 22:47:48,584 - INFO - Processed video ID: -VVgWUWM2z4
+2024-12-21 22:47:48,584 - INFO - Fetching details for video ID: yGDBxWQWt_Y
+2024-12-21 22:47:48,778 - INFO - Processed video ID: yGDBxWQWt_Y
+2024-12-21 22:47:48,778 - INFO - Fetching details for video ID: IbwjDTOvwG8
+2024-12-21 22:47:48,975 - INFO - Processed video ID: IbwjDTOvwG8
+2024-12-21 22:47:48,975 - INFO - Fetching details for video ID: 4onk40bwKbo
+2024-12-21 22:47:49,177 - INFO - Processed video ID: 4onk40bwKbo
+2024-12-21 22:47:49,177 - INFO - Fetching details for video ID: OKmKh1wddEk
+2024-12-21 22:47:49,365 - INFO - Processed video ID: OKmKh1wddEk
+2024-12-21 22:47:49,365 - INFO - Fetching details for video ID: RYgi7TZpkjg
+2024-12-21 22:47:49,552 - INFO - Processed video ID: RYgi7TZpkjg
+2024-12-21 22:47:49,552 - INFO - Fetching details for video ID: 4ftJ-jLp3Yo
+2024-12-21 22:47:49,741 - INFO - Processed video ID: 4ftJ-jLp3Yo
+2024-12-21 22:47:49,741 - INFO - Fetching details for video ID: n0fRSnKZqGc
+2024-12-21 22:47:49,943 - INFO - Processed video ID: n0fRSnKZqGc
+2024-12-21 22:47:49,943 - INFO - Fetching details for video ID: 4EkVrodb_GE
+2024-12-21 22:47:50,147 - INFO - Processed video ID: 4EkVrodb_GE
+2024-12-21 22:47:50,147 - INFO - Fetching details for video ID: _k8whpgmsss
+2024-12-21 22:47:50,336 - INFO - Processed video ID: _k8whpgmsss
+2024-12-21 22:47:50,336 - INFO - Fetching details for video ID: i_vMTBFQ87M
+2024-12-21 22:47:50,544 - INFO - Processed video ID: i_vMTBFQ87M
+2024-12-21 22:47:50,544 - INFO - Fetching details for video ID: HA_tss03GOs
+2024-12-21 22:47:50,737 - INFO - Processed video ID: HA_tss03GOs
+2024-12-21 22:47:50,737 - INFO - Fetching details for video ID: GQGJkBeFTT0
+2024-12-21 22:47:50,927 - INFO - Processed video ID: GQGJkBeFTT0
+2024-12-21 22:47:50,927 - INFO - Fetching details for video ID: LSQUWPC_97A
+2024-12-21 22:47:51,117 - INFO - Processed video ID: LSQUWPC_97A
+2024-12-21 22:47:51,117 - INFO - Fetching details for video ID: 2izSzktgYpo
+2024-12-21 22:47:51,318 - INFO - Processed video ID: 2izSzktgYpo
+2024-12-21 22:47:51,318 - INFO - Fetching details for video ID: KC-0PouS88Y
+2024-12-21 22:47:51,522 - INFO - Processed video ID: KC-0PouS88Y
+2024-12-21 22:47:51,522 - INFO - Fetching details for video ID: 3rs12sjX1as
+2024-12-21 22:47:51,710 - INFO - Processed video ID: 3rs12sjX1as
+2024-12-21 22:47:51,710 - INFO - Fetching details for video ID: JvtrqbB4ufc
+2024-12-21 22:47:52,084 - INFO - Processed video ID: JvtrqbB4ufc
+2024-12-21 22:47:52,084 - INFO - Fetching details for video ID: GzBMQihulz4
+2024-12-21 22:47:52,312 - INFO - Processed video ID: GzBMQihulz4
+2024-12-21 22:47:52,312 - INFO - Fetching details for video ID: ymPgxj_ZJ0Q
+2024-12-21 22:47:52,504 - INFO - Processed video ID: ymPgxj_ZJ0Q
+2024-12-21 22:47:52,504 - INFO - Fetching details for video ID: wHIHgl-2GcU
+2024-12-21 22:47:52,745 - INFO - Processed video ID: wHIHgl-2GcU
+2024-12-21 22:47:52,746 - INFO - Fetching details for video ID: 0VpUuqzibUk
+2024-12-21 22:47:52,952 - INFO - Processed video ID: 0VpUuqzibUk
+2024-12-21 22:47:52,952 - INFO - Fetching details for video ID: ktgMLYQYpy8
+2024-12-21 22:47:53,138 - INFO - Processed video ID: ktgMLYQYpy8
+2024-12-21 22:47:53,138 - INFO - Fetching details for video ID: d1Hi6bABaA4
+2024-12-21 22:47:53,569 - INFO - Processed video ID: d1Hi6bABaA4
+2024-12-21 22:47:53,573 - INFO - Fetching details for video ID: dmbUYu1qOuk
+2024-12-21 22:47:53,762 - INFO - Processed video ID: dmbUYu1qOuk
+2024-12-21 22:47:53,762 - INFO - Fetching details for video ID: nfJh-9B76Ys
+2024-12-21 22:47:53,969 - INFO - Processed video ID: nfJh-9B76Ys
+2024-12-21 22:47:53,969 - INFO - Fetching details for video ID: S-ggr5Uf4pQ
+2024-12-21 22:47:54,147 - INFO - Processed video ID: S-ggr5Uf4pQ
+2024-12-21 22:47:54,147 - INFO - Fetching details for video ID: CMiakCX9Vy4
+2024-12-21 22:47:54,415 - INFO - Processed video ID: CMiakCX9Vy4
+2024-12-21 22:47:54,415 - INFO - Fetching details for video ID: Ocu35D_h1EE
+2024-12-21 22:47:54,601 - INFO - Processed video ID: Ocu35D_h1EE
+2024-12-21 22:47:54,601 - INFO - Fetching details for video ID: cjNO5QiNPk8
+2024-12-21 22:47:54,803 - INFO - Processed video ID: cjNO5QiNPk8
+2024-12-21 22:47:54,803 - INFO - Fetching details for video ID: QcoL-kU1I1Y
+2024-12-21 22:47:54,984 - INFO - Processed video ID: QcoL-kU1I1Y
+2024-12-21 22:47:54,984 - INFO - Fetching details for video ID: ttus22CLSb4
+2024-12-21 22:47:55,204 - INFO - Processed video ID: ttus22CLSb4
+2024-12-21 22:47:55,204 - INFO - Fetching details for video ID: q2X9YPT7LMI
+2024-12-21 22:47:55,391 - INFO - Processed video ID: q2X9YPT7LMI
+2024-12-21 22:47:55,391 - INFO - Fetching details for video ID: Sc0Kr9JEVXs
+2024-12-21 22:47:55,580 - INFO - Processed video ID: Sc0Kr9JEVXs
+2024-12-21 22:47:55,580 - INFO - Fetching details for video ID: IXQvtz4CdB8
+2024-12-21 22:47:55,778 - INFO - Processed video ID: IXQvtz4CdB8
+2024-12-21 22:47:55,783 - INFO - Fetching details for video ID: NJZTCJKGyx4
+2024-12-21 22:47:55,976 - INFO - Processed video ID: NJZTCJKGyx4
+2024-12-21 22:47:55,976 - INFO - Fetching details for video ID: eph_BM0g8zw
+2024-12-21 22:47:56,281 - INFO - Processed video ID: eph_BM0g8zw
+2024-12-21 22:47:56,281 - INFO - Fetching details for video ID: WVjutHfxtDo
+2024-12-21 22:47:56,541 - INFO - Processed video ID: WVjutHfxtDo
+2024-12-21 22:47:56,541 - INFO - Fetching details for video ID: y9fAPTSN45c
+2024-12-21 22:47:56,735 - INFO - Processed video ID: y9fAPTSN45c
+2024-12-21 22:47:56,735 - INFO - Fetching details for video ID: jAwgpDemm_I
+2024-12-21 22:47:56,930 - INFO - Processed video ID: jAwgpDemm_I
+2024-12-21 22:47:56,930 - INFO - Fetching details for video ID: swFgC1jWVfk
+2024-12-21 22:47:57,142 - INFO - Processed video ID: swFgC1jWVfk
+2024-12-21 22:47:57,142 - INFO - Fetching details for video ID: uDD941PR_08
+2024-12-21 22:47:57,412 - INFO - Processed video ID: uDD941PR_08
+2024-12-21 22:47:57,412 - INFO - Fetching details for video ID: gG5rRhPgoRU
+2024-12-21 22:47:57,811 - INFO - Processed video ID: gG5rRhPgoRU
+2024-12-21 22:47:57,811 - INFO - Fetching details for video ID: vSaD36MRxBw
+2024-12-21 22:47:58,009 - INFO - Processed video ID: vSaD36MRxBw
+2024-12-21 22:47:58,009 - INFO - Fetching details for video ID: FybioscjEMw
+2024-12-21 22:47:58,209 - INFO - Processed video ID: FybioscjEMw
+2024-12-21 22:47:58,209 - INFO - Fetching details for video ID: VOvkkzGbCDk
+2024-12-21 22:47:58,411 - INFO - Processed video ID: VOvkkzGbCDk
+2024-12-21 22:47:58,411 - INFO - Fetching details for video ID: VOvkkzGbCDk
+2024-12-21 22:47:58,863 - INFO - Processed video ID: VOvkkzGbCDk
+2024-12-21 22:47:58,863 - INFO - Fetching details for video ID: wouIXHFKZy4
+2024-12-21 22:47:59,075 - INFO - Processed video ID: wouIXHFKZy4
+2024-12-21 22:47:59,075 - INFO - Fetching details for video ID: s08YBEKyf9Y
+2024-12-21 22:47:59,284 - INFO - Processed video ID: s08YBEKyf9Y
+2024-12-21 22:47:59,290 - INFO - Fetching details for video ID: zjW5Iw4Zy0Y
+2024-12-21 22:47:59,540 - INFO - Processed video ID: zjW5Iw4Zy0Y
+2024-12-21 22:47:59,542 - INFO - Fetching details for video ID: yHqhJ1rIfus
+2024-12-21 22:47:59,763 - INFO - Processed video ID: yHqhJ1rIfus
+2024-12-21 22:47:59,763 - INFO - Fetching details for video ID: 94fuzZXsf3Y
+2024-12-21 22:47:59,973 - INFO - Processed video ID: 94fuzZXsf3Y
+2024-12-21 22:47:59,973 - INFO - Fetching details for video ID: FenVeYbNrDc
+2024-12-21 22:48:00,397 - INFO - Processed video ID: FenVeYbNrDc
+2024-12-21 22:48:00,397 - INFO - Fetching details for video ID: 2iBSsKB9_GQ
+2024-12-21 22:48:00,594 - INFO - Processed video ID: 2iBSsKB9_GQ
+2024-12-21 22:48:00,594 - INFO - Fetching details for video ID: FeK4qlewdpQ
+2024-12-21 22:48:00,791 - INFO - Processed video ID: FeK4qlewdpQ
+2024-12-21 22:48:00,791 - INFO - Fetching details for video ID: M9AAcSapC-w
+2024-12-21 22:48:00,972 - INFO - Processed video ID: M9AAcSapC-w
+2024-12-21 22:48:00,972 - INFO - Fetching details for video ID: VTAWi0El5E0
+2024-12-21 22:48:01,174 - INFO - Processed video ID: VTAWi0El5E0
+2024-12-21 22:48:01,174 - INFO - Fetching details for video ID: Dvb2O0Dq4nM
+2024-12-21 22:48:01,366 - INFO - Processed video ID: Dvb2O0Dq4nM
+2024-12-21 22:48:01,366 - INFO - Fetching details for video ID: xqL1lR5yhhA
+2024-12-21 22:48:01,547 - INFO - Processed video ID: xqL1lR5yhhA
+2024-12-21 22:48:01,547 - INFO - Fetching details for video ID: 9N-WnXhGpAQ
+2024-12-21 22:48:01,934 - INFO - Processed video ID: 9N-WnXhGpAQ
+2024-12-21 22:48:01,934 - INFO - Fetching details for video ID: zBEnAnLLifQ
+2024-12-21 22:48:02,135 - INFO - Processed video ID: zBEnAnLLifQ
+2024-12-21 22:48:02,135 - INFO - Fetching details for video ID: 9Y2E_0zyXyE
+2024-12-21 22:48:02,321 - INFO - Processed video ID: 9Y2E_0zyXyE
+2024-12-21 22:48:02,321 - INFO - Fetching details for video ID: yncBVLhkE98
+2024-12-21 22:48:02,535 - INFO - Processed video ID: yncBVLhkE98
+2024-12-21 22:48:02,535 - INFO - Fetching details for video ID: GGzSId0_qJc
+2024-12-21 22:48:02,811 - INFO - Processed video ID: GGzSId0_qJc
+2024-12-21 22:48:02,811 - INFO - Fetching details for video ID: Mf2zGGSLJQ8
+2024-12-21 22:48:03,003 - INFO - Processed video ID: Mf2zGGSLJQ8
+2024-12-21 22:48:03,003 - INFO - Fetching details for video ID: 8URKgwE1VMM
+2024-12-21 22:48:03,194 - INFO - Processed video ID: 8URKgwE1VMM
+2024-12-21 22:48:03,194 - INFO - Fetching details for video ID: -MfKN_X8O9k
+2024-12-21 22:48:03,583 - INFO - Processed video ID: -MfKN_X8O9k
+2024-12-21 22:48:03,583 - INFO - Fetching details for video ID: xT6xkOkk9Gw
+2024-12-21 22:48:03,776 - INFO - Processed video ID: xT6xkOkk9Gw
+2024-12-21 22:48:03,776 - INFO - Fetching details for video ID: 7gT-4tuXbRA
+2024-12-21 22:48:03,965 - INFO - Processed video ID: 7gT-4tuXbRA
+2024-12-21 22:48:03,965 - INFO - Fetching details for video ID: p_yXae3j4HA
+2024-12-21 22:48:04,156 - INFO - Processed video ID: p_yXae3j4HA
+2024-12-21 22:48:04,157 - INFO - Fetching details for video ID: s6EXrinPiXI
+2024-12-21 22:48:04,348 - INFO - Processed video ID: s6EXrinPiXI
+2024-12-21 22:48:04,348 - INFO - Fetching details for video ID: 80SnPnZkNTI
+2024-12-21 22:48:04,531 - INFO - Processed video ID: 80SnPnZkNTI
+2024-12-21 22:48:04,531 - INFO - Fetching details for video ID: PAWpsyW9Hkk
+2024-12-21 22:48:04,731 - INFO - Processed video ID: PAWpsyW9Hkk
+2024-12-21 22:48:04,731 - INFO - Fetching details for video ID: -4p07AauEWk
+2024-12-21 22:48:04,920 - INFO - Processed video ID: -4p07AauEWk
+2024-12-21 22:48:04,920 - INFO - Fetching details for video ID: lREzXeH4PTc
+2024-12-21 22:48:05,118 - INFO - Processed video ID: lREzXeH4PTc
+2024-12-21 22:48:05,118 - INFO - Fetching details for video ID: 5V9eGkGLBKo
+2024-12-21 22:48:05,304 - INFO - Processed video ID: 5V9eGkGLBKo
+2024-12-21 22:48:05,305 - INFO - Fetching details for video ID: -KCRrU6cTJU
+2024-12-21 22:48:05,490 - INFO - Processed video ID: -KCRrU6cTJU
+2024-12-21 22:48:05,497 - INFO - Fetching details for video ID: f6SxK88jNEU
+2024-12-21 22:48:05,687 - INFO - Processed video ID: f6SxK88jNEU
+2024-12-21 22:48:05,687 - INFO - Fetching details for video ID: f0MtWVRKk4Q
+2024-12-21 22:48:05,878 - INFO - Processed video ID: f0MtWVRKk4Q
+2024-12-21 22:48:05,878 - INFO - Fetching details for video ID: RxNr2SrQv1Y
+2024-12-21 22:48:06,067 - INFO - Processed video ID: RxNr2SrQv1Y
+2024-12-21 22:48:06,067 - INFO - Fetching details for video ID: uBDZZ--86lU
+2024-12-21 22:48:06,260 - INFO - Processed video ID: uBDZZ--86lU
+2024-12-21 22:48:06,261 - INFO - Fetching details for video ID: 1FccMHcIzwY
+2024-12-21 22:48:06,447 - INFO - Processed video ID: 1FccMHcIzwY
+2024-12-21 22:48:06,447 - INFO - Fetching details for video ID: 3jZEn0krL5A
+2024-12-21 22:48:06,638 - INFO - Processed video ID: 3jZEn0krL5A
+2024-12-21 22:48:06,638 - INFO - Fetching details for video ID: MebWf6V9MI4
+2024-12-21 22:48:06,829 - INFO - Processed video ID: MebWf6V9MI4
+2024-12-21 22:48:06,829 - INFO - Fetching details for video ID: 6BIMbAz9Tyc
+2024-12-21 22:48:07,021 - INFO - Processed video ID: 6BIMbAz9Tyc
+2024-12-21 22:48:07,021 - INFO - Fetching details for video ID: 8cLShJJ0DME
+2024-12-21 22:48:07,225 - INFO - Processed video ID: 8cLShJJ0DME
+2024-12-21 22:48:07,225 - INFO - Fetching details for video ID: ynokjzrlBuQ
+2024-12-21 22:48:07,421 - INFO - Processed video ID: ynokjzrlBuQ
+2024-12-21 22:48:07,421 - INFO - Fetching details for video ID: xea6X0VkOL0
+2024-12-21 22:48:07,610 - INFO - Processed video ID: xea6X0VkOL0
+2024-12-21 22:48:07,610 - INFO - Fetching details for video ID: WBxbee-yxQo
+2024-12-21 22:48:07,805 - INFO - Processed video ID: WBxbee-yxQo
+2024-12-21 22:48:07,805 - INFO - Fetching details for video ID: u4ziFkeyQpM
+2024-12-21 22:48:07,991 - INFO - Processed video ID: u4ziFkeyQpM
+2024-12-21 22:48:07,991 - INFO - Fetching details for video ID: 36cHW8PE560
+2024-12-21 22:48:08,174 - INFO - Processed video ID: 36cHW8PE560
+2024-12-21 22:48:08,174 - INFO - Fetching details for video ID: 0NHu6Adkjbo
+2024-12-21 22:48:08,396 - INFO - Processed video ID: 0NHu6Adkjbo
+2024-12-21 22:48:08,396 - INFO - Fetching details for video ID: 7cc2EyNT7BQ
+2024-12-21 22:48:08,587 - INFO - Processed video ID: 7cc2EyNT7BQ
+2024-12-21 22:48:08,587 - INFO - Fetching details for video ID: VJU0VIlHBsw
+2024-12-21 22:48:08,781 - INFO - Processed video ID: VJU0VIlHBsw
+2024-12-21 22:48:08,781 - INFO - Fetching details for video ID: nigbLZVEngE
+2024-12-21 22:48:08,959 - INFO - Processed video ID: nigbLZVEngE
+2024-12-21 22:48:08,970 - INFO - Fetching details for video ID: F7FhWuO3xo4
+2024-12-21 22:48:09,160 - INFO - Processed video ID: F7FhWuO3xo4
+2024-12-21 22:48:09,160 - INFO - Fetching details for video ID: gya7Powe5p8
+2024-12-21 22:48:09,348 - INFO - Processed video ID: gya7Powe5p8
+2024-12-21 22:48:09,348 - INFO - Fetching details for video ID: Kn5zqRbslqI
+2024-12-21 22:48:09,539 - INFO - Processed video ID: Kn5zqRbslqI
+2024-12-21 22:48:09,539 - INFO - Fetching details for video ID: L0T5YX9WHME
+2024-12-21 22:48:09,730 - INFO - Processed video ID: L0T5YX9WHME
+2024-12-21 22:48:09,730 - INFO - Fetching details for video ID: BT2Y3oYKQlQ
+2024-12-21 22:48:09,924 - INFO - Processed video ID: BT2Y3oYKQlQ
+2024-12-21 22:48:09,924 - INFO - Fetching details for video ID: 902HoCO-298
+2024-12-21 22:48:10,117 - INFO - Processed video ID: 902HoCO-298
+2024-12-21 22:48:10,117 - INFO - Fetching details for video ID: zO2XbgFne9k
+2024-12-21 22:48:10,311 - INFO - Processed video ID: zO2XbgFne9k
+2024-12-21 22:48:10,311 - INFO - Fetching details for video ID: 2Prd_PtVfu8
+2024-12-21 22:48:10,504 - INFO - Processed video ID: 2Prd_PtVfu8
+2024-12-21 22:48:10,504 - INFO - Fetching details for video ID: d5EIqk4I_1o
+2024-12-21 22:48:10,687 - INFO - Processed video ID: d5EIqk4I_1o
+2024-12-21 22:48:10,687 - INFO - Fetching details for video ID: srbsIxklIz8
+2024-12-21 22:48:10,882 - INFO - Processed video ID: srbsIxklIz8
+2024-12-21 22:48:10,882 - INFO - Fetching details for video ID: ka6a80doMpo
+2024-12-21 22:48:11,075 - INFO - Processed video ID: ka6a80doMpo
+2024-12-21 22:48:11,075 - INFO - Fetching details for video ID: W4R00hnEXHg
+2024-12-21 22:48:11,248 - INFO - Processed video ID: W4R00hnEXHg
+2024-12-21 22:48:11,248 - INFO - Fetching details for video ID: SqLNDxbh1sM
+2024-12-21 22:48:11,444 - INFO - Processed video ID: SqLNDxbh1sM
+2024-12-21 22:48:11,444 - INFO - Fetching details for video ID: 27YugsH1WPM
+2024-12-21 22:48:11,650 - INFO - Processed video ID: 27YugsH1WPM
+2024-12-21 22:48:11,650 - INFO - Fetching details for video ID: FGMH4Xh_DF8
+2024-12-21 22:48:11,864 - INFO - Processed video ID: FGMH4Xh_DF8
+2024-12-21 22:48:11,864 - INFO - Fetching details for video ID: g464Dt1v3Wo
+2024-12-21 22:48:12,054 - INFO - Processed video ID: g464Dt1v3Wo
+2024-12-21 22:48:12,054 - INFO - Fetching details for video ID: XrmbxaZmEb4
+2024-12-21 22:48:12,252 - INFO - Processed video ID: XrmbxaZmEb4
+2024-12-21 22:48:12,252 - INFO - Fetching details for video ID: b-XZtmVhN4U
+2024-12-21 22:48:12,439 - INFO - Processed video ID: b-XZtmVhN4U
+2024-12-21 22:48:12,439 - INFO - Fetching details for video ID: yL-h9VegAlA
+2024-12-21 22:48:12,631 - INFO - Processed video ID: yL-h9VegAlA
+2024-12-21 22:48:12,631 - INFO - Fetching details for video ID: 1gVtfDxXDSg
+2024-12-21 22:48:12,829 - INFO - Processed video ID: 1gVtfDxXDSg
+2024-12-21 22:48:12,829 - INFO - Fetching details for video ID: CsXfpgSoT2k
+2024-12-21 22:48:13,011 - INFO - Processed video ID: CsXfpgSoT2k
+2024-12-21 22:48:13,011 - INFO - Fetching details for video ID: 5cA_O5JkjWk
+2024-12-21 22:48:13,216 - INFO - Processed video ID: 5cA_O5JkjWk
+2024-12-21 22:48:13,216 - INFO - Fetching details for video ID: IeE-9jUEaio
+2024-12-21 22:48:13,415 - INFO - Processed video ID: IeE-9jUEaio
+2024-12-21 22:48:13,416 - INFO - Fetching details for video ID: OEzRr_L4kYc
+2024-12-21 22:48:13,598 - INFO - Processed video ID: OEzRr_L4kYc
+2024-12-21 22:48:13,598 - INFO - Fetching details for video ID: DJ3A47PGdhc
+2024-12-21 22:48:13,792 - INFO - Processed video ID: DJ3A47PGdhc
+2024-12-21 22:48:13,792 - INFO - Fetching details for video ID: U_u8MzNZ7TA
+2024-12-21 22:48:14,005 - INFO - Processed video ID: U_u8MzNZ7TA
+2024-12-21 22:48:14,005 - INFO - Fetching details for video ID: 7yKouVc8BUI
+2024-12-21 22:48:14,201 - INFO - Processed video ID: 7yKouVc8BUI
+2024-12-21 22:48:14,201 - INFO - Fetching details for video ID: 9SWtJ87RrhE
+2024-12-21 22:48:14,396 - INFO - Processed video ID: 9SWtJ87RrhE
+2024-12-21 22:48:14,396 - INFO - Fetching details for video ID: CsCNuZDd3xY
+2024-12-21 22:48:14,586 - INFO - Processed video ID: CsCNuZDd3xY
+2024-12-21 22:48:14,586 - INFO - Fetching details for video ID: wdYkXct5MU4
+2024-12-21 22:48:14,776 - INFO - Processed video ID: wdYkXct5MU4
+2024-12-21 22:48:14,777 - INFO - Fetching details for video ID: 32oOlaENKfU
+2024-12-21 22:48:14,971 - INFO - Processed video ID: 32oOlaENKfU
+2024-12-21 22:48:14,971 - INFO - Fetching details for video ID: jTkRzN7ggME
+2024-12-21 22:48:15,162 - INFO - Processed video ID: jTkRzN7ggME
+2024-12-21 22:48:15,162 - INFO - Fetching details for video ID: tcq5zSF2AgI
+2024-12-21 22:48:15,368 - INFO - Processed video ID: tcq5zSF2AgI
+2024-12-21 22:48:15,368 - INFO - Fetching details for video ID: mSIRvGymtHU
+2024-12-21 22:48:15,548 - INFO - Processed video ID: mSIRvGymtHU
+2024-12-21 22:48:15,548 - INFO - Fetching details for video ID: CgQTR_zzhAI
+2024-12-21 22:48:15,748 - INFO - Processed video ID: CgQTR_zzhAI
+2024-12-21 22:48:15,748 - INFO - Fetching details for video ID: wU9k5jlblls
+2024-12-21 22:48:15,938 - INFO - Processed video ID: wU9k5jlblls
+2024-12-21 22:48:15,938 - INFO - Fetching details for video ID: S4xqBumaPng
+2024-12-21 22:48:16,127 - INFO - Processed video ID: S4xqBumaPng
+2024-12-21 22:48:16,127 - INFO - Fetching details for video ID: oSo6ZwrUAWg
+2024-12-21 22:48:16,314 - INFO - Processed video ID: oSo6ZwrUAWg
+2024-12-21 22:48:16,314 - INFO - Fetching details for video ID: yEVuK1jYeUo
+2024-12-21 22:48:16,511 - INFO - Processed video ID: yEVuK1jYeUo
+2024-12-21 22:48:16,511 - INFO - Fetching details for video ID: 06ZrEgak5ig
+2024-12-21 22:48:16,700 - INFO - Processed video ID: 06ZrEgak5ig
+2024-12-21 22:48:16,700 - INFO - Fetching details for video ID: _9ihzdv200U
+2024-12-21 22:48:16,883 - INFO - Processed video ID: _9ihzdv200U
+2024-12-21 22:48:16,883 - INFO - Fetching details for video ID: aKzsXx3LcgU
+2024-12-21 22:48:17,080 - INFO - Processed video ID: aKzsXx3LcgU
+2024-12-21 22:48:17,080 - INFO - Fetching details for video ID: FJ34XrBr_6I
+2024-12-21 22:48:17,273 - INFO - Processed video ID: FJ34XrBr_6I
+2024-12-21 22:48:17,273 - INFO - Fetching details for video ID: aw7fKB_8xWs
+2024-12-21 22:48:17,458 - INFO - Processed video ID: aw7fKB_8xWs
+2024-12-21 22:48:17,458 - INFO - Fetching details for video ID: db_2mujPXjk
+2024-12-21 22:48:17,656 - INFO - Processed video ID: db_2mujPXjk
+2024-12-21 22:48:17,656 - INFO - Fetching details for video ID: k0cLkLdZRww
+2024-12-21 22:48:17,854 - INFO - Processed video ID: k0cLkLdZRww
+2024-12-21 22:48:17,854 - INFO - Fetching details for video ID: xX0Gzqr8jow
+2024-12-21 22:48:18,044 - INFO - Processed video ID: xX0Gzqr8jow
+2024-12-21 22:48:18,044 - INFO - Fetching details for video ID: wzGUZwIjUTE
+2024-12-21 22:48:18,225 - INFO - Processed video ID: wzGUZwIjUTE
+2024-12-21 22:48:18,225 - INFO - Fetching details for video ID: hh68DpcWtvA
+2024-12-21 22:48:18,431 - INFO - Processed video ID: hh68DpcWtvA
+2024-12-21 22:48:18,432 - INFO - Fetching details for video ID: DwnaiIY0DsI
+2024-12-21 22:48:18,619 - INFO - Processed video ID: DwnaiIY0DsI
+2024-12-21 22:48:18,619 - INFO - Fetching details for video ID: H_g3PZcps0A
+2024-12-21 22:48:18,806 - INFO - Processed video ID: H_g3PZcps0A
+2024-12-21 22:48:18,806 - INFO - Fetching details for video ID: mAPbxRFeb64
+2024-12-21 22:48:18,998 - INFO - Processed video ID: mAPbxRFeb64
+2024-12-21 22:48:18,998 - INFO - Fetching details for video ID: 1uhWOm1GWw0
+2024-12-21 22:48:19,192 - INFO - Processed video ID: 1uhWOm1GWw0
+2024-12-21 22:48:19,192 - INFO - Fetching details for video ID: j620aYsx5Qw
+2024-12-21 22:48:19,381 - INFO - Processed video ID: j620aYsx5Qw
+2024-12-21 22:48:19,381 - INFO - Fetching details for video ID: wBsrDySVfq4
+2024-12-21 22:48:19,571 - INFO - Processed video ID: wBsrDySVfq4
+2024-12-21 22:48:19,571 - INFO - Fetching details for video ID: e_DysoKuewE
+2024-12-21 22:48:19,764 - INFO - Processed video ID: e_DysoKuewE
+2024-12-21 22:48:19,764 - INFO - Fetching details for video ID: xMDAU1WB5JQ
+2024-12-21 22:48:19,954 - INFO - Processed video ID: xMDAU1WB5JQ
+2024-12-21 22:48:19,966 - INFO - Data saved to Movies.csv
