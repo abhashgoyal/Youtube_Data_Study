@@ -1,45 +1,8 @@
-# import pandas as pd
-# from youtube_transcript_api import YouTubeTranscriptApi, TranscriptsDisabled, NoTranscriptFound
-
-# def get_captions(video_id):
-    
-#     ## Handeling the error
-#     try:
-#         transcript = YouTubeTranscriptApi.get_transcript(video_id)
-#         caption_text = " ".join([entry['text'] for entry in transcript])
-#         return True, caption_text
-#     except TranscriptsDisabled:
-#         return False, "No captions Availble  :()"
-#     except NoTranscriptFound:
-#         return False, "No transcript availablr :()"
-
-# def main():
-#     df = pd.read_csv(r'Movies.csv')
-#     captions_data = []
-
-#     for index, row in df.iterrows():
-#         video_id = row['Video URL'].split('v=')[-1]  
-#         captions_available, caption_text = get_captions(video_id)
-#         captions_data.append({
-#             'Video URL': row['Video URL'],
-#             'Title': row['Title'],
-#             'Captions Available': 'Yes' if captions_available else 'No',
-#             'Caption Text': caption_text
-#         })
-
-#     captions_df = pd.DataFrame(captions_data)
-
-#     captions_df.to_csv('Movies_captions.csv', index=False)
-#     print("Captions data saved to Science.csv")
-
-# if __name__ == "__main__":
-#     main()
-
 import pandas as pd
 from youtube_transcript_api import YouTubeTranscriptApi, TranscriptsDisabled, NoTranscriptFound
 import logging
 
-# Configure logging
+
 logging.basicConfig(
     filename="youtube_captions.log",
     level=logging.INFO,
